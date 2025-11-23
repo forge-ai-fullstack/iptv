@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-23 14:49:41,http://bxtv.3a.ink/migu.php?id=608807420
+2025-11-23 14:58:41,http://bxtv.3a.ink/migu.php?id=608807420
 
 央视,#genre#
 CCTV1,http://bxtv.3a.ink/migu.php?id=608807420
@@ -9,10 +9,9 @@ CCTV2,http://jiugong.wulinsy.cn:39901/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV3,http://bxtv.3a.ink/migu.php?id=624878271
 CCTV4,http://bxtv.3a.ink/migu.php?id=631780421
 CCTV4,http://jiugong.wulinsy.cn:39901/tsfile/live/0004_1.m3u8?key=txiptv
-CCTV5,http://bxtv.3a.ink/migu.php?id=641886683
 CCTV5,http://jiugong.wulinsy.cn:39901/tsfile/live/0005_1.m3u8?key=txiptv
+CCTV5,http://bxtv.3a.ink/migu.php?id=641886683
 CCTV5+,http://bxtv.3a.ink/migu.php?id=641886773
-CCTV5+,http://jiugong.wulinsy.cn:39901/tsfile/live/0016_2.m3u8?key=txiptv
 CCTV6,http://bxtv.3a.ink/migu.php?id=624878396
 CCTV6,http://jiugong.wulinsy.cn:39901/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV7,http://bxtv.3a.ink/migu.php?id=673168121
@@ -22,13 +21,11 @@ CCTV8,http://jiugong.wulinsy.cn:39901/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV9,http://bxtv.3a.ink/migu.php?id=673168140
 CCTV9,http://jiugong.wulinsy.cn:39901/tsfile/live/0009_1.m3u8?key=txiptv
 CCTV10,http://bxtv.3a.ink/migu.php?id=624878405
-CCTV10,http://jiugong.wulinsy.cn:39901/tsfile/live/0010_1.m3u8?key=txiptv
 CCTV11,http://bxtv.3a.ink/migu.php?id=667987558
-CCTV11,http://jiugong.wulinsy.cn:39901/tsfile/live/0011_1.m3u8?key=txiptv
 CCTV12,http://bxtv.3a.ink/migu.php?id=673168185
 CCTV12,http://jiugong.wulinsy.cn:39901/tsfile/live/0012_1.m3u8?key=txiptv
-CCTV13,http://bxtv.3a.ink/migu.php?id=608807423
 CCTV13,http://jiugong.wulinsy.cn:39901/tsfile/live/0013_1.m3u8?key=txiptv
+CCTV13,http://bxtv.3a.ink/migu.php?id=608807423
 CCTV14,http://bxtv.3a.ink/migu.php?id=624878440
 CCTV14,http://jiugong.wulinsy.cn:39901/tsfile/live/0014_1.m3u8?key=txiptv
 CCTV15,http://bxtv.3a.ink/migu.php?id=673168223
@@ -52,9 +49,9 @@ CHC家庭影院,http://bxtv.3a.ink/migu.php?id=644368373
 甘肃卫视,http://118.193.105.26:9901/tsfile/live/0141_1.m3u8?key=txiptv
 贵州卫视,http://jiugong.wulinsy.cn:39901/tsfile/live/0120_1.m3u8?key=txiptv
 贵州卫视,http://101.74.29.127:9901/tsfile/live/0120_1.m3u8?key=txiptv
-贵州卫视,http://118.193.105.26:9901/tsfile/live/0120_1.m3u8?key=txiptv
-贵州卫视,http://123.113.110.212:9901/tsfile/live/0120_1.m3u8?key=txiptv
 河北卫视,http://101.74.29.127:9901/tsfile/live/0117_1.m3u8?key=txiptv
+河北卫视,http://118.193.105.26:9901/tsfile/live/0117_1.m3u8?key=txiptv
+河北卫视,http://zhuoyue.sihanlin.top:9901/tsfile/live/0117_1.m3u8?key=txiptv
 河南卫视,http://jiugong.wulinsy.cn:39901/tsfile/live/0139_1.m3u8?key=txiptv
 黑龙江卫视,http://jiugong.wulinsy.cn:39901/tsfile/live/0143_1.m3u8?key=txiptv
 湖北卫视,http://bxtv.3a.ink/migu.php?id=947472496
@@ -64,14 +61,9 @@ CHC家庭影院,http://bxtv.3a.ink/migu.php?id=644368373
 深圳卫视,http://jiugong.wulinsy.cn:39901/tsfile/live/0126_1.m3u8?key=txiptv
 天津卫视,http://jiugong.wulinsy.cn:39901/tsfile/live/0135_1.m3u8?key=txiptv
 天津卫视,http://101.74.29.127:9901/tsfile/live/0135_1.m3u8?key=txiptv
-天津卫视,http://118.193.105.26:9901/tsfile/live/0135_1.m3u8?key=txiptv
-天津卫视,http://123.113.110.212:9901/tsfile/live/0135_1.m3u8?key=txiptv
-天津卫视,http://zhuoyue.sihanlin.top:9901/tsfile/live/0135_1.m3u8?key=txiptv
 新疆卫视,http://118.193.105.26:9901/tsfile/live/0110_1.m3u8?key=txiptv
 云南卫视,http://zhuoyue.sihanlin.top:9901/tsfile/live/0119_1.m3u8?key=txiptv
 重庆卫视,http://101.74.29.127:9901/tsfile/live/0142_1.m3u8?key=txiptv
-重庆卫视,http://118.193.105.26:9901/tsfile/live/0142_1.m3u8?key=txiptv
-重庆卫视,http://zhuoyue.sihanlin.top:9901/tsfile/live/0142_1.m3u8?key=txiptv
 
 地方,#genre#
 北京卡酷少儿,http://jiugong.wulinsy.cn:39901/tsfile/live/1013_1.m3u8?key=txiptv
