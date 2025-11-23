@@ -1,9 +1,15 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
-https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
-https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
-https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+https://raw.githubusercontent.com/judy-gotv/iptv/main/4gtv.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/main/ofiii.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/main/litv.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/main/MytvSuper-Ts.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/main/MytvSuper.m3u"
+https://raw.githubusercontent.com/judy-gotv/iptv/main/beesports.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/main/logo-smart.m3u
+https://raw.githubusercontent.com/judy-gotv/iptv/main/smart.m3u
+https://tmxk.pp.ua/smart-cn.m3u
+https://tmxk.pp.ua/iptv-cn.m3u
+https://live.catvod.com/tv.m3u
