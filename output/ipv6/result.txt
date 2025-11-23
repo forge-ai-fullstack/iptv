@@ -1,9 +1,84 @@
 🕘️更新时间,#genre#
-2025-11-23 13:57:56,http://gslbmgsplive.miguvideo.com/migu/kailu/zgtq/51/20251103/index.m3u8?msisdn=2025112310005597a667cb750a4280bd42d9b2ad67f506&mdspid=&spid=600697&netType=0&sid=5910022296&pid=2028597139&timestamp=20251123100055&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=959986621&ParentNodeID=-99&assertID=5910022296&client_ip=106.13.250.90&SecurityKey=20251123100055&promotionId=&mvid=5900006772&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=e9377e55f2adafd1fb64119d1bc1a6a4&ddCalcu=4ea9e632a79170ceb515df921a1d4a6fbdf1
+2025-11-23 14:10:26,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=2025112312003424a7052d8f07486f89a64a86bb96984f&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20251123120034&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.89&SecurityKey=20251123120034&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=4b8f36f7ce446a707ddc3c40af609ef0&ddCalcu=04fbee829f803066ffa70c4ec434c6dad770
 
 央视,#genre#
+CCTV1,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=2025112312003424a7052d8f07486f89a64a86bb96984f&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20251123120034&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.89&SecurityKey=20251123120034&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=4b8f36f7ce446a707ddc3c40af609ef0&ddCalcu=04fbee829f803066ffa70c4ec434c6dad770
+CCTV1,https://smt.passwdword.xyz/Smart.php?id=cctv1
+CCTV1,https://tzh911.qzz.io/play-smt.php?id=cctv1
+CCTV1,https://smart.dxjc.pp.ua/smt.php?id=cctv1
+CCTV2,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/1500/index.m3u8?msisdn=20251123120034cdc60b57156a4f9c84a58deb3d76a7f3&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20251123120034&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=106.13.250.89&SecurityKey=20251123120034&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=ec2563320ce52df7a2171469f8b2def2&ddCalcu=2efcee22d51260b383f2906c4e15721d2fa7
+CCTV2,https://smt.passwdword.xyz/Smart.php?id=cctv2
+CCTV2,https://tzh911.qzz.io/play-smt.php?id=cctv2
+CCTV2,https://smart.dxjc.pp.ua/smt.php?id=cctv2
+CCTV3,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=202511231200349d475c1e0cbb40fbb81fa0e216864e3d&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20251123120034&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=106.13.250.89&SecurityKey=20251123120034&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=42d796350859c1c147739767758c1574&ddCalcu=4472e5d2174c90865375706875993c717c41
+CCTV3,https://smt.passwdword.xyz/Smart.php?id=cctv3
+CCTV3,https://tzh911.qzz.io/play-smt.php?id=cctv3
+CCTV3,https://smart.dxjc.pp.ua/smt.php?id=cctv3
+CCTV4,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/1500/index.m3u8?msisdn=2025112312003458d55f7b279a417ab709056069ef50b8&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20251123120034&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=106.13.250.89&SecurityKey=20251123120034&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=618566dcfb1cefa27ebe3dd50d37794f&ddCalcu=f641e98275176036dd0c5fdbd13ceebfea72
+CCTV4,https://smt.passwdword.xyz/Smart.php?id=Cctv4
+CCTV4,https://smt.passwdword.xyz/Smart.php?id=cctv4
+CCTV4,https://tzh911.qzz.io/play-smt.php?id=Cctv4
+CCTV4,https://tzh911.qzz.io/play-smt.php?id=cctv4
+CCTV4,https://smart.dxjc.pp.ua/smt.php?id=cctv4
+CCTV4,https://smart.dxjc.pp.ua/smt.php?id=Cctv4
+CCTV5,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=2025112312003581ce66c974b64ba08de34a07506c1817&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20251123120035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=106.13.250.89&SecurityKey=20251123120035&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=bc66c17e079735b1b00845f7e9566a80&ddCalcu=0b8cea626616c05197ee70f7594783050bb1
+CCTV5,https://smt.passwdword.xyz/Smart.php?id=cctv5
+CCTV5,https://smt.passwdword.xyz/Smart.php?id=cctv5plus
+CCTV5,https://tzh911.qzz.io/play-smt.php?id=cctv5
+CCTV5,https://tzh911.qzz.io/play-smt.php?id=cctv5plus
+CCTV5,https://smart.dxjc.pp.ua/smt.php?id=cctv5
+CCTV5,https://smart.dxjc.pp.ua/smt.php?id=cctv5plus
+CCTV5+,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=20251123120035c933de32b10742dcab8fe9b926cd5ace&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20251123120035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=106.13.250.89&SecurityKey=20251123120035&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=58bd02840671ffb7aa154925be383501&ddCalcu=1508e5b23d180032e8b4502697415f1faba7
+CCTV6,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?msisdn=20251123120035a46089b4cfe1426d91a6ed8fde044c5b&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20251123120035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=106.13.250.89&SecurityKey=20251123120035&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a2035a0ede54bc754515afc128f1a173&ddCalcu=3a72e102a34150fa802e1dcef5a45b1c5745
+CCTV6,https://smt.passwdword.xyz/Smart.php?id=cctv6
+CCTV6,https://tzh911.qzz.io/play-smt.php?id=cctv6
+CCTV6,https://smart.dxjc.pp.ua/smt.php?id=cctv6
+CCTV7,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/51/index.m3u8?msisdn=202511231200353bb38b7f2d30497c9ba794687010bc39&mdspid=&spid=699004&netType=0&sid=5501083622&pid=2028597139&timestamp=20251123120035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=106.13.250.89&SecurityKey=20251123120035&promotionId=&mvid=5102910278&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=b4ff866833213db45f9aee22b846fdf4&ddCalcu=4bf4edf2ff36804686b82323e2e1a39dfb54
+CCTV7,https://smt.passwdword.xyz/Smart.php?id=cctv7
+CCTV7,https://tzh911.qzz.io/play-smt.php?id=cctv7
+CCTV7,https://smart.dxjc.pp.ua/smt.php?id=cctv7
+CCTV8,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?msisdn=202511231200350f3aae7ef3174129b16366a36fd0389f&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20251123120035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=106.13.250.89&SecurityKey=20251123120035&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=33ba5160975c57b83ececee6cced2549&ddCalcu=9343e5b22a4d50e1c6c069e7e5cce5c7eb38
+CCTV8,https://smt.passwdword.xyz/Smart.php?id=cctv8hd
+CCTV8,https://tzh911.qzz.io/play-smt.php?id=cctv8hd
+CCTV8,https://smart.dxjc.pp.ua/smt.php?id=cctv8hd
+CCTV9,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/51/index.m3u8?msisdn=20251123120035def7f70a7cc347d589cf2079cd0023bd&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20251123120035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=106.13.250.89&SecurityKey=20251123120035&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=77e1748757249333dcbe5baceaf5cd2a&ddCalcu=a727ede2c13570f4a8e7c5a7b254e9b3c3d3
+CCTV9,https://smt.passwdword.xyz/Smart.php?id=cctv9hd
+CCTV9,https://tzh911.qzz.io/play-smt.php?id=cctv9hd
+CCTV9,https://smart.dxjc.pp.ua/smt.php?id=cctv9hd
+CCTV10,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?msisdn=202511231200351eaf9701f2104a36a0cd3a145f2aeac5&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20251123120035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=106.13.250.89&SecurityKey=20251123120035&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=7f6d6fe5e799ef62f3babad689aaf6f4&ddCalcu=47ffe662fd4a60af9e856ed7a9b9aebf36f2
+CCTV10,https://smt.passwdword.xyz/Smart.php?id=cctv10hd
+CCTV10,https://tzh911.qzz.io/play-smt.php?id=cctv10hd
+CCTV10,https://smart.dxjc.pp.ua/smt.php?id=cctv10hd
+CCTV11,http://gslbmgsplive.miguvideo.com/migu/kailu/cctv11hd/51/20200103/index.m3u8?msisdn=20251123120035afb6e779e35a4f499a7ae5372871be0a&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20251123120035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=106.13.250.89&SecurityKey=20251123120035&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=0c16dede8fce85fe78d96899ea5746f9&ddCalcu=90fce6124677d05eadee989f8c6e98d58f7e
+CCTV11,https://smt.passwdword.xyz/Smart.php?id=cctv11
+CCTV11,https://tzh911.qzz.io/play-smt.php?id=cctv11
+CCTV11,https://smart.dxjc.pp.ua/smt.php?id=cctv11
+CCTV12,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/51/index.m3u8?msisdn=202511231200356ccf55699447443f9e383d6791b19ad5&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20251123120035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=106.13.250.89&SecurityKey=20251123120035&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=badedae98ceef5efb341eea3765f4181&ddCalcu=1b8ae1d24e3fd05a6e7938aceeee1f453ebf
+CCTV12,https://smt.passwdword.xyz/Smart.php?id=cctv12
+CCTV12,https://tzh911.qzz.io/play-smt.php?id=cctv12
+CCTV12,https://smart.dxjc.pp.ua/smt.php?id=cctv12
+CCTV13,http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=2025112312003664f54697c2ea460995d67b7c61a89796&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20251123120036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=106.13.250.89&SecurityKey=20251123120036&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=17199462626f40e49b76450ee0801dc0&ddCalcu=01c7ed121980908406e2e602564f6470be94
+CCTV13,https://smt.passwdword.xyz/Smart.php?id=cctv13
+CCTV13,https://tzh911.qzz.io/play-smt.php?id=cctv13
+CCTV13,https://smart.dxjc.pp.ua/smt.php?id=cctv13
+CCTV14,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?msisdn=202511231200362de5c8d468864c9eae9f2ce830765345&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20251123120036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=106.13.250.89&SecurityKey=20251123120036&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=0fefd124cd619ebdf7f21977cc5a9825&ddCalcu=502fe8e29f4ad051c2c47c7d961129fe7bfd
+CCTV14,https://smt.passwdword.xyz/Smart.php?id=cctv14
+CCTV14,https://tzh911.qzz.io/play-smt.php?id=cctv14
+CCTV14,https://smart.dxjc.pp.ua/smt.php?id=cctv14
+CCTV15,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/51/index.m3u8?msisdn=20251123120036353ae43d68704a818ceb41384b47c212&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20251123120036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=106.13.250.89&SecurityKey=20251123120036&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=96701e66e28d4546329b1640f43488c0&ddCalcu=09c6e8728034103e46f60e42681db4952436
+CCTV15,https://smt.passwdword.xyz/Smart.php?id=cctv15
+CCTV15,https://tzh911.qzz.io/play-smt.php?id=cctv15
+CCTV15,https://smart.dxjc.pp.ua/smt.php?id=cctv15
+CCTV16,https://smt.passwdword.xyz/Smart.php?id=cctv16
+CCTV16,https://tzh911.qzz.io/play-smt.php?id=cctv16
+CCTV17,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=2025112312003647ab304e75f040bfa4b4dc2092fc930e&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20251123120036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=106.13.250.89&SecurityKey=20251123120036&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=b76fb1fee1d8d5f0e13dbb8b7ba5a1c0&ddCalcu=0bc7e162af35b0a1bf7ebe81bdb8dd351fe0
+CCTV17,https://smt.passwdword.xyz/Smart.php?id=cctv17
+CCTV17,https://tzh911.qzz.io/play-smt.php?id=cctv17
 中国天气,http://gslbmgsplive.miguvideo.com/migu/kailu/zgtq/51/20251103/index.m3u8?msisdn=2025112310005597a667cb750a4280bd42d9b2ad67f506&mdspid=&spid=600697&netType=0&sid=5910022296&pid=2028597139&timestamp=20251123100055&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=959986621&ParentNodeID=-99&assertID=5910022296&client_ip=106.13.250.90&SecurityKey=20251123100055&promotionId=&mvid=5900006772&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=e9377e55f2adafd1fb64119d1bc1a6a4&ddCalcu=4ea9e632a79170ceb515df921a1d4a6fbdf1
 中国天气,http://gslbmgsplive.miguvideo.com/migu/kailu/zgtq/51/20251103/index.m3u8?msisdn=2025112312004329b9047caf7943678c62bf5a707605d4&mdspid=&spid=600697&netType=0&sid=5910022296&pid=2028597139&timestamp=20251123120043&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=959986621&ParentNodeID=-99&assertID=5910022296&client_ip=106.13.250.89&SecurityKey=20251123120043&promotionId=&mvid=5900006772&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=2b31f2a89b3a2b71c477f7a625bbbfca&ddCalcu=a2cbef32b19bf0b25a2869ab73fa727b47c1
+CETV1,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv1/51/20240709/index.m3u8?msisdn=20251123120043b9358f616eb3497b881bf4fbce816e0a&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139&timestamp=20251123120043&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=106.13.250.89&SecurityKey=20251123120043&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=06e43e030d024d3aa5145899341c5336&ddCalcu=6036e3e2543c301e4033909d8052441d53aa
+CETV2,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/51/20240709/index.m3u8?msisdn=20251123120043757f85a6fe234d52a12b8b6ef94c2b64&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20251123120043&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=106.13.250.89&SecurityKey=20251123120043&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d440e99fd4d373e1eed0716a7dad36b4&ddCalcu=4db4e642303de0a9d97fad641d7307d3eee1
+CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=20251123120043ea12d85a986d489ab05b7fd9236dda85&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20251123120043&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=106.13.250.89&SecurityKey=20251123120043&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c192c6b15f8ba2cd3586438c24734359&ddCalcu=9c51e3924233c0764b21c58f384b6a825c3d
 CGTN,http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctvnews/1000/index.m3u8?msisdn=202511230800483b519b8f9756476e9ec1242e8b6cd5eb&mdspid=&spid=699004&netType=0&sid=2202196407&pid=2028597139&timestamp=20251123080048&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609017205&ParentNodeID=-99&assertID=2202196407&client_ip=106.13.250.88&SecurityKey=20251123080048&promotionId=&mvid=2202196407&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=3fbfcdcc543fc02d51a8f6dbc14b9f38&ddCalcu=833fefb29f9bc04d1cccb5d463ff8ca0125d
 CGTN,https://smt.passwdword.xyz/Smart.php?id=CGTN
 CGTN,https://tzh911.qzz.io/play-smt.php?id=CGTN
@@ -587,6 +662,10 @@ Ria-3,https://smt.passwdword.xyz/Smart.php?id=Ria_backup
 Ria-3,https://tzh911.qzz.io/play-smt.php?id=Ria_backup
 Rock Actions,https://smt.passwdword.xyz/Smart.php?id=Rockaction
 Rock Actions,https://tzh911.qzz.io/play-smt.php?id=Rockaction
+RTHK 33,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=2025112312003424a7052d8f07486f89a64a86bb96984f&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20251123120034&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.89&SecurityKey=20251123120034&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=4b8f36f7ce446a707ddc3c40af609ef0&ddCalcu=04fbee829f803066ffa70c4ec434c6dad770
+RTHK 33,https://smt.passwdword.xyz/Smart.php?id=cctv1
+RTHK 33,https://tzh911.qzz.io/play-smt.php?id=cctv1
+RTHK 33,https://smart.dxjc.pp.ua/smt.php?id=cctv1
 RTM Asean,https://smt.passwdword.xyz/Smart.php?id=Rtmasean
 RTM Asean,https://tzh911.qzz.io/play-smt.php?id=Rtmasean
 RTV,https://smt.passwdword.xyz/Smart.php?id=Rtv
