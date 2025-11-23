@@ -1,17 +1,17 @@
 🕘️更新时间,#genre#
-2025-11-23 17:32:58,http://jiugong.wulinsy.cn:39901/tsfile/live/0001_1.m3u8?key=txiptv
+2025-11-23 17:45:45,http://bxtv.3a.ink/migu.php?id=608807420
 
 央视,#genre#
-CCTV1,http://jiugong.wulinsy.cn:39901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV1,http://bxtv.3a.ink/migu.php?id=608807420
+CCTV1,http://jiugong.wulinsy.cn:39901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV2,http://bxtv.3a.ink/migu.php?id=631780532
 CCTV3,http://bxtv.3a.ink/migu.php?id=624878271
 CCTV4,http://bxtv.3a.ink/migu.php?id=631780421
 CCTV4,http://jiugong.wulinsy.cn:39901/tsfile/live/0004_1.m3u8?key=txiptv
 CCTV5,http://bxtv.3a.ink/migu.php?id=641886683
 CCTV5+,http://bxtv.3a.ink/migu.php?id=641886773
-CCTV6,http://jiugong.wulinsy.cn:39901/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV6,http://bxtv.3a.ink/migu.php?id=624878396
+CCTV6,http://jiugong.wulinsy.cn:39901/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV7,http://bxtv.3a.ink/migu.php?id=673168121
 CCTV7,http://jiugong.wulinsy.cn:39901/tsfile/live/0007_1.m3u8?key=txiptv
 CCTV8,http://bxtv.3a.ink/migu.php?id=624878356
@@ -44,8 +44,6 @@ CHC家庭影院,http://bxtv.3a.ink/migu.php?id=644368373
 甘肃卫视,http://118.193.105.26:9901/tsfile/live/0141_1.m3u8?key=txiptv
 贵州卫视,http://jiugong.wulinsy.cn:39901/tsfile/live/0120_1.m3u8?key=txiptv
 河北卫视,http://101.74.29.127:9901/tsfile/live/0117_1.m3u8?key=txiptv
-河北卫视,http://zhuoyue.sihanlin.top:9901/tsfile/live/0117_1.m3u8?key=txiptv
-河北卫视,http://118.193.105.26:9901/tsfile/live/0117_1.m3u8?key=txiptv
 河南卫视,http://jiugong.wulinsy.cn:39901/tsfile/live/0139_1.m3u8?key=txiptv
 黑龙江卫视,http://jiugong.wulinsy.cn:39901/tsfile/live/0143_1.m3u8?key=txiptv
 湖北卫视,http://bxtv.3a.ink/migu.php?id=947472496
@@ -56,8 +54,8 @@ CHC家庭影院,http://bxtv.3a.ink/migu.php?id=644368373
 新疆卫视,http://118.193.105.26:9901/tsfile/live/0110_1.m3u8?key=txiptv
 云南卫视,http://zhuoyue.sihanlin.top:9901/tsfile/live/0119_1.m3u8?key=txiptv
 重庆卫视,http://101.74.29.127:9901/tsfile/live/0142_1.m3u8?key=txiptv
-重庆卫视,http://zhuoyue.sihanlin.top:9901/tsfile/live/0142_1.m3u8?key=txiptv
 重庆卫视,http://118.193.105.26:9901/tsfile/live/0142_1.m3u8?key=txiptv
+重庆卫视,http://zhuoyue.sihanlin.top:9901/tsfile/live/0142_1.m3u8?key=txiptv
 
 地方,#genre#
 北京卡酷少儿,http://jiugong.wulinsy.cn:39901/tsfile/live/1013_1.m3u8?key=txiptv
