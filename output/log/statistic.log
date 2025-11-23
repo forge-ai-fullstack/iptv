@@ -1,412 +1,392 @@
-Category: 央视, Name: CCTV-1, Total: 10, Valid: 6, Valid Percent: 60.00%, Whitelist: 0, IPv4: 6, IPv6: 4, Min Delay: 2607 ms, Max Speed: 1.83 M/s, Avg Speed: 0.68 M/s, Max Resolution: 1920x1080
-Category: 央视, Name: CCTV-2, Total: 10, Valid: 6, Valid Percent: 60.00%, Whitelist: 0, IPv4: 6, IPv6: 4, Min Delay: 3035 ms, Max Speed: 1.81 M/s, Avg Speed: 0.69 M/s, Max Resolution: 1920x1080
-Category: 央视, Name: CCTV-3, Total: 10, Valid: 6, Valid Percent: 60.00%, Whitelist: 0, IPv4: 6, IPv6: 4, Min Delay: 3074 ms, Max Speed: 1.72 M/s, Avg Speed: 0.65 M/s, Max Resolution: 1920x1080
-Category: 央视, Name: CCTV-4, Total: 13, Valid: 6, Valid Percent: 46.15%, Whitelist: 0, IPv4: 6, IPv6: 7, Min Delay: 2653 ms, Max Speed: 2.28 M/s, Avg Speed: 0.86 M/s, Max Resolution: 1920x1080
-Category: 央视, Name: CCTV-5, Total: 13, Valid: 6, Valid Percent: 46.15%, Whitelist: 0, IPv4: 6, IPv6: 7, Min Delay: 2187 ms, Max Speed: 1.83 M/s, Avg Speed: 0.64 M/s, Max Resolution: 1920x1080
-Category: 央视, Name: CCTV-5+, Total: 5, Valid: 4, Valid Percent: 80.00%, Whitelist: 0, IPv4: 4, IPv6: 1, Min Delay: 419 ms, Max Speed: 1.83 M/s, Avg Speed: 0.87 M/s, Max Resolution: 1920x1080
-Category: 央视, Name: CCTV-6, Total: 10, Valid: 6, Valid Percent: 60.00%, Whitelist: 0, IPv4: 6, IPv6: 4, Min Delay: 2587 ms, Max Speed: 1.72 M/s, Avg Speed: 0.76 M/s, Max Resolution: 1920x1080
-Category: 央视, Name: CCTV-7, Total: 10, Valid: 6, Valid Percent: 60.00%, Whitelist: 0, IPv4: 6, IPv6: 4, Min Delay: 3122 ms, Max Speed: 1.81 M/s, Avg Speed: 0.90 M/s, Max Resolution: 1920x1080
-Category: 央视, Name: CCTV-8, Total: 10, Valid: 6, Valid Percent: 60.00%, Whitelist: 0, IPv4: 6, IPv6: 4, Min Delay: 451 ms, Max Speed: 1.96 M/s, Avg Speed: 0.79 M/s, Max Resolution: 1920x1080
-Category: 央视, Name: CCTV-9, Total: 10, Valid: 6, Valid Percent: 60.00%, Whitelist: 0, IPv4: 6, IPv6: 4, Min Delay: 3280 ms, Max Speed: 1.84 M/s, Avg Speed: 0.83 M/s, Max Resolution: 1920x1080
-Category: 央视, Name: CCTV-10, Total: 10, Valid: 6, Valid Percent: 60.00%, Whitelist: 0, IPv4: 6, IPv6: 4, Min Delay: 3052 ms, Max Speed: 1.93 M/s, Avg Speed: 0.78 M/s, Max Resolution: 1920x1080
-Category: 央视, Name: CCTV-11, Total: 10, Valid: 6, Valid Percent: 60.00%, Whitelist: 0, IPv4: 6, IPv6: 4, Min Delay: 3072 ms, Max Speed: 1.85 M/s, Avg Speed: 0.75 M/s, Max Resolution: 1920x1080
-Category: 央视, Name: CCTV-12, Total: 10, Valid: 6, Valid Percent: 60.00%, Whitelist: 0, IPv4: 6, IPv6: 4, Min Delay: 2869 ms, Max Speed: 1.85 M/s, Avg Speed: 0.83 M/s, Max Resolution: 1920x1080
-Category: 央视, Name: CCTV-13, Total: 10, Valid: 6, Valid Percent: 60.00%, Whitelist: 0, IPv4: 6, IPv6: 4, Min Delay: 3104 ms, Max Speed: 1.81 M/s, Avg Speed: 0.78 M/s, Max Resolution: 1920x1080
-Category: 央视, Name: CCTV-14, Total: 10, Valid: 6, Valid Percent: 60.00%, Whitelist: 0, IPv4: 6, IPv6: 4, Min Delay: 440 ms, Max Speed: 1.83 M/s, Avg Speed: 0.79 M/s, Max Resolution: 1920x1080
-Category: 央视, Name: CCTV-15, Total: 9, Valid: 5, Valid Percent: 55.56%, Whitelist: 0, IPv4: 5, IPv6: 4, Min Delay: 3104 ms, Max Speed: 1.82 M/s, Avg Speed: 0.64 M/s, Max Resolution: 1920x1080
-Category: 央视, Name: CCTV-16, Total: 3, Valid: 1, Valid Percent: 33.33%, Whitelist: 0, IPv4: 1, IPv6: 2, Min Delay: 10008 ms, Max Speed: 0.16 M/s, Avg Speed: 0.16 M/s, Max Resolution: None
-Category: 央视, Name: CCTV-17, Total: 6, Valid: 3, Valid Percent: 50.00%, Whitelist: 0, IPv4: 3, IPv6: 3, Min Delay: 2646 ms, Max Speed: 1.65 M/s, Avg Speed: 0.70 M/s, Max Resolution: 1920x1080
-Category: 央视, Name: CETV-1, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 2530 ms, Max Speed: 2.20 M/s, Avg Speed: 2.20 M/s, Max Resolution: 1920x1080
-Category: 央视, Name: CETV-2, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 4416 ms, Max Speed: 1.83 M/s, Avg Speed: 1.83 M/s, Max Resolution: 1920x1080
-Category: 央视, Name: CETV-4, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 2162 ms, Max Speed: 1.85 M/s, Avg Speed: 1.85 M/s, Max Resolution: 1920x1080
-Category: 央视, Name: CGTN, Total: 4, Valid: 1, Valid Percent: 25.00%, Whitelist: 0, IPv4: 1, IPv6: 3, Min Delay: 1446 ms, Max Speed: 0.92 M/s, Avg Speed: 0.92 M/s, Max Resolution: 854x480
-Category: 央视精品, Name: CHC影迷电影, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 2212 ms, Max Speed: 2.15 M/s, Avg Speed: 2.15 M/s, Max Resolution: 1920x1080
-Category: 央视精品, Name: CHC家庭影院, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 4344 ms, Max Speed: 1.91 M/s, Avg Speed: 1.03 M/s, Max Resolution: 1920x1080
-Category: 央视精品, Name: 北京卡酷少儿, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 3095 ms, Max Speed: 1.72 M/s, Avg Speed: 1.16 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 湖南卫视, Total: 7, Valid: 5, Valid Percent: 71.43%, Whitelist: 0, IPv4: 5, IPv6: 2, Min Delay: 3071 ms, Max Speed: 1.81 M/s, Avg Speed: 0.55 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 浙江卫视, Total: 7, Valid: 5, Valid Percent: 71.43%, Whitelist: 0, IPv4: 5, IPv6: 2, Min Delay: 3132 ms, Max Speed: 1.78 M/s, Avg Speed: 0.61 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 陕西卫视, Total: 3, Valid: 2, Valid Percent: 66.67%, Whitelist: 0, IPv4: 2, IPv6: 1, Min Delay: 2331 ms, Max Speed: 2.29 M/s, Avg Speed: 1.23 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 安徽卫视, Total: 5, Valid: 5, Valid Percent: 100.00%, Whitelist: 0, IPv4: 5, IPv6: 0, Min Delay: 3107 ms, Max Speed: 1.81 M/s, Avg Speed: 0.60 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 北京卫视, Total: 4, Valid: 2, Valid Percent: 50.00%, Whitelist: 0, IPv4: 2, IPv6: 2, Min Delay: 10307 ms, Max Speed: 0.33 M/s, Avg Speed: 0.25 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 东方卫视, Total: 9, Valid: 6, Valid Percent: 66.67%, Whitelist: 0, IPv4: 6, IPv6: 3, Min Delay: 3122 ms, Max Speed: 1.82 M/s, Avg Speed: 0.78 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 东南卫视, Total: 5, Valid: 3, Valid Percent: 60.00%, Whitelist: 0, IPv4: 3, IPv6: 2, Min Delay: 10553 ms, Max Speed: 0.52 M/s, Avg Speed: 0.29 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 广东卫视, Total: 5, Valid: 3, Valid Percent: 60.00%, Whitelist: 0, IPv4: 3, IPv6: 2, Min Delay: 10122 ms, Max Speed: 0.42 M/s, Avg Speed: 0.30 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 江苏卫视, Total: 9, Valid: 6, Valid Percent: 66.67%, Whitelist: 0, IPv4: 6, IPv6: 3, Min Delay: 2332 ms, Max Speed: 2.26 M/s, Avg Speed: 0.87 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 广西卫视, Total: 3, Valid: 1, Valid Percent: 33.33%, Whitelist: 0, IPv4: 1, IPv6: 2, Min Delay: 10144 ms, Max Speed: 0.23 M/s, Avg Speed: 0.23 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 甘肃卫视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10844 ms, Max Speed: 0.50 M/s, Avg Speed: 0.50 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 贵州卫视, Total: 4, Valid: 4, Valid Percent: 100.00%, Whitelist: 0, IPv4: 4, IPv6: 0, Min Delay: 3171 ms, Max Speed: 1.83 M/s, Avg Speed: 0.67 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 海南卫视, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 1328 ms, Max Speed: 0.96 M/s, Avg Speed: 0.96 M/s, Max Resolution: 854x480
-Category: 卫视频道, Name: 河北卫视, Total: 3, Valid: 3, Valid Percent: 100.00%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: 10066 ms, Max Speed: 0.49 M/s, Avg Speed: 0.30 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 河南卫视, Total: 6, Valid: 5, Valid Percent: 83.33%, Whitelist: 0, IPv4: 5, IPv6: 1, Min Delay: 1746 ms, Max Speed: 1.81 M/s, Avg Speed: 0.67 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 黑龙江卫视, Total: 5, Valid: 5, Valid Percent: 100.00%, Whitelist: 0, IPv4: 5, IPv6: 0, Min Delay: 3096 ms, Max Speed: 1.78 M/s, Avg Speed: 0.59 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 湖北卫视, Total: 9, Valid: 6, Valid Percent: 66.67%, Whitelist: 0, IPv4: 6, IPv6: 3, Min Delay: 2897 ms, Max Speed: 2.03 M/s, Avg Speed: 0.85 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 吉林卫视, Total: 4, Valid: 3, Valid Percent: 75.00%, Whitelist: 0, IPv4: 3, IPv6: 1, Min Delay: 1853 ms, Max Speed: 0.81 M/s, Avg Speed: 0.42 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 江西卫视, Total: 7, Valid: 6, Valid Percent: 85.71%, Whitelist: 0, IPv4: 6, IPv6: 1, Min Delay: 3157 ms, Max Speed: 1.88 M/s, Avg Speed: 0.75 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 辽宁卫视, Total: 7, Valid: 6, Valid Percent: 85.71%, Whitelist: 0, IPv4: 6, IPv6: 1, Min Delay: 2932 ms, Max Speed: 1.85 M/s, Avg Speed: 0.75 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 宁夏卫视, Total: 3, Valid: 2, Valid Percent: 66.67%, Whitelist: 0, IPv4: 2, IPv6: 1, Min Delay: 1250 ms, Max Speed: 0.98 M/s, Avg Speed: 0.61 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 青海卫视, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 1636 ms, Max Speed: 0.82 M/s, Avg Speed: 0.82 M/s, Max Resolution: 854x480
-Category: 卫视频道, Name: 山东卫视, Total: 5, Valid: 5, Valid Percent: 100.00%, Whitelist: 0, IPv4: 5, IPv6: 0, Min Delay: 3164 ms, Max Speed: 1.80 M/s, Avg Speed: 0.58 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 深圳卫视, Total: 6, Valid: 4, Valid Percent: 66.67%, Whitelist: 0, IPv4: 4, IPv6: 2, Min Delay: 3140 ms, Max Speed: 1.78 M/s, Avg Speed: 0.59 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 四川卫视, Total: 4, Valid: 2, Valid Percent: 50.00%, Whitelist: 0, IPv4: 2, IPv6: 2, Min Delay: 10004 ms, Max Speed: 0.34 M/s, Avg Speed: 0.23 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 天津卫视, Total: 5, Valid: 5, Valid Percent: 100.00%, Whitelist: 0, IPv4: 5, IPv6: 0, Min Delay: 3109 ms, Max Speed: 1.78 M/s, Avg Speed: 0.56 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 新疆卫视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10138 ms, Max Speed: 0.14 M/s, Avg Speed: 0.14 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 云南卫视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10835 ms, Max Speed: 0.13 M/s, Avg Speed: 0.13 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 重庆卫视, Total: 3, Valid: 3, Valid Percent: 100.00%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: 10359 ms, Max Speed: 0.24 M/s, Avg Speed: 0.21 M/s, Max Resolution: 1920x1080
-Category: 卫视频道, Name: 大湾区卫视, Total: 4, Valid: 1, Valid Percent: 25.00%, Whitelist: 0, IPv4: 1, IPv6: 3, Min Delay: 1811 ms, Max Speed: 1.00 M/s, Avg Speed: 1.00 M/s, Max Resolution: 854x480
-Category: 卫视频道, Name: 兵团卫视, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 2714 ms, Max Speed: 1.46 M/s, Avg Speed: 1.46 M/s, Max Resolution: 1280x720
-Category: 港澳台, Name: 明珠台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 美亚电影, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: TVB Asia, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: TVB Classic, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: TVB Entertainment, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: TVB Jade, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: TVB 星河台 Xing He, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: TVBS, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1608 ms, Max Speed: 0.80 M/s, Avg Speed: 0.80 M/s, Max Resolution: None
-Category: 港澳台, Name: TVBS 欢乐台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: TVBS 新闻台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: TVB无线新闻, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: ViuTV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: ViuTV 6, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: HBO Family, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: HBO Hits, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: HBO Signature, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: HBO_HD, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: HBO_HITS, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 爱尔达体育1台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 爱尔达体育2台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 爱尔达体育3台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 爱尔达影剧台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 爱尔达娱乐, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 爱尔达综合台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 爱奇艺 iQiyi, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 八大第一台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 八大戏剧台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 八大娱乐台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 八大综合台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 博斯高球二台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 博斯高球一台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 博斯网球台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 博斯无限台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 博斯运动二台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 博斯运动一台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 采昌影劇台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1667 ms, Max Speed: 1.03 M/s, Avg Speed: 1.03 M/s, Max Resolution: None
-Category: 港澳台, Name: 大愛電視, Total: 3, Valid: 1, Valid Percent: 33.33%, Whitelist: 0, IPv4: 1, IPv6: 2, Min Delay: 1696 ms, Max Speed: 1.22 M/s, Avg Speed: 1.22 M/s, Max Resolution: None
-Category: 港澳台, Name: 大愛二台, Total: 3, Valid: 1, Valid Percent: 33.33%, Whitelist: 0, IPv4: 1, IPv6: 2, Min Delay: 1635 ms, Max Speed: 1.11 M/s, Avg Speed: 1.11 M/s, Max Resolution: None
-Category: 港澳台, Name: 電影原聲台CMusic, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1735 ms, Max Speed: 1.19 M/s, Avg Speed: 1.19 M/s, Max Resolution: None
-Category: 港澳台, Name: 东森财经新闻, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 东森财经新闻台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 东森超视, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 东森电影, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 东森电影台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 东森戏剧台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 东森新闻, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 东森新闻台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 东森洋片, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 东森洋片台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 东森幼幼, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 东森幼幼台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 东森综合台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 非凡新闻, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 翡翠台, Total: 4, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 4, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 凤凰香港, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 凤凰中文, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 凤凰资讯, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 公视台语台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 公视戏剧, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 古典音乐台, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 滾動力rollor, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1682 ms, Max Speed: 1.24 M/s, Avg Speed: 1.24 M/s, Max Resolution: None
-Category: 港澳台, Name: 好萊塢電影台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 好消息, Total: 3, Valid: 1, Valid Percent: 33.33%, Whitelist: 0, IPv4: 1, IPv6: 2, Min Delay: 1648 ms, Max Speed: 1.87 M/s, Avg Speed: 1.87 M/s, Max Resolution: None
-Category: 港澳台, Name: 好消息 2, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 好消息2台, Total: 3, Valid: 1, Valid Percent: 33.33%, Whitelist: 0, IPv4: 1, IPv6: 2, Min Delay: 1495 ms, Max Speed: 2.07 M/s, Avg Speed: 2.07 M/s, Max Resolution: None
-Category: 港澳台, Name: 华视, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 华视新闻, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 華藝綜合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 寰宇财经台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 寰宇新闻台, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 金光布袋戲, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1692 ms, Max Speed: 1.22 M/s, Avg Speed: 1.22 M/s, Max Resolution: None
-Category: 港澳台, Name: 經典電影台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1641 ms, Max Speed: 1.26 M/s, Avg Speed: 1.26 M/s, Max Resolution: None
-Category: 港澳台, Name: 經典卡通台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1556 ms, Max Speed: 1.34 M/s, Avg Speed: 1.34 M/s, Max Resolution: None
-Category: 港澳台, Name: 精選動漫台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1429 ms, Max Speed: 1.45 M/s, Avg Speed: 1.45 M/s, Max Resolution: None
-Category: 港澳台, Name: 中视, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 中视经典, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 中视菁采, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 中视新闻, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 中天新闻, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 中天亚洲, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 中天娱乐, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 中天综合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 台视, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 台视新闻, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 台视综合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 天映经典, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 天映频道, Total: 4, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 4, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 纬来电影, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 纬来精彩, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 纬来日本, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 纬来体育, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 纬来育乐, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 纬来综合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 三立都会台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 三立台湾台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 三立戏剧台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 民视, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 民视第一台, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 民视台湾台, Total: 4, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 4, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 民视新闻台, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 龙华电影, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 龙华经典, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 龙华偶像, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 龙华戏剧, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 龙华洋片, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 龙祥时代, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 靖天国际, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 靖天国际台, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 靖天欢乐台, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 靖天卡通, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 靖天卡通台, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 1396 ms, Max Speed: 1.11 M/s, Avg Speed: 1.11 M/s, Max Resolution: None
-Category: 港澳台, Name: 靖天日本台, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 1455 ms, Max Speed: 1.38 M/s, Avg Speed: 1.38 M/s, Max Resolution: None
-Category: 港澳台, Name: 靖天映画, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 靖天綜合台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1502 ms, Max Speed: 1.03 M/s, Avg Speed: 1.03 M/s, Max Resolution: None
-Category: 港澳台, Name: 靖洋戏剧台, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: ABC News, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Adithya, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: AEC, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: AFC 亚洲旅游台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Al-Hijrah, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Al-Jazeera, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: AlQuran AlKareem, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Amarin, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Animal_Planet, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Animax, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: AnTV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: AOD, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Arena, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Arena 2, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Asia Travel, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Asianet, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Asianet News, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Astro Badminton 1, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Astro Badminton 2, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Astro Beinsports 1, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Astro Beinsports 2, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Astro Beinsports 3, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Astro Cricket, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Astro Football, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Astro Golf, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Astro Grandstand, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Astro KTV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Astro LOL, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Astro MTV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Astro Premier League 1, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Astro Premier League 2, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Astro QJ, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Astro Rusi, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Astro Sonypix, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Astro Sports Plus, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Astro Sunlife, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Astro Sunmusic, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Astro Vaanavil, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Astro W-Sports, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Astrol Kplus, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Aura, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Awani, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Awesome TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: AXN Taiwan, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Baby TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Baby TV Eng, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: BBC 1, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: BBC 2, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: BBC Earth Lifestyle, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: BBC World News, Total: 6, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 6, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Berita Satu, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Bernama, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Bloomberg News, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: BolaArena 1, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: BolaArena 2, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Bollyone, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Boo, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Cartoon Network, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: CBBC, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: CBeebies, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Celestial Classic, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Ceria, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Ch 8, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Channel 3 Thailand, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Channel 4, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Channel 5, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Channel 5 Thailand, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Channel 7 Thailand, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Channel 8, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Channel U, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: CI, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: CinemaWorld, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1692 ms, Max Speed: 1.22 M/s, Avg Speed: 1.22 M/s, Max Resolution: None
-Category: 港澳台, Name: CINEMAX, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Citra, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: CNA, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: CNBC, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Colors Tamil, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Daai TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Discovery Asia, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Discovery Kids Tamil, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Discovery Tamil, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Discovery World Tamil, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: DW (Deutsch), Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: ELTV生活英語台, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 1498 ms, Max Speed: 2.03 M/s, Avg Speed: 2.03 M/s, Max Resolution: None
-Category: 港澳台, Name: Entertain, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Euronews, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: EWTN, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: EYE 旅游台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: EYE 戏剧台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Fashion TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Fight Sports, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Fox News, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: France 24, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Freesports, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Global Trekker, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1423 ms, Max Speed: 1.47 M/s, Avg Speed: 1.47 M/s, Max Resolution: None
-Category: 港澳台, Name: Gmm Channel, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: GmmOne, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Goshop, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: GTV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: HGTV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: History, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: History Tamil, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Hits Movie, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: iNews TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: INULTRA, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1405 ms, Max Speed: 1.46 M/s, Avg Speed: 1.46 M/s, Max Resolution: None
-Category: 港澳台, Name: itv 1, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: itv 2, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Jak TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: JTV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: KBS World, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Kids TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Kompass TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Lifestyle&Fashion, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Love Nature, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1420 ms, Max Speed: 1.47 M/s, Avg Speed: 1.47 M/s, Max Resolution: None
-Category: 港澳台, Name: Makkal TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Metro TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: MeWatch Ch 5, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: MeWatch Ch 8, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: MeWatch Ch U, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: MeWatch CNA, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: MeWatch Suria, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: MeWatch Vasantham, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: MiaoMi, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: MNC TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Momo TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: MOMO親子台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1417 ms, Max Speed: 1.48 M/s, Avg Speed: 1.48 M/s, Max Resolution: None
-Category: 港澳台, Name: Mono, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: More4, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: MTV Live, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Music TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Muslim TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: NatGeo Tamil, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Natgeo Wild Tamil, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Natgeo_HD, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Nation, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: NBA TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Nbt, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Net TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: New, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: News 18 Tamil, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Nick Jr, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Nickelodeon, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: NTV7, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Oasis, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: One, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Paramount Network, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Pick TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: PPTV Thailand1, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Prima, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Rania, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: RCTI, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Ria, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Ria-3, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: ROCK Action, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1420 ms, Max Speed: 1.46 M/s, Avg Speed: 1.46 M/s, Max Resolution: None
-Category: 港澳台, Name: Rock Actions, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: ROCK Entertainment, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1422 ms, Max Speed: 1.46 M/s, Avg Speed: 1.46 M/s, Max Resolution: None
-Category: 港澳台, Name: RTM Asean, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: RTV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Rugby Pass TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: SCM, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: SCTV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Sensasi, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Siar, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Skynews, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Skysports Cricket, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Skysports EPL, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Skysports F1, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Skysports Main Event, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Skysports Mix, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Skysports News, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Sony Ten 1, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Sony Ten 2, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Sony Ten 3, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Sony Yay Tamil, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: SPO TV 2, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Star Vijay, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Sun Music, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Sun TV India, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Supersports 1, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Supersports 2, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Supersports 3, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Supersports 4, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Suria, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Tawaf TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Thai Thai, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Thairath, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Thrill, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: TLC, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: TLC旅遊生活, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Tnn24, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Tnt Sports 1, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: TNT Sports 2, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: TNT Sports 3, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: TNT Sports 4, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: tpbs, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: TPTV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: TRACE Sport Stars, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1446 ms, Max Speed: 1.42 M/s, Avg Speed: 1.42 M/s, Max Resolution: None
-Category: 港澳台, Name: TRACE Urban, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1353 ms, Max Speed: 1.14 M/s, Avg Speed: 1.14 M/s, Max Resolution: None
-Category: 港澳台, Name: Trans 7, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Transtv, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: TV1, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: TV2, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: TV3, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: TV3 SD, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: TV8, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: TV9, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: TVMU, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: TvN, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: tvN Movie, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Tvone, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: TVRI National, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Vasantham, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Vellithirai, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Vijay Super, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Vision Prime, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Warner TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: WION, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Workpoint, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: WWE, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Zee Action, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Zee Business, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Zee News, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: Zee Tamil, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 客家電視台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1758 ms, Max Speed: 1.08 M/s, Avg Speed: 1.08 M/s, Max Resolution: None
-Category: 港澳台, Name: 美食星球, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 年代新闻, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 時尚運動X, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1414 ms, Max Speed: 0.68 M/s, Avg Speed: 0.68 M/s, Max Resolution: None
-Category: 港澳台, Name: 視納華仁紀實頻道, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 1481 ms, Max Speed: 2.01 M/s, Avg Speed: 2.01 M/s, Max Resolution: None
-Category: 港澳台, Name: 卫视电影台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 无线新闻, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 无线新闻台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 戲劇免費看 1台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1417 ms, Max Speed: 1.47 M/s, Avg Speed: 1.47 M/s, Max Resolution: None
-Category: 港澳台, Name: 幸福空間居家台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1560 ms, Max Speed: 1.33 M/s, Avg Speed: 1.33 M/s, Max Resolution: None
-Category: 港澳台, Name: 亚洲TLC, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 亚洲旅游台, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 亚洲美食, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 港澳台, Name: 影迷數位電影台, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 1240 ms, Max Speed: 0.72 M/s, Avg Speed: 0.72 M/s, Max Resolution: None
-Category: 港澳台, Name: 影迷數位紀實台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1676 ms, Max Speed: 1.08 M/s, Avg Speed: 1.08 M/s, Max Resolution: None
-Category: 港澳台, Name: 豬哥亮歌廳秀, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1706 ms, Max Speed: 1.30 M/s, Avg Speed: 1.30 M/s, Max Resolution: None
+Category: 央视, Name: 中国天气, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 3143 ms, Max Speed: 1.52 M/s, Avg Speed: 1.52 M/s, Max Resolution: 1920x1080
+Category: 央视, Name: CGTN, Total: 4, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 4, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: 央视, Name: CHC影迷电影, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 5263 ms, Max Speed: 1.33 M/s, Avg Speed: 1.33 M/s, Max Resolution: 1920x1080
+Category: 央视, Name: CHC家庭影院, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 6810 ms, Max Speed: 1.30 M/s, Avg Speed: 0.70 M/s, Max Resolution: 1920x1080
+Category: 卫视, Name: 湖南卫视, Total: 7, Valid: 5, Valid Percent: 71.43%, Whitelist: 0, IPv4: 5, IPv6: 2, Min Delay: 3860 ms, Max Speed: 1.45 M/s, Avg Speed: 0.64 M/s, Max Resolution: 1920x1080
+Category: 卫视, Name: 浙江卫视, Total: 7, Valid: 5, Valid Percent: 71.43%, Whitelist: 0, IPv4: 5, IPv6: 2, Min Delay: 3822 ms, Max Speed: 1.44 M/s, Avg Speed: 0.63 M/s, Max Resolution: 1920x1080
+Category: 卫视, Name: 陕西卫视, Total: 3, Valid: 2, Valid Percent: 66.67%, Whitelist: 0, IPv4: 2, IPv6: 1, Min Delay: 3151 ms, Max Speed: 1.50 M/s, Avg Speed: 0.80 M/s, Max Resolution: 1920x1080
+Category: 卫视, Name: 安徽卫视, Total: 5, Valid: 5, Valid Percent: 100.00%, Whitelist: 0, IPv4: 5, IPv6: 0, Min Delay: 3632 ms, Max Speed: 1.49 M/s, Avg Speed: 0.66 M/s, Max Resolution: 1920x1080
+Category: 卫视, Name: 北京卫视, Total: 4, Valid: 2, Valid Percent: 50.00%, Whitelist: 0, IPv4: 2, IPv6: 2, Min Delay: 519 ms, Max Speed: 0.12 M/s, Avg Speed: 0.06 M/s, Max Resolution: 1920x1080
+Category: 卫视, Name: 东方卫视, Total: 9, Valid: 6, Valid Percent: 66.67%, Whitelist: 0, IPv4: 6, IPv6: 3, Min Delay: 3017 ms, Max Speed: 1.67 M/s, Avg Speed: 0.77 M/s, Max Resolution: 1920x1080
+Category: 卫视, Name: 东南卫视, Total: 5, Valid: 3, Valid Percent: 60.00%, Whitelist: 0, IPv4: 3, IPv6: 2, Min Delay: 8002 ms, Max Speed: 0.71 M/s, Avg Speed: 0.51 M/s, Max Resolution: 1920x1080
+Category: 卫视, Name: 广东卫视, Total: 5, Valid: 3, Valid Percent: 60.00%, Whitelist: 0, IPv4: 3, IPv6: 2, Min Delay: 10144 ms, Max Speed: 0.60 M/s, Avg Speed: 0.42 M/s, Max Resolution: 1920x1080
+Category: 卫视, Name: 江苏卫视, Total: 9, Valid: 6, Valid Percent: 66.67%, Whitelist: 0, IPv4: 6, IPv6: 3, Min Delay: 3175 ms, Max Speed: 1.70 M/s, Avg Speed: 0.73 M/s, Max Resolution: 1920x1080
+Category: 卫视, Name: 广西卫视, Total: 3, Valid: 1, Valid Percent: 33.33%, Whitelist: 0, IPv4: 1, IPv6: 2, Min Delay: 8081 ms, Max Speed: 0.72 M/s, Avg Speed: 0.72 M/s, Max Resolution: None
+Category: 卫视, Name: 甘肃卫视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10350 ms, Max Speed: 0.31 M/s, Avg Speed: 0.31 M/s, Max Resolution: 1920x1080
+Category: 卫视, Name: 贵州卫视, Total: 4, Valid: 4, Valid Percent: 100.00%, Whitelist: 0, IPv4: 4, IPv6: 0, Min Delay: 545 ms, Max Speed: 1.44 M/s, Avg Speed: 0.51 M/s, Max Resolution: 1920x1080
+Category: 卫视, Name: 海南卫视, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 1884 ms, Max Speed: 0.73 M/s, Avg Speed: 0.73 M/s, Max Resolution: 854x480
+Category: 卫视, Name: 河北卫视, Total: 3, Valid: 3, Valid Percent: 100.00%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: 10244 ms, Max Speed: 0.64 M/s, Avg Speed: 0.46 M/s, Max Resolution: 1920x1080
+Category: 卫视, Name: 河南卫视, Total: 6, Valid: 5, Valid Percent: 83.33%, Whitelist: 0, IPv4: 5, IPv6: 1, Min Delay: 1830 ms, Max Speed: 1.46 M/s, Avg Speed: 0.63 M/s, Max Resolution: 1920x1080
+Category: 卫视, Name: 黑龙江卫视, Total: 5, Valid: 5, Valid Percent: 100.00%, Whitelist: 0, IPv4: 5, IPv6: 0, Min Delay: 3853 ms, Max Speed: 1.46 M/s, Avg Speed: 0.63 M/s, Max Resolution: 1920x1080
+Category: 卫视, Name: 湖北卫视, Total: 9, Valid: 6, Valid Percent: 66.67%, Whitelist: 0, IPv4: 6, IPv6: 3, Min Delay: 522 ms, Max Speed: 1.47 M/s, Avg Speed: 0.64 M/s, Max Resolution: 1920x1080
+Category: 卫视, Name: 吉林卫视, Total: 4, Valid: 3, Valid Percent: 75.00%, Whitelist: 0, IPv4: 3, IPv6: 1, Min Delay: 1819 ms, Max Speed: 0.79 M/s, Avg Speed: 0.50 M/s, Max Resolution: 1920x1080
+Category: 卫视, Name: 江西卫视, Total: 7, Valid: 6, Valid Percent: 85.71%, Whitelist: 0, IPv4: 6, IPv6: 1, Min Delay: 3606 ms, Max Speed: 1.47 M/s, Avg Speed: 0.73 M/s, Max Resolution: 1920x1080
+Category: 卫视, Name: 辽宁卫视, Total: 6, Valid: 5, Valid Percent: 83.33%, Whitelist: 0, IPv4: 5, IPv6: 1, Min Delay: 3852 ms, Max Speed: 1.44 M/s, Avg Speed: 0.66 M/s, Max Resolution: 1920x1080
+Category: 卫视, Name: 宁夏卫视, Total: 3, Valid: 2, Valid Percent: 66.67%, Whitelist: 0, IPv4: 2, IPv6: 1, Min Delay: 2366 ms, Max Speed: 0.58 M/s, Avg Speed: 0.55 M/s, Max Resolution: 1920x1080
+Category: 卫视, Name: 青海卫视, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 2392 ms, Max Speed: 0.63 M/s, Avg Speed: 0.63 M/s, Max Resolution: 854x480
+Category: 卫视, Name: 山东卫视, Total: 5, Valid: 5, Valid Percent: 100.00%, Whitelist: 0, IPv4: 5, IPv6: 0, Min Delay: 3631 ms, Max Speed: 1.46 M/s, Avg Speed: 0.57 M/s, Max Resolution: 1920x1080
+Category: 卫视, Name: 深圳卫视, Total: 6, Valid: 4, Valid Percent: 66.67%, Whitelist: 0, IPv4: 4, IPv6: 2, Min Delay: 3897 ms, Max Speed: 1.43 M/s, Avg Speed: 0.57 M/s, Max Resolution: 1920x1080
+Category: 卫视, Name: 四川卫视, Total: 4, Valid: 2, Valid Percent: 50.00%, Whitelist: 0, IPv4: 2, IPv6: 2, Min Delay: 10038 ms, Max Speed: 0.37 M/s, Avg Speed: 0.25 M/s, Max Resolution: 1920x1080
+Category: 卫视, Name: 天津卫视, Total: 5, Valid: 5, Valid Percent: 100.00%, Whitelist: 0, IPv4: 5, IPv6: 0, Min Delay: 3771 ms, Max Speed: 1.46 M/s, Avg Speed: 0.64 M/s, Max Resolution: 1920x1080
+Category: 卫视, Name: 新疆卫视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10613 ms, Max Speed: 0.57 M/s, Avg Speed: 0.57 M/s, Max Resolution: 1920x1080
+Category: 卫视, Name: 云南卫视, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 10301 ms, Max Speed: 0.12 M/s, Avg Speed: 0.12 M/s, Max Resolution: None
+Category: 卫视, Name: 重庆卫视, Total: 3, Valid: 3, Valid Percent: 100.00%, Whitelist: 0, IPv4: 3, IPv6: 0, Min Delay: 8107 ms, Max Speed: 0.72 M/s, Avg Speed: 0.37 M/s, Max Resolution: 1920x1080
+Category: 卫视, Name: 大湾区卫视, Total: 4, Valid: 1, Valid Percent: 25.00%, Whitelist: 0, IPv4: 1, IPv6: 3, Min Delay: 1867 ms, Max Speed: 0.79 M/s, Avg Speed: 0.79 M/s, Max Resolution: 854x480
+Category: 卫视, Name: 兵团卫视, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 3442 ms, Max Speed: 0.93 M/s, Avg Speed: 0.93 M/s, Max Resolution: 1280x720
+Category: 地方, Name: 北京卡酷少儿, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 3632 ms, Max Speed: 1.39 M/s, Avg Speed: 1.01 M/s, Max Resolution: 1920x1080
+Category: asia, Name: 明珠台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 美亚电影, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: TVB Asia, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: TVB Classic, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: TVB Entertainment, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: TVB Jade, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: TVB 星河台 Xing He, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: TVBS, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2267 ms, Max Speed: 0.58 M/s, Avg Speed: 0.58 M/s, Max Resolution: None
+Category: asia, Name: TVBS 欢乐台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: TVBS 新闻台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: TVB无线新闻, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: ViuTV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: ViuTV 6, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: HBO Family, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: HBO Hits, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: HBO Signature, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: HBO_HD, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: HBO_HITS, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 爱尔达体育1台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 爱尔达体育2台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 爱尔达体育3台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 爱尔达影剧台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 爱尔达娱乐, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 爱尔达综合台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 爱奇艺 iQiyi, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 八大第一台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 八大戏剧台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 八大娱乐台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 八大综合台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 博斯高球二台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 博斯高球一台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 博斯网球台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 博斯无限台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 博斯运动二台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 博斯运动一台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 采昌影劇台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2450 ms, Max Speed: 1.08 M/s, Avg Speed: 1.08 M/s, Max Resolution: None
+Category: asia, Name: 大愛電視, Total: 3, Valid: 1, Valid Percent: 33.33%, Whitelist: 0, IPv4: 1, IPv6: 2, Min Delay: 2147 ms, Max Speed: 0.98 M/s, Avg Speed: 0.98 M/s, Max Resolution: None
+Category: asia, Name: 大愛二台, Total: 3, Valid: 1, Valid Percent: 33.33%, Whitelist: 0, IPv4: 1, IPv6: 2, Min Delay: 2363 ms, Max Speed: 0.78 M/s, Avg Speed: 0.78 M/s, Max Resolution: None
+Category: asia, Name: 電影原聲台CMusic, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2343 ms, Max Speed: 0.88 M/s, Avg Speed: 0.88 M/s, Max Resolution: None
+Category: asia, Name: 东森财经新闻, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 东森财经新闻台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 东森超视, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 东森电影, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 东森电影台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 东森戏剧台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 东森新闻, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 东森新闻台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 东森洋片, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 东森洋片台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 东森幼幼, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 东森幼幼台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 东森综合台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 非凡新闻, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 翡翠台, Total: 4, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 4, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 凤凰香港, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 凤凰中文, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 凤凰资讯, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 公视台语台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 公视戏剧, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 古典音乐台, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 滾動力rollor, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2391 ms, Max Speed: 0.87 M/s, Avg Speed: 0.87 M/s, Max Resolution: None
+Category: asia, Name: 好萊塢電影台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 好消息, Total: 3, Valid: 1, Valid Percent: 33.33%, Whitelist: 0, IPv4: 1, IPv6: 2, Min Delay: 2471 ms, Max Speed: 1.25 M/s, Avg Speed: 1.25 M/s, Max Resolution: None
+Category: asia, Name: 好消息 2, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 好消息2台, Total: 3, Valid: 1, Valid Percent: 33.33%, Whitelist: 0, IPv4: 1, IPv6: 2, Min Delay: 2329 ms, Max Speed: 1.33 M/s, Avg Speed: 1.33 M/s, Max Resolution: None
+Category: asia, Name: 华视, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 华视新闻, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 華藝綜合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 寰宇财经台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 寰宇新闻台, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 金光布袋戲, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2047 ms, Max Speed: 1.01 M/s, Avg Speed: 1.01 M/s, Max Resolution: None
+Category: asia, Name: 經典電影台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2419 ms, Max Speed: 0.85 M/s, Avg Speed: 0.85 M/s, Max Resolution: None
+Category: asia, Name: 經典卡通台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2019 ms, Max Speed: 1.04 M/s, Avg Speed: 1.04 M/s, Max Resolution: None
+Category: asia, Name: 精選動漫台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2026 ms, Max Speed: 1.02 M/s, Avg Speed: 1.02 M/s, Max Resolution: None
+Category: asia, Name: 中视, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 中视经典, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 中视菁采, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 中视新闻, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 中天新闻, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 中天亚洲, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 中天娱乐, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 中天综合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 台视, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 台视新闻, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 台视综合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 天映经典, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 天映频道, Total: 4, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 4, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 纬来电影, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 纬来精彩, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 纬来日本, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 纬来体育, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 纬来育乐, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 纬来综合, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 三立都会台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 三立台湾台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 三立戏剧台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 民视, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 民视第一台, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 民视台湾台, Total: 4, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 4, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 民视新闻台, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 龙华电影, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 龙华经典, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 龙华偶像, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 龙华戏剧, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 龙华洋片, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 龙祥时代, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 靖天国际, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 靖天国际台, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 靖天欢乐台, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 靖天卡通, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 靖天卡通台, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 2143 ms, Max Speed: 0.76 M/s, Avg Speed: 0.76 M/s, Max Resolution: None
+Category: asia, Name: 靖天日本台, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 2470 ms, Max Speed: 0.42 M/s, Avg Speed: 0.42 M/s, Max Resolution: None
+Category: asia, Name: 靖天映画, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 靖天綜合台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2506 ms, Max Speed: 0.85 M/s, Avg Speed: 0.85 M/s, Max Resolution: None
+Category: asia, Name: 靖洋戏剧台, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: ABC News, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Adithya, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: AEC, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: AFC 亚洲旅游台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Al-Hijrah, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Al-Jazeera, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: AlQuran AlKareem, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Amarin, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Animal_Planet, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Animax, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: AnTV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: AOD, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Arena, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Arena 2, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Asia Travel, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Asianet, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Asianet News, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Astro Badminton 1, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Astro Badminton 2, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Astro Beinsports 1, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Astro Beinsports 2, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Astro Beinsports 3, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Astro Cricket, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Astro Football, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Astro Golf, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Astro Grandstand, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Astro KTV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Astro LOL, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Astro MTV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Astro Premier League 1, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Astro Premier League 2, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Astro QJ, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Astro Rusi, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Astro Sonypix, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Astro Sports Plus, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Astro Sunlife, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Astro Sunmusic, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Astro Vaanavil, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Astro W-Sports, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Astrol Kplus, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Aura, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Awani, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Awesome TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: AXN Taiwan, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Baby TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Baby TV Eng, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: BBC 1, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: BBC 2, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: BBC Earth Lifestyle, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: BBC World News, Total: 6, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 6, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Berita Satu, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Bernama, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Bloomberg News, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: BolaArena 1, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: BolaArena 2, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Bollyone, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Boo, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Cartoon Network, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: CBBC, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: CBeebies, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Celestial Classic, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Ceria, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Ch 8, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Channel 3 Thailand, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Channel 4, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Channel 5, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Channel 5 Thailand, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Channel 7 Thailand, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Channel 8, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Channel U, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: CI, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: CinemaWorld, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2392 ms, Max Speed: 0.87 M/s, Avg Speed: 0.87 M/s, Max Resolution: None
+Category: asia, Name: CINEMAX, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Citra, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: CNA, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: CNBC, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Colors Tamil, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Daai TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Discovery Asia, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Discovery Kids Tamil, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Discovery Tamil, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Discovery World Tamil, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: DW (Deutsch), Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: ELTV生活英語台, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 2119 ms, Max Speed: 1.44 M/s, Avg Speed: 1.44 M/s, Max Resolution: None
+Category: asia, Name: Entertain, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Euronews, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: EWTN, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: EYE 旅游台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: EYE 戏剧台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Fashion TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Fight Sports, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Fox News, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: France 24, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Freesports, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Global Trekker, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2171 ms, Max Speed: 0.96 M/s, Avg Speed: 0.96 M/s, Max Resolution: None
+Category: asia, Name: Gmm Channel, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: GmmOne, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Goshop, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: GTV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: HGTV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: History, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: History Tamil, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Hits Movie, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: iNews TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: INULTRA, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2193 ms, Max Speed: 0.95 M/s, Avg Speed: 0.95 M/s, Max Resolution: None
+Category: asia, Name: itv 1, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: itv 2, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Jak TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: JTV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: KBS World, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Kids TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Kompass TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Lifestyle&Fashion, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Love Nature, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2077 ms, Max Speed: 0.99 M/s, Avg Speed: 0.99 M/s, Max Resolution: None
+Category: asia, Name: Makkal TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Metro TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: MeWatch Ch 5, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: MeWatch Ch 8, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: MeWatch Ch U, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: MeWatch CNA, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: MeWatch Suria, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: MeWatch Vasantham, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: MiaoMi, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: MNC TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Momo TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: MOMO親子台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2684 ms, Max Speed: 0.77 M/s, Avg Speed: 0.77 M/s, Max Resolution: None
+Category: asia, Name: Mono, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: More4, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: MTV Live, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Music TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Muslim TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: NatGeo Tamil, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Natgeo Wild Tamil, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Natgeo_HD, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Nation, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: NBA TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Nbt, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Net TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: New, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: News 18 Tamil, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Nick Jr, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Nickelodeon, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: NTV7, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Oasis, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: One, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Paramount Network, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Pick TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: PPTV Thailand1, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Prima, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Rania, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: RCTI, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Ria, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Ria-3, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: ROCK Action, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2062 ms, Max Speed: 1.02 M/s, Avg Speed: 1.02 M/s, Max Resolution: None
+Category: asia, Name: Rock Actions, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: ROCK Entertainment, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2212 ms, Max Speed: 0.94 M/s, Avg Speed: 0.94 M/s, Max Resolution: None
+Category: asia, Name: RTM Asean, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: RTV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Rugby Pass TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: SCM, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: SCTV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Sensasi, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Siar, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Skynews, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Skysports Cricket, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Skysports EPL, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Skysports F1, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Skysports Main Event, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Skysports Mix, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Skysports News, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Sony Ten 1, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Sony Ten 2, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Sony Ten 3, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Sony Yay Tamil, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: SPO TV 2, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Star Vijay, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Sun Music, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Sun TV India, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Supersports 1, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Supersports 2, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Supersports 3, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Supersports 4, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Suria, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Tawaf TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Thai Thai, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Thairath, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Thrill, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: TLC, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: TLC旅遊生活, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Tnn24, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Tnt Sports 1, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: TNT Sports 2, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: TNT Sports 3, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: TNT Sports 4, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: tpbs, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: TPTV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: TRACE Sport Stars, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2117 ms, Max Speed: 0.78 M/s, Avg Speed: 0.78 M/s, Max Resolution: None
+Category: asia, Name: TRACE Urban, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2236 ms, Max Speed: 1.29 M/s, Avg Speed: 1.29 M/s, Max Resolution: None
+Category: asia, Name: Trans 7, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Transtv, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: TV1, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: TV2, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: TV3, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: TV3 SD, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: TV8, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: TV9, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: TVMU, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: TvN, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: tvN Movie, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Tvone, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: TVRI National, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Vasantham, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Vellithirai, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Vijay Super, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Vision Prime, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Warner TV, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: WION, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Workpoint, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: WWE, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Zee Action, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Zee Business, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Zee News, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: Zee Tamil, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 客家電視台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2377 ms, Max Speed: 0.72 M/s, Avg Speed: 0.72 M/s, Max Resolution: None
+Category: asia, Name: 美食星球, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 年代新闻, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 時尚運動X, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1810 ms, Max Speed: 0.39 M/s, Avg Speed: 0.39 M/s, Max Resolution: None
+Category: asia, Name: 視納華仁紀實頻道, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 2154 ms, Max Speed: 0.91 M/s, Avg Speed: 0.91 M/s, Max Resolution: None
+Category: asia, Name: 卫视电影台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 无线新闻, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 无线新闻台, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 戲劇免費看 1台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2011 ms, Max Speed: 1.04 M/s, Avg Speed: 1.04 M/s, Max Resolution: None
+Category: asia, Name: 幸福空間居家台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1984 ms, Max Speed: 1.06 M/s, Avg Speed: 1.06 M/s, Max Resolution: None
+Category: asia, Name: 亚洲TLC, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 亚洲旅游台, Total: 3, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 亚洲美食, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
+Category: asia, Name: 影迷數位電影台, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 1, IPv6: 1, Min Delay: 2269 ms, Max Speed: 0.68 M/s, Avg Speed: 0.68 M/s, Max Resolution: None
+Category: asia, Name: 影迷數位紀實台, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 2075 ms, Max Speed: 1.34 M/s, Avg Speed: 1.34 M/s, Max Resolution: None
+Category: asia, Name: 豬哥亮歌廳秀, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 1, IPv6: 0, Min Delay: 1941 ms, Max Speed: 1.07 M/s, Avg Speed: 1.07 M/s, Max Resolution: None
 Category: 体育, Name: MUTV, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 体育, Name: 智林体育台, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
