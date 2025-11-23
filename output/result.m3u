@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/yyqyu/iptv/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-11-23 14:26:43
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-11-23 14:49:41
 http://bxtv.3a.ink/migu.php?id=608807420
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视",CCTV1
 http://bxtv.3a.ink/migu.php?id=608807420
@@ -20,8 +20,6 @@ http://bxtv.3a.ink/migu.php?id=631780532
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视",CCTV2
 http://jiugong.wulinsy.cn:39901/tsfile/live/0002_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视",CCTV2
-http://101.74.29.127:9901/tsfile/live/0002_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视",CCTV2
 http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/1500/index.m3u8?msisdn=20251123120034cdc60b57156a4f9c84a58deb3d76a7f3&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20251123120034&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=106.13.250.89&SecurityKey=20251123120034&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=ec2563320ce52df7a2171469f8b2def2&ddCalcu=2efcee22d51260b383f2906c4e15721d2fa7
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视",CCTV2
 https://smt.passwdword.xyz/Smart.php?id=cctv2
@@ -33,10 +31,6 @@ https://smart.dxjc.pp.ua/smt.php?id=cctv2
 http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/1500/index.m3u8?msisdn=20251123140029e01b778be74c4f8caf916db337eb67cb&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20251123140029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=106.13.250.83&SecurityKey=20251123140029&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=5ba1a77a266caafb63e8fe27d63937b8&ddCalcu=85bbe7a23119a03767da7226e6fc8aea3f6b
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视",CCTV3
 http://bxtv.3a.ink/migu.php?id=624878271
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视",CCTV3
-http://jiugong.wulinsy.cn:39901/tsfile/live/0003_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视",CCTV3
-http://101.74.29.127:9901/tsfile/live/0003_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视",CCTV3
 http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=202511231200349d475c1e0cbb40fbb81fa0e216864e3d&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20251123120034&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=106.13.250.89&SecurityKey=20251123120034&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=42d796350859c1c147739767758c1574&ddCalcu=4472e5d2174c90865375706875993c717c41
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视",CCTV3
@@ -52,8 +46,6 @@ http://bxtv.3a.ink/migu.php?id=631780421
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视",CCTV4
 http://jiugong.wulinsy.cn:39901/tsfile/live/0004_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视",CCTV4
-http://101.74.29.127:9901/tsfile/live/0004_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视",CCTV4
 http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/1500/index.m3u8?msisdn=2025112312003458d55f7b279a417ab709056069ef50b8&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20251123120034&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=106.13.250.89&SecurityKey=20251123120034&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=618566dcfb1cefa27ebe3dd50d37794f&ddCalcu=f641e98275176036dd0c5fdbd13ceebfea72
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视",CCTV4
 https://smt.passwdword.xyz/Smart.php?id=Cctv4
@@ -67,12 +59,12 @@ https://tzh911.qzz.io/play-smt.php?id=cctv4
 https://smart.dxjc.pp.ua/smt.php?id=cctv4
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视",CCTV4
 https://smart.dxjc.pp.ua/smt.php?id=Cctv4
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视",CCTV5
-http://jiugong.wulinsy.cn:39901/tsfile/live/0005_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视",CCTV4
+http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/1500/index.m3u8?msisdn=2025112314002997ba137e44f24b1e819f8cf94aa03173&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20251123140029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=106.13.250.83&SecurityKey=20251123140029&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=8ac25b8ef9beeaf9464d00464b61d889&ddCalcu=988ae8c2d211506bb84e6f490b0ede4a6f49
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视",CCTV5
 http://bxtv.3a.ink/migu.php?id=641886683
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视",CCTV5
-http://101.74.29.127:9901/tsfile/live/0005_1.m3u8?key=txiptv
+http://jiugong.wulinsy.cn:39901/tsfile/live/0005_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视",CCTV5
 http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=2025112312003581ce66c974b64ba08de34a07506c1817&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20251123120035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=106.13.250.89&SecurityKey=20251123120035&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=bc66c17e079735b1b00845f7e9566a80&ddCalcu=0b8cea626616c05197ee70f7594783050bb1
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视",CCTV5
@@ -87,20 +79,20 @@ https://tzh911.qzz.io/play-smt.php?id=cctv5plus
 https://smart.dxjc.pp.ua/smt.php?id=cctv5
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视",CCTV5
 https://smart.dxjc.pp.ua/smt.php?id=cctv5plus
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视",CCTV5+
-http://jiugong.wulinsy.cn:39901/tsfile/live/0016_2.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视",CCTV5
+http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=2025112314003069096b6845d3489da221e9372ef80d7a&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20251123140030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=106.13.250.83&SecurityKey=20251123140030&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=0f2d1157480c4230c5b2745d83222d1f&ddCalcu=f01fed222d1210213587d458407c24b253c0
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视",CCTV5+
 http://bxtv.3a.ink/migu.php?id=641886773
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视",CCTV5+
+http://jiugong.wulinsy.cn:39901/tsfile/live/0016_2.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视",CCTV5+
 http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=20251123120035c933de32b10742dcab8fe9b926cd5ace&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20251123120035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=106.13.250.89&SecurityKey=20251123120035&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=58bd02840671ffb7aa154925be383501&ddCalcu=1508e5b23d180032e8b4502697415f1faba7
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视",CCTV5+
 http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=202511231400301eee749daa0447b280237e06f66d863c&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20251123140030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=106.13.250.83&SecurityKey=20251123140030&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=2335ee34b71fa705ed31ec752764a82a&ddCalcu=a223e832a514e06e73245b77c1ef1a37d0e5
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视",CCTV6
-http://jiugong.wulinsy.cn:39901/tsfile/live/0006_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视",CCTV6
 http://bxtv.3a.ink/migu.php?id=624878396
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视",CCTV6
-http://101.74.29.127:9901/tsfile/live/0006_1.m3u8?key=txiptv
+http://jiugong.wulinsy.cn:39901/tsfile/live/0006_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视",CCTV6
 http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?msisdn=20251123120035a46089b4cfe1426d91a6ed8fde044c5b&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20251123120035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=106.13.250.89&SecurityKey=20251123120035&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a2035a0ede54bc754515afc128f1a173&ddCalcu=3a72e102a34150fa802e1dcef5a45b1c5745
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视",CCTV6
@@ -116,8 +108,6 @@ http://bxtv.3a.ink/migu.php?id=673168121
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视",CCTV7
 http://jiugong.wulinsy.cn:39901/tsfile/live/0007_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视",CCTV7
-http://101.74.29.127:9901/tsfile/live/0007_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视",CCTV7
 http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/51/index.m3u8?msisdn=202511231200353bb38b7f2d30497c9ba794687010bc39&mdspid=&spid=699004&netType=0&sid=5501083622&pid=2028597139&timestamp=20251123120035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=106.13.250.89&SecurityKey=20251123120035&promotionId=&mvid=5102910278&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=b4ff866833213db45f9aee22b846fdf4&ddCalcu=4bf4edf2ff36804686b82323e2e1a39dfb54
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视",CCTV7
 https://smt.passwdword.xyz/Smart.php?id=cctv7
@@ -131,8 +121,6 @@ http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/51/index.m3u8?msis
 http://bxtv.3a.ink/migu.php?id=624878356
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视",CCTV8
 http://jiugong.wulinsy.cn:39901/tsfile/live/0008_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视",CCTV8
-http://101.74.29.127:9901/tsfile/live/0008_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视",CCTV8
 http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?msisdn=202511231200350f3aae7ef3174129b16366a36fd0389f&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20251123120035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=106.13.250.89&SecurityKey=20251123120035&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=33ba5160975c57b83ececee6cced2549&ddCalcu=9343e5b22a4d50e1c6c069e7e5cce5c7eb38
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视",CCTV8
@@ -148,8 +136,6 @@ http://bxtv.3a.ink/migu.php?id=673168140
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视",CCTV9
 http://jiugong.wulinsy.cn:39901/tsfile/live/0009_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视",CCTV9
-http://101.74.29.127:9901/tsfile/live/0009_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视",CCTV9
 http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/51/index.m3u8?msisdn=20251123120035def7f70a7cc347d589cf2079cd0023bd&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20251123120035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=106.13.250.89&SecurityKey=20251123120035&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=77e1748757249333dcbe5baceaf5cd2a&ddCalcu=a727ede2c13570f4a8e7c5a7b254e9b3c3d3
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视",CCTV9
 https://smt.passwdword.xyz/Smart.php?id=cctv9hd
@@ -163,8 +149,6 @@ http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/51/index.m3u8?msis
 http://bxtv.3a.ink/migu.php?id=624878405
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视",CCTV10
 http://jiugong.wulinsy.cn:39901/tsfile/live/0010_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视",CCTV10
-http://101.74.29.127:9901/tsfile/live/0010_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视",CCTV10
 http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?msisdn=202511231200351eaf9701f2104a36a0cd3a145f2aeac5&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20251123120035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=106.13.250.89&SecurityKey=20251123120035&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=7f6d6fe5e799ef62f3babad689aaf6f4&ddCalcu=47ffe662fd4a60af9e856ed7a9b9aebf36f2
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视",CCTV10
@@ -180,8 +164,6 @@ http://bxtv.3a.ink/migu.php?id=667987558
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视",CCTV11
 http://jiugong.wulinsy.cn:39901/tsfile/live/0011_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视",CCTV11
-http://101.74.29.127:9901/tsfile/live/0011_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视",CCTV11
 http://gslbmgsplive.miguvideo.com/migu/kailu/cctv11hd/51/20200103/index.m3u8?msisdn=20251123120035afb6e779e35a4f499a7ae5372871be0a&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20251123120035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=106.13.250.89&SecurityKey=20251123120035&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=0c16dede8fce85fe78d96899ea5746f9&ddCalcu=90fce6124677d05eadee989f8c6e98d58f7e
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视",CCTV11
 https://smt.passwdword.xyz/Smart.php?id=cctv11
@@ -195,8 +177,6 @@ http://gslbmgsplive.miguvideo.com/migu/kailu/cctv11hd/51/20200103/index.m3u8?msi
 http://bxtv.3a.ink/migu.php?id=673168185
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视",CCTV12
 http://jiugong.wulinsy.cn:39901/tsfile/live/0012_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视",CCTV12
-http://101.74.29.127:9901/tsfile/live/0012_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视",CCTV12
 http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/51/index.m3u8?msisdn=202511231200356ccf55699447443f9e383d6791b19ad5&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20251123120035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=106.13.250.89&SecurityKey=20251123120035&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=badedae98ceef5efb341eea3765f4181&ddCalcu=1b8ae1d24e3fd05a6e7938aceeee1f453ebf
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视",CCTV12
@@ -212,8 +192,6 @@ http://bxtv.3a.ink/migu.php?id=608807423
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视",CCTV13
 http://jiugong.wulinsy.cn:39901/tsfile/live/0013_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视",CCTV13
-http://101.74.29.127:9901/tsfile/live/0013_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视",CCTV13
 http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=2025112312003664f54697c2ea460995d67b7c61a89796&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20251123120036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=106.13.250.89&SecurityKey=20251123120036&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=17199462626f40e49b76450ee0801dc0&ddCalcu=01c7ed121980908406e2e602564f6470be94
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视",CCTV13
 https://smt.passwdword.xyz/Smart.php?id=cctv13
@@ -228,8 +206,6 @@ http://bxtv.3a.ink/migu.php?id=624878440
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视",CCTV14
 http://jiugong.wulinsy.cn:39901/tsfile/live/0014_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视",CCTV14
-http://101.74.29.127:9901/tsfile/live/0014_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视",CCTV14
 http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?msisdn=202511231200362de5c8d468864c9eae9f2ce830765345&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20251123120036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=106.13.250.89&SecurityKey=20251123120036&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=0fefd124cd619ebdf7f21977cc5a9825&ddCalcu=502fe8e29f4ad051c2c47c7d961129fe7bfd
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视",CCTV14
 https://smt.passwdword.xyz/Smart.php?id=cctv14
@@ -243,8 +219,6 @@ http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?msisdn
 http://bxtv.3a.ink/migu.php?id=673168223
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视",CCTV15
 http://jiugong.wulinsy.cn:39901/tsfile/live/0015_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视",CCTV15
-http://101.74.29.127:9901/tsfile/live/0015_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视",CCTV15
 http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/51/index.m3u8?msisdn=20251123120036353ae43d68704a818ceb41384b47c212&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20251123120036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=106.13.250.89&SecurityKey=20251123120036&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=96701e66e28d4546329b1640f43488c0&ddCalcu=09c6e8728034103e46f60e42681db4952436
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视",CCTV15
@@ -261,8 +235,6 @@ https://smt.passwdword.xyz/Smart.php?id=cctv16
 https://tzh911.qzz.io/play-smt.php?id=cctv16
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视",CCTV17
 http://bxtv.3a.ink/migu.php?id=673168256
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视",CCTV17
-http://101.74.29.127:9901/tsfile/live/1009_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视",CCTV17
 http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=2025112312003647ab304e75f040bfa4b4dc2092fc930e&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20251123120036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=106.13.250.89&SecurityKey=20251123120036&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=b76fb1fee1d8d5f0e13dbb8b7ba5a1c0&ddCalcu=0bc7e162af35b0a1bf7ebe81bdb8dd351fe0
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视",CCTV17
@@ -393,6 +365,12 @@ https://tzh911.qzz.io/play-smt.php?id=guangxi
 http://118.193.105.26:9901/tsfile/live/0141_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="卫视",贵州卫视
 http://jiugong.wulinsy.cn:39901/tsfile/live/0120_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="卫视",贵州卫视
+http://101.74.29.127:9901/tsfile/live/0120_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="卫视",贵州卫视
+http://118.193.105.26:9901/tsfile/live/0120_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="卫视",贵州卫视
+http://123.113.110.212:9901/tsfile/live/0120_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="卫视",海南卫视
 http://gslbmgsplive.miguvideo.com/envivo_x/SD/lvyou/711/index.m3u8?msisdn=202511231000515cebbf81c08942d48944e822b7aa3a76&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20251123100051&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=106.13.250.90&SecurityKey=20251123100051&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=016442b1b50d0d8cf0872b0f9c9b3797&ddCalcu=7091e762347b4092cb91fb05b02d708d08fc
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="卫视",海南卫视
@@ -470,7 +448,15 @@ https://smt.passwdword.xyz/Smart.php?id=sichuan_twn
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="卫视",四川卫视
 https://tzh911.qzz.io/play-smt.php?id=sichuan_twn
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="卫视",天津卫视
+http://jiugong.wulinsy.cn:39901/tsfile/live/0135_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="卫视",天津卫视
 http://101.74.29.127:9901/tsfile/live/0135_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="卫视",天津卫视
+http://118.193.105.26:9901/tsfile/live/0135_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="卫视",天津卫视
+http://123.113.110.212:9901/tsfile/live/0135_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="卫视",天津卫视
+http://zhuoyue.sihanlin.top:9901/tsfile/live/0135_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="卫视",新疆卫视
 http://118.193.105.26:9901/tsfile/live/0110_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="卫视",云南卫视
