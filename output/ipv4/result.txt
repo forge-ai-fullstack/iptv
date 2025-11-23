@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-24 02:44:45,http://bxtv.3a.ink/migu.php?id=608807420
+2025-11-24 02:56:39,http://bxtv.3a.ink/migu.php?id=608807420
 
 央视,#genre#
 CCTV1,http://bxtv.3a.ink/migu.php?id=608807420
@@ -14,7 +14,6 @@ CCTV7,http://jiugong.wulinsy.cn:39901/tsfile/live/0007_1.m3u8?key=txiptv
 CCTV12,http://jiugong.wulinsy.cn:39901/tsfile/live/0012_1.m3u8?key=txiptv
 中国天气,http://bxtv.3a.ink/migu.php?id=959986621
 CETV1,http://bxtv.3a.ink/migu.php?id=923287154
-CETV4,http://bxtv.3a.ink/migu.php?id=923287339
 CHC影迷电影,http://bxtv.3a.ink/migu.php?id=952383261
 CHC家庭影院,http://bxtv.3a.ink/migu.php?id=644368373
 
