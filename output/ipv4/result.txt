@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-24 23:41:05,http://zhuoyue.sihanlin.top:9901/tsfile/live/1030_1.m3u8?key=txiptv
+2025-11-24 23:53:17,http://zhuoyue.sihanlin.top:9901/tsfile/live/1030_1.m3u8?key=txiptv
 
 央视,#genre#
 CHC家庭影院,http://zhuoyue.sihanlin.top:9901/tsfile/live/1030_1.m3u8?key=txiptv
@@ -18,7 +18,6 @@ CHC家庭影院,http://zhuoyue.sihanlin.top:9901/tsfile/live/1030_1.m3u8?key=txi
 
 地方,#genre#
 北京卡酷少儿,http://jiugong.wulinsy.cn:39901/tsfile/live/1013_1.m3u8?key=txiptv
-北京卡酷少儿,http://118.193.105.26:9901/tsfile/live/0139_2.m3u8?key=txiptv
 
 asia,#genre#
 TVBS,https://4gtvmobile-mozai.4gtv.tv/8HBFFPEY3qtH9GrgQRkISbfK98EMGngs5-zt7NN6riI%3d/index.m3u8?token=dHe8IXZFtXpY9BMfaxYClg&expires=1764007753&token1=GNiHIncFqV4_MnZkgGtREw&expires1=1764007753&refer=MTkwNjAxZDItNTc1ZC00MjBkLTkwNTYtZjc4ZWRlMTZlMWI3&y=0
