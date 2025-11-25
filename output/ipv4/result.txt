@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-25 11:46:39,http://zhuoyue.sihanlin.top:9901/tsfile/live/1030_1.m3u8?key=txiptv
+2025-11-25 12:05:40,http://zhuoyue.sihanlin.top:9901/tsfile/live/1030_1.m3u8?key=txiptv
 
 央视,#genre#
 CHC家庭影院,http://zhuoyue.sihanlin.top:9901/tsfile/live/1030_1.m3u8?key=txiptv
@@ -17,8 +17,8 @@ CHC家庭影院,http://zhuoyue.sihanlin.top:9901/tsfile/live/1030_1.m3u8?key=txi
 新疆卫视,http://118.193.105.26:9901/tsfile/live/0110_1.m3u8?key=txiptv
 云南卫视,http://zhuoyue.sihanlin.top:9901/tsfile/live/0119_1.m3u8?key=txiptv
 重庆卫视,http://101.74.29.127:9901/tsfile/live/0142_1.m3u8?key=txiptv
-重庆卫视,http://118.193.105.26:9901/tsfile/live/0142_1.m3u8?key=txiptv
 重庆卫视,http://zhuoyue.sihanlin.top:9901/tsfile/live/0142_1.m3u8?key=txiptv
+重庆卫视,http://118.193.105.26:9901/tsfile/live/0142_1.m3u8?key=txiptv
 
 地方,#genre#
 北京卡酷少儿,http://jiugong.wulinsy.cn:39901/tsfile/live/1013_1.m3u8?key=txiptv
@@ -37,6 +37,7 @@ TVBS,https://4gtvmobile-mozai.4gtv.tv/XavwF9il3p6S4CiuzsetUF7ecAkhvyQb4VhLf-D06i
 經典卡通台,https://4gtvmobile-mozai.4gtv.tv/TCpg0cUSDLNTOnezk00oddmUwoSrCbAK90pBj9O2Nkc%3d/index.m3u8?token=M7v75sNJwMMcy9n9a-kWoA&expires=1764051522&token1=WtQv5ELvkzOPvWNC7nELmQ&expires1=1764051522&refer=NDc4YTMyZWMtYjhmZi00YTc3LTkzMTUtM2ZkZTI2MzY0YTM5&y=0
 精選動漫台,https://4gtvmobile-mozai.4gtv.tv/IhejN1vYq1z0apx4B6e-X7l_5QFHLzHYITdPzXIdW9Q%3d/index.m3u8?token=bqE8M74MJ35dC6qvCNOenQ&expires=1764051529&token1=WA9jIOMdKJEknJVwePVO7Q&expires1=1764051529&refer=ODNkNGYyYWQtYTM1Yi00YWRjLWEyNTYtZDBhZGRiZWJlMDI5&y=0
 靖天卡通台,https://4gtvmobile-mozai.4gtv.tv/T51x8kvcm9Hjs3Zw1pKLYc2eWaFuYfveElTgJ_p9H7Y%3d/index.m3u8?token=8KFPzuwgSPWnGGaYr7oulg&expires=1764050732&token1=Dqt2_Aa4XF8LhYkAk95mvQ&expires1=1764050732&refer=MjZmZjdmZDAtNDcyMi00Mjc3LWEyMWUtYjFhYzBhMzVkZmI0&y=0
+靖天綜合台,https://4gtvmobile-mozai.4gtv.tv/BUhWO9gWyKlH9itsw1calru22l8nC-LWlflwRqlexeQ%3d/index.m3u8?token=qOp8_6S7JfFFEjIKmZWltg&expires=1764050584&token1=SDnQACoVtu49GfUiHCkzmw&expires1=1764050584&refer=Y2UyNDcxNjUtY2UyZi00NzJhLTkwY2QtMDIxOWM5YzhhYmM0&y=0
 CinemaWorld,https://4gtvmobile-mozai.4gtv.tv/y_H2Zdvujr6NNV9XrokffZgmOZxl2Q9on9Y-neMKRkw%3d/index.m3u8?token=SmIEuusgmCqX-fObFtotYg&expires=1764051389&token1=BfU8mlZ0mt9oHQy8reKh6w&expires1=1764051389&refer=ZmJlMjY5MDgtNjRhMi00NWY1LWE0Y2ItZDQzMjE3MzhiMTM4&y=0
 ELTV生活英語台,https://4gtvmobile-mozai.4gtv.tv/jom6y3IrE9quNsm5ClFVdjzQli66Q-CwT1wsuRvsMXg%3d/index.m3u8?token=KOxLVibfwzA8m6GqV7KL7w&expires=1764050698&token1=YBBcafEsXdaa3EhPgZRFxg&expires1=1764050698&refer=NmUyMDEyMWEtZmMyZC00NWIwLThkY2YtYWZkYjJjMGM2Yzg0&y=0
 Global Trekker,https://4gtvmobile-mozai.4gtv.tv/9BOG7fZuLiA7pHcxwpJpn2Uhx0sWc_a74AjVz90hDfo%3d/index.m3u8?token=l04iU-UU-AwZVnN3iXLERg&expires=1764050654&token1=xhMr_scsj_KIWQwkeQghrg&expires1=1764050654&refer=YzQzZDFiMjAtNGY3Yy00ZjU1LTg3YzUtNTgzOWM1OWFjMGFi&y=0
