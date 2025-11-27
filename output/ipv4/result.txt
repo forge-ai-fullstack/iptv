@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-27 23:16:45,http://zhuoyue.sihanlin.top:9901/tsfile/live/1030_1.m3u8?key=txiptv
+2025-11-27 23:35:53,http://zhuoyue.sihanlin.top:9901/tsfile/live/1030_1.m3u8?key=txiptv
 
 央视,#genre#
 CHC家庭影院,http://zhuoyue.sihanlin.top:9901/tsfile/live/1030_1.m3u8?key=txiptv
@@ -9,14 +9,16 @@ CHC家庭影院,http://zhuoyue.sihanlin.top:9901/tsfile/live/1030_1.m3u8?key=txi
 甘肃卫视,http://118.193.105.26:9901/tsfile/live/0141_1.m3u8?key=txiptv
 贵州卫视,http://jiugong.wulinsy.cn:39901/tsfile/live/0120_1.m3u8?key=txiptv
 河北卫视,http://101.74.29.127:9901/tsfile/live/0117_1.m3u8?key=txiptv
+河北卫视,http://118.193.105.26:9901/tsfile/live/0117_1.m3u8?key=txiptv
+河北卫视,http://zhuoyue.sihanlin.top:9901/tsfile/live/0117_1.m3u8?key=txiptv
 黑龙江卫视,http://jiugong.wulinsy.cn:39901/tsfile/live/0143_1.m3u8?key=txiptv
 山东卫视,http://jiugong.wulinsy.cn:39901/tsfile/live/0131_1.m3u8?key=txiptv
 天津卫视,http://jiugong.wulinsy.cn:39901/tsfile/live/0135_1.m3u8?key=txiptv
 新疆卫视,http://118.193.105.26:9901/tsfile/live/0110_1.m3u8?key=txiptv
 云南卫视,http://zhuoyue.sihanlin.top:9901/tsfile/live/0119_1.m3u8?key=txiptv
 重庆卫视,http://101.74.29.127:9901/tsfile/live/0142_1.m3u8?key=txiptv
-重庆卫视,http://zhuoyue.sihanlin.top:9901/tsfile/live/0142_1.m3u8?key=txiptv
 重庆卫视,http://118.193.105.26:9901/tsfile/live/0142_1.m3u8?key=txiptv
+重庆卫视,http://zhuoyue.sihanlin.top:9901/tsfile/live/0142_1.m3u8?key=txiptv
 
 地方,#genre#
 北京卡酷少儿,http://jiugong.wulinsy.cn:39901/tsfile/live/1013_1.m3u8?key=txiptv
@@ -24,49 +26,35 @@ CHC家庭影院,http://zhuoyue.sihanlin.top:9901/tsfile/live/1030_1.m3u8?key=txi
 asia,#genre#
 TVBS,https://4gtvmobile-mozai.4gtv.tv/6Spj-U5QUZ0sCZDEthLxvyM7X1LzE80iYTlUTURIZKo%3d/index.m3u8?token=3aOMQx8UkeVLd2io46Yl7w&expires=1764267007&token1=SJHj23noiOI8FyPg_VnFUg&expires1=1764267007&refer=Mzk2ZGU0MWQtZDVhYi00MzQwLWE0NWUtZjJkZjI3ZjNhYWY3&y=0
 采昌影劇台,https://4gtvmobile-mozai.4gtv.tv/TxMwXObBy9djaJUY-dm98N9YA0IFbu1isHbx02nZh6A%3d/index.m3u8?token=k2AufxgRu7HhAgp9TAN8wQ&expires=1764267533&token1=9MqWMfmLPQJcSPh__rCXvw&expires1=1764267533&refer=NTE3ZmIxNDMtZTgyNS00MTkxLTk4ZGQtMTM2NjFkMjRhNmI1&y=0
-采昌影劇台,https://4gtvmobile-mozai.4gtv.tv/uLXHHB0eeMh30oHjJ75ygM_Bx0kn4yR4Ug3hgOFy140%3d/index.m3u8?token=nWJLJioHVjUGFdZuGcmgDQ&expires=1764256713&token1=7SQP7GdIWLj6LIKwzALm6A&expires1=1764256713&refer=M2Y0MmE0NDQtMTBiMy00NjllLWIxNzAtZWVmMTczMWU5MjQ0&y=0
 大愛電視,https://4gtvmobile-mozai.4gtv.tv/OtFaCmv1AWNw-NJoJaSheZaQlt2hQCQGPQKhmQkKhLY%3d/index.m3u8?token=q24mI83-ngbuMLbiGxDweQ&expires=1764266532&token1=_RHHO17A279uqqFOg9BVrQ&expires1=1764266532&refer=MGNjN2E2NDEtYjc2ZS00M2VkLThhMzktZjYyM2JlMGM3ZjVm&y=0
-大愛二台,https://4gtvmobile-mozai.4gtv.tv/XFYLMBUJiHHf1-CyJ3uJFeN_J7iOW0nEsmgw8kw7VcM%3d/index.m3u8?token=yuV0wWzmPw06Ln-uW7ifPg&expires=1764256809&token1=Xv1GKitbRHm5MbdwiSfDuw&expires1=1764256809&refer=NTQ4YTg1MjQtYTNiZS00ZjlmLTkyZWEtNmM5MTQ1OTZkMzk2&y=0
 大愛二台,https://4gtvmobile-mozai.4gtv.tv/ZrKq_xp4j5HUv1dbcqsxEFmBZh3dqXwfSEAhhO2kYE0%3d/index.m3u8?token=KvmXpzRZu_DWptt8pDTh5g&expires=1764267631&token1=hx642Xw6SH6ILCx7sJ2_jg&expires1=1764267631&refer=ZDk0OGZiNzMtMzE3MS00Yzc3LWJlYWYtYjI5Njc2MWIxZWJh&y=0
 電影原聲台CMusic,https://4gtvmobile-mozai.4gtv.tv/_eXnpGllmGEvltKKfz7K_d_TpwsZRmE85ULv7h_mTjA%3d/index.m3u8?token=mQ8-0NZbD5f5dSKfmo7YiQ&expires=1764267145&token1=7Oe65CzeEbZFctFVuFbufQ&expires1=1764267145&refer=MTVjYjZiZjctNTYzZS00ZjdjLThjY2YtYzhlYzdiOWQ1ZDkw&y=0
 滾動力rollor,https://4gtvmobile-mozai.4gtv.tv/O5CKbQm0CuD_OBzO8kWhnsu0WV0aTKqjU05z3x50TsM%3d/index.m3u8?token=HgnWKHC9R9jIni3WorH3qg&expires=1764267295&token1=jbunp658OeE1g4tv_gW4Uw&expires1=1764267295&refer=NDQ3ZDc2MzYtYWE4NC00ZTI3LWEwMGQtYTdkOGMxNjRmYmQ1&y=0
 好消息,https://4gtvmobile-mozai.4gtv.tv/aYeWdCmYQE3_jmz6no__w2LDANeGd-zfDaipO-T9AOY%3d/index.m3u8?token=OOSb24LATHIMQjm6n-TDOA&expires=1764267611&token1=a0woHI3mBfMiS6EH395Alg&expires1=1764267611&refer=NTJhMTdiZWEtMGRkOS00NWVmLTg1ZmYtNGIwMzY0NzY0NmRl&y=0
-好消息,https://4gtvmobile-mozai.4gtv.tv/InTrHGZ8g5dDPQoLPYXRs9ZXMJk8zmh_sFkCWE-gZks%3d/index.m3u8?token=4cFTvH23bY2qNgKS9p6kVQ&expires=1764256785&token1=B0P2c_mrl9mDiz704Szd9g&expires1=1764256785&refer=ZjQ2NDQzYzItOTMyYy00ZTkyLWFlNzctMjBlMzY1NmY2YjAw&y=0
-好消息2台,https://4gtvmobile-mozai.4gtv.tv/dDNxF-J2bQxbLBQKQ8DFjKol-X_ZkmwIdWIAo9jtHCk%3d/index.m3u8?token=A8mH9fhlAN9z4dfVEJsSnQ&expires=1764256802&token1=qf3vp2gLtxraNVhpjxYAkw&expires1=1764256802&refer=NDIyZTlhNzctNWJjNC00OGVhLWIxMGYtYzdjZWU5NzgwYjBh&y=0
 好消息2台,https://4gtvmobile-mozai.4gtv.tv/1_QRvnosp2N7MxMu9nXMnuXColNMeEUwd6mdXRK9ag8%3d/index.m3u8?token=CPkQkayofHzCFlGv7Q8Qdg&expires=1764267623&token1=gRvaT4xNM0pWUpy6o-PcFw&expires1=1764267623&refer=ZmRmZmM5NzctYmMyZS00MmY0LThiMTMtNzkwNjJlOTM5N2Zi&y=0
-金光布袋戲,https://4gtvmobile-mozai.4gtv.tv/otvAPnymWg7lW2nk7sjMe-BLhtCgr6dWJrxsbbdXNYg%3d/index.m3u8?token=veJEzo6UvugkHfIcvJ9VBg&expires=1764256688&token1=K7ybxLIQN8rVFlqfio-Seg&expires1=1764256688&refer=Y2U2MjhjNDQtMTBhYS00Mjc0LTgzYjgtMzdiNGRiOGE5Nzkw&y=0
 金光布袋戲,https://4gtvmobile-mozai.4gtv.tv/tnEmMxlQo4VtG44jEwZR-PJ9CmYkLcQ-WJVQ8rKw7Cg%3d/index.m3u8?token=9Zzn-k_0y5OUlqYu21YMdw&expires=1764267512&token1=oPdU5yu8z2VbDRoe44yuTw&expires1=1764267512&refer=MzQ5OGYwMWYtZDhkZC00M2QzLTk5MDAtYzViYjEzMTFhNWRm&y=0
 經典電影台,https://4gtvmobile-mozai.4gtv.tv/8Zu5snvbaZ_NiWJv3n6Srdd1x2KrTgfMUld6EZ2OscI%3d/index.m3u8?token=iQf-nsQRbHVxmw-TU7N84A&expires=1764267758&token1=qs2tLdWeSPD-_Bv8bE65Ow&expires1=1764267758&refer=N2Q1MTY2NmUtMDFjMy00ZDI3LWJjNWMtYzU1MTA2MWNjOWE5&y=0
-經典電影台,https://4gtvmobile-mozai.4gtv.tv/rWxzx3jslVJF9zyzG_I6elI90cqThw9qXoh1jZTGcKQ%3d/index.m3u8?token=njmlOSpDvqxAi3yo3dZJiQ&expires=1764256929&token1=7PbtIeuZPtRhi0U_BSQxnQ&expires1=1764256929&refer=MTQwOTFmOGUtMGJkOS00MzVlLTg5MjMtODVjODUwOWY0MzM3&y=0
-經典卡通台,https://4gtvmobile-mozai.4gtv.tv/2NuUl84Omx-jPOoacQpm35SUaKeCSCdN7e9QdPfjRjs%3d/index.m3u8?token=4nXzg-MW_LISopf6VLIo7g&expires=1764256938&token1=NiOn3abxa5xn8y_edIgWYA&expires1=1764256938&refer=YjE0MzViOTUtODdmNS00NDRiLWE5MzQtMjBiYTMyMTA0MGQ3&y=0
 經典卡通台,https://4gtvmobile-mozai.4gtv.tv/xVYs4V5I-63o60zO28Zs1g1tyb-77Gvc0MtR-4AkBTE%3d/index.m3u8?token=Mm5AfKrcNsITv_-flC9alw&expires=1764267767&token1=nXZZ_CMkhNmOVRmqhfQcGQ&expires1=1764267767&refer=ZTEyMDVhODMtN2RiMS00MjRkLTlhNTctMDliZTNmNzEyNDlm&y=0
 精選動漫台,https://4gtvmobile-mozai.4gtv.tv/2GkXqxFi7K1A_Fo6N_QJbSeYpYX5F0Zv5ak1vXVBT5Y%3d/index.m3u8?token=oqFLtTiu4soGlIoKb03NzA&expires=1764267777&token1=uEcRF2zc_jmpNOatfvyDsA&expires1=1764267777&refer=YzBlYWZiNzEtZTViNS00MjliLWIxNmUtMjkzMTAwN2Y2NDFk&y=0
-精選動漫台,https://4gtvmobile-mozai.4gtv.tv/QKjjjofpNtrGb4gIwbs1u6Gi2szJ6Q9vMAE9YzPVFQk%3d/index.m3u8?token=POTQSqB6SDSeApxSBjD6RA&expires=1764256955&token1=5xiB9ilDa5s8idXDsAGZIA&expires1=1764256955&refer=ZGMyMWQ5ZjItMjdiMi00Y2M5LWFiY2UtYTY4NDcwOGMyN2Yw&y=0
 靖天卡通台,https://4gtvmobile-mozai.4gtv.tv/pngvtzYlVWzimQJ0Zd2x8haOn4itczYcuDYqlVl2Xv0%3d/index.m3u8?token=Hh8W2UHO0XJpHYGHxSTt8g&expires=1764266803&token1=WTPyS5DGxl-6Y4jBacn4rA&expires1=1764266803&refer=MDc0ZmQ5NjYtMWVhMi00N2RlLWE0NTItNzUzMzhhY2E4YWIx&y=0
 靖天日本台,https://4gtvmobile-mozai.4gtv.tv/EsXDFoz0PEvwTYEEDW9WXWzgdqRemQqRNo9w8OYO_K0%3d/index.m3u8?token=wV6lIl8ohPE0NoC_7cticg&expires=1764266653&token1=j219FWMajrD-dMu13qRnQQ&expires1=1764266653&refer=NGE3YWIzODktNGIzNi00ZTc5LWE2MWMtYTM0MTMxMGVjNzA2&y=0
 靖天綜合台,https://4gtvmobile-mozai.4gtv.tv/4SqSc6ZFzbuDtT6N0dfa7dr8fZHey2d4dK-iXa7HbUA%3d/index.m3u8?token=XrINLNuknZBgqDSwWe51oA&expires=1764266646&token1=QB9kXG0IFuKvE1sCWIxGSA&expires1=1764266646&refer=NmFiZDAwYzQtMzdjYS00MDYyLWEzZDgtNTU2MTg3NWUwMzA0&y=0
 CinemaWorld,https://4gtvmobile-mozai.4gtv.tv/NEkVXNUsgwh25BzcHy8NAgYf6nhyps-LQk3hReG9hAU%3d/index.m3u8?token=7XSJ0qUOfNWR_LIrUxtvsQ&expires=1764267588&token1=2GM5VAgo1n2_3adPv-Mi2A&expires1=1764267588&refer=MTQwNzRjOWUtMDIxNS00ZWZhLWFhNzItYWViNmZjZWIyMDRl&y=0
-CinemaWorld,https://4gtvmobile-mozai.4gtv.tv/atO1dIgZQAHjh1d5gDQtMgRQt2G06bTx0inbNFpY788%3d/index.m3u8?token=IWGXbHQtHYcWnkBvRGythQ&expires=1764256759&token1=t1f8nDNS8cBpUb8aU00Dzw&expires1=1764256759&refer=OTQ4NzUzZjAtMGQyZS00ZWIwLThmMDQtZTdhZTY1YTdlMjE0&y=0
 ELTV生活英語台,https://4gtvmobile-mozai.4gtv.tv/_e4u8RMIDFqZyk_G7XrVrEaR0ko3vgIpoMxpU35evtg%3d/index.m3u8?token=EdL-HF-89qoT5P4_LPVfCA&expires=1764266759&token1=iOmUJX8LrfKnYSplRnpKcw&expires1=1764266759&refer=MDFhMmYwNjMtMmU3OC00MmI3LTg1OWUtYjM5NTg2ODQxNjE2&y=0
 Global Trekker,https://4gtvmobile-mozai.4gtv.tv/sofjzd3dLDep_cxCr8U3m7F9E40MKRx2_EGgfdeqJ8w%3d/index.m3u8?token=M0Ed8xF_cWK--r_cv57AnA&expires=1764266682&token1=YgnxgV2fP_E_K6XEjhxj8Q&expires1=1764266682&refer=OWQ1MWMxZTctZWQ2NC00ODBmLThkMTUtMjgyZDQzNTE1MDVk&y=0
 INULTRA,https://4gtvmobile-mozai.4gtv.tv/hlt84Y57X_CoTMqHh1o9cyaMwY5AI5OP8hO79jcASEM%3d/index.m3u8?token=k-HKTutejrdIzMuo0tystg&expires=1764267204&token1=ocdnt03oc7sDYp3_WnseMg&expires1=1764267204&refer=ZDhkNGIzNTctZThiMy00YzMyLWExMDctM2I4ODhlYTBiOTVi&y=0
 Love Nature,https://4gtvmobile-mozai.4gtv.tv/6xKBndagf0f2S5JReN-iN5tXaOiSULu8NCwA3RVD0os%3d/index.m3u8?token=dijx0_4n8eef-wqx8zQMng&expires=1764267356&token1=UyG9bTtyWpV73EbI9uUdHg&expires1=1764267356&refer=NjYzYzAxNzEtYTRlNC00ZGE4LWI1NmYtNDYzNzE5NDYyNjEx&y=0
 MOMO親子台,https://4gtvmobile-mozai.4gtv.tv/TJq1zS2J_oLyVFu0i85rsYX6sWQyLxY-SpnTYGqhhlc%3d/index.m3u8?token=uY_LhM1r3mi84XHQQWwBQw&expires=1764266818&token1=T83iG4aIsJkNnuHk5QfidQ&expires1=1764266818&refer=M2UxMTJkOGUtMGQ5OS00ODUzLWEwNjEtNGNjZWQ3MzcwMDA1&y=0
 ROCK Action,https://4gtvmobile-mozai.4gtv.tv/hGMC81tmyI00thKKJWgYS95JqPsH5ftJaL8jmrosrv4%3d/index.m3u8?token=PIT6ZPmhAmDXR6ULGuLyaw&expires=1764267523&token1=CfDa1xvmo1VMRVHjhWnMMQ&expires1=1764267523&refer=MTRjMzM5YmEtYWMzMi00MWE4LWJhOWEtNmMyNzE3NTBlOGVj&y=0
-ROCK Action,https://4gtvmobile-mozai.4gtv.tv/9bkWpuhzJD0oGGbylUmBr84xTEmWDkQOUMs03S39ULA%3d/index.m3u8?token=wZ_IULjC0GZPTSeSVSpIqg&expires=1764256698&token1=zrH8J06m2Hl62yACJ0yPbw&expires1=1764256698&refer=YTBmYWIxNTUtMWVkYy00NDk0LWFiMTctYzExMGJlYjQyMGM4&y=0
 ROCK Entertainment,https://4gtvmobile-mozai.4gtv.tv/SyIG6eNJlQ-MD8djc5wMhI3qo4zoOTrInemJPptFA4M%3d/index.m3u8?token=jGoWbtB-7JCfx3x20Ax_HQ&expires=1764267125&token1=DuCZOHUdRPOMu8UIOSyCTA&expires1=1764267125&refer=YzUwZmM5MjEtYzM2MC00N2E4LWEyMGItZjdhYTcxYTJmZGMz&y=0
 TRACE Sport Stars,https://4gtvmobile-mozai.4gtv.tv/xJt16BEzGYDlimXJsvvGhT9qIoxKLhFJKtP3yr39OyA%3d/index.m3u8?token=dl9TrzyCi_NrwNu5A3-rXQ&expires=1764267214&token1=pTLThrswAj0a1MqiA_ib3Q&expires1=1764267214&refer=M2FiZDY3MDYtNDM2Zi00ZmU1LThlMmItZjZhNmM4MTQ4MGJk&y=0
 TRACE Urban,https://4gtvmobile-mozai.4gtv.tv/OAf-Hrr5kMxxvxFSxK7qs-0JYyYsZ27EyNkBWILpkBA%3d/index.m3u8?token=D9Tf9yuG2ZprU4wYqkFB8w&expires=1764267154&token1=uTebGLWyd_QVgbYfAdWTSQ&expires1=1764267154&refer=MjAyM2ZkMGUtOTJlNC00ZTk4LWIyZmEtYTBlNmFlYTllZDAy&y=0
 客家電視台,https://4gtvmobile-mozai.4gtv.tv/b-H3_sukUukxTVYiPAHbU1OpIR7r2QKlmp_pLfZbPBs%3d/index.m3u8?token=U7XMHh-0pPelezGJ2rhPuw&expires=1764266585&token1=wp4rUGuvcCISb2vsssJl0Q&expires1=1764266585&refer=N2I1MmNiMzctZWE3ZC00NmZhLTkzOTYtOTViOWY2MjJhZDZj&y=0
 時尚運動X,https://4gtvmobile-mozai.4gtv.tv/P46ass-h161seGk04PPdoU1m0gUNeQmvDQr3e492R10%3d/index.m3u8?token=NQiP30RXiuxbwYuB213hXg&expires=1764267233&token1=z769wJreURkL46k3JqPY9A&expires1=1764267233&refer=ZTA4Yjg4YjMtM2QxOS00YTE3LTliNjMtNWU3YzJlM2M4NzMz&y=0
-視納華仁紀實頻道,https://4gtvmobile-mozai.4gtv.tv/EkwRUPL_ipOGw1pAlZuuTKbxuxdUv4Drqjsf3RaOoQ4%3d/index.m3u8?token=kid51UCy33-gTDIWD2JALQ&expires=1764256671&token1=uAIdJejd0zMBXBbRQoO1Aw&expires1=1764256671&refer=NTdkMjJmNDktYzU1OC00OGExLWI1MzctZDA2MjA3ODBkOTI4&y=0
 視納華仁紀實頻道,https://4gtvmobile-mozai.4gtv.tv/UNZ2AA0MeDZrCU4XS2Bn2hDR_b5846KyVbLo6cLRAr0%3d/index.m3u8?token=B0Gwc1C0D_mIQUUtSzbDeg&expires=1764267488&token1=dwUQe3TUWV1AhxSWhXeq7w&expires1=1764267488&refer=NzZiZmNmZTQtZTNmOS00ZTE2LTg3N2ItNjI1Y2NhYWEzNjQ0&y=0
 戲劇免費看 1台,https://4gtvmobile-mozai.4gtv.tv/Gj5hSFyJaZe7BONpEzG5syEDKL0S4SCVrsF-6aoTFDw%3d/index.m3u8?token=ez2wiLIPwAa2oGIfFHKpLA&expires=1764267788&token1=7Q2Og6qsTMS66sO7WmVBzQ&expires1=1764267788&refer=MDFjNmM1N2YtMzU5NS00YWNkLWJjNzItNGYwZTczZDY1MWJl&y=0
-戲劇免費看 1台,https://4gtvmobile-mozai.4gtv.tv/S7ugj-mR13M2LJD0t0DyvNtGL1_A6LDuEmxpHyZRl2M%3d/index.m3u8?token=85BQOX2rm6mKPzdnBPKQIw&expires=1764256966&token1=JATb0rpYbwK7nsfbdQHKQg&expires1=1764256966&refer=MDM5ZGE0MjgtZmY2Mi00MDliLWE0MDctNWYyYzg3YTg4MmZm&y=0
 幸福空間居家台,https://4gtvmobile-mozai.4gtv.tv/IvEP3bnX2Bx5r9yKFC90a26j7CMk8QHHDOhKX8aATzE%3d/index.m3u8?token=WvC8GQIYj2Jz-NpAHbFsqA&expires=1764267346&token1=TkTDIj3Y8cefbM7Wbe3tog&expires1=1764267346&refer=ZTNiZjc1ZmYtZWUwZC00NWUzLTg0NzEtYTk0MjE0YWE4YWJi&y=0
 影迷數位電影台,https://4gtvmobile-mozai.4gtv.tv/ECFomj4wn9FOFmkEoKTaclNgEFrAPmr9Q5-Tz4_gsYo%3d/index.m3u8?token=90H122QQKC2IJW0oQgblHw&expires=1764267563&token1=HNcgmbt0Y65AxDfj66v9Qg&expires1=1764267563&refer=ZDBjMTVmZGEtNDI5NC00ODg4LWFjNzItM2E0OGI2M2VkNThk&y=0
-影迷數位電影台,https://4gtvmobile-mozai.4gtv.tv/n9E1v91B9xdMT_Hk-cZvuiJywmo1ZrvmomlEl930PdA%3d/index.m3u8?token=bb985iOygMLO0PhwsJ1bJw&expires=1764256740&token1=8NmBA6kp_p1gOq3Unuf6-A&expires1=1764256740&refer=MzRkYWUzNTktMzNiZC00NGQ3LWIwY2YtNWI2MjE3ODQ5YTAy&y=0
-影迷數位紀實台,https://4gtvmobile-mozai.4gtv.tv/oafPVEAKLThA8teHH1WXYc0j426hRNfnaPJGjBnbFjk%3d/index.m3u8?token=FlBOSEMr3rpQp18letIpFw&expires=1764256681&token1=qox5NHw2P-GYqkJ8L5PzVg&expires1=1764256681&refer=ZTg4ODI2N2ItZGY2OS00YTYyLWE2YjctMmI0NmY3Njk1M2Jk&y=0
 影迷數位紀實台,https://4gtvmobile-mozai.4gtv.tv/k-GzINSBLNwf5lbq81paFcuhXCBfk27pQYvVxyX3Tmw%3d/index.m3u8?token=WPvHGhc3BNAuQYNOIo6g6A&expires=1764267503&token1=YaH6mCY1AKhp5cWDf_JSxg&expires1=1764267503&refer=MzM0NTY3ZGItZDFiMi00MzkwLTk2YWItYzEzMzJlY2NmYWQz&y=0
 豬哥亮歌廳秀,https://4gtvmobile-mozai.4gtv.tv/Plj6IVt_2fDVg5eUSxwd5DYajUzU5ZM1M58do37NCio%3d/index.m3u8?token=xwDfUqQYxrF7FypK7zCLHA&expires=1764267045&token1=vQto4yJOyhnYBCdYkZuV6w&expires1=1764267045&refer=ZTUwODMyYjUtNDhjNy00OTNiLWJmMDEtM2YzYTExOTMzMmIx&y=0
 
