@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-28 02:22:01,http://zhuoyue.sihanlin.top:9901/tsfile/live/1030_1.m3u8?key=txiptv
+2025-11-28 02:48:33,http://zhuoyue.sihanlin.top:9901/tsfile/live/1030_1.m3u8?key=txiptv
 
 央视,#genre#
 CHC家庭影院,http://zhuoyue.sihanlin.top:9901/tsfile/live/1030_1.m3u8?key=txiptv
@@ -9,14 +9,14 @@ CHC家庭影院,http://zhuoyue.sihanlin.top:9901/tsfile/live/1030_1.m3u8?key=txi
 甘肃卫视,http://118.193.105.26:9901/tsfile/live/0141_1.m3u8?key=txiptv
 贵州卫视,http://jiugong.wulinsy.cn:39901/tsfile/live/0120_1.m3u8?key=txiptv
 河北卫视,http://101.74.29.127:9901/tsfile/live/0117_1.m3u8?key=txiptv
+河北卫视,http://118.193.105.26:9901/tsfile/live/0117_1.m3u8?key=txiptv
+河北卫视,http://zhuoyue.sihanlin.top:9901/tsfile/live/0117_1.m3u8?key=txiptv
 黑龙江卫视,http://jiugong.wulinsy.cn:39901/tsfile/live/0143_1.m3u8?key=txiptv
 山东卫视,http://jiugong.wulinsy.cn:39901/tsfile/live/0131_1.m3u8?key=txiptv
 天津卫视,http://jiugong.wulinsy.cn:39901/tsfile/live/0135_1.m3u8?key=txiptv
 新疆卫视,http://118.193.105.26:9901/tsfile/live/0110_1.m3u8?key=txiptv
 云南卫视,http://zhuoyue.sihanlin.top:9901/tsfile/live/0119_1.m3u8?key=txiptv
 重庆卫视,http://101.74.29.127:9901/tsfile/live/0142_1.m3u8?key=txiptv
-重庆卫视,http://zhuoyue.sihanlin.top:9901/tsfile/live/0142_1.m3u8?key=txiptv
-重庆卫视,http://118.193.105.26:9901/tsfile/live/0142_1.m3u8?key=txiptv
 
 地方,#genre#
 北京卡酷少儿,http://jiugong.wulinsy.cn:39901/tsfile/live/1013_1.m3u8?key=txiptv
@@ -31,11 +31,8 @@ TVBS,https://4gtvmobile-mozai.4gtv.tv/38bSMULrPFod2kVWwCffZTnPeX9HSA-NvPu_wLEsXb
 好消息,https://4gtvmobile-mozai.4gtv.tv/yIzvMzI2zgj4UlZ-R_Sz51OOHja1n-ZFho0q3sYtNtw%3d/index.m3u8?token=qYo6zDNgD-4aT3md7zzp9w&expires=1764278172&token1=ws4P5_vKRekt0teQy7iWaQ&expires1=1764278172&refer=MjZjMDY1MjktN2E0OC00NmVjLTg1YzEtZGY5MWEyYTU3OWMz&y=0
 好消息2台,https://4gtvmobile-mozai.4gtv.tv/sZmVJ4OrOVeGbr9DGcyOrp7khxhAjuYoE9hHdoypTwo%3d/index.m3u8?token=U5gvyrfNxCLfTp4mzojk-A&expires=1764278180&token1=srSSfJW1TXHQywn5AI7Wyg&expires1=1764278180&refer=NjQ3ODExNjAtZDJhMS00ODBlLWFlNjktMDZhMGUyYWQwY2Iz&y=0
 金光布袋戲,https://4gtvmobile-mozai.4gtv.tv/uimpvpiCildPwOOAJqR70phxlIapYyynm-oCI8yobaI%3d/index.m3u8?token=T3a9u-4eLzriRHG4xyAD4w&expires=1764278074&token1=0xgMRHt54WPTpjripaZUfg&expires1=1764278074&refer=YTFhM2ZkODQtMzNhNS00ZjQ3LTk3ZmItMDc2OThmOThmZjUy&y=0
-經典電影台,https://4gtvmobile-mozai.4gtv.tv/8Zu5snvbaZ_NiWJv3n6Srdd1x2KrTgfMUld6EZ2OscI%3d/index.m3u8?token=iQf-nsQRbHVxmw-TU7N84A&expires=1764267758&token1=qs2tLdWeSPD-_Bv8bE65Ow&expires1=1764267758&refer=N2Q1MTY2NmUtMDFjMy00ZDI3LWJjNWMtYzU1MTA2MWNjOWE5&y=0
 經典電影台,https://4gtvmobile-mozai.4gtv.tv/KhqsPxrmWZ3S6m2LZ2TEFoQh8y7rbfcVaff0YGBBU08%3d/index.m3u8?token=F2YrZBQ6bGsZjsZHqK5d_Q&expires=1764278286&token1=FYsRSd5GZTqJA3gimyt4tA&expires1=1764278286&refer=ZDkzNjE4NjAtMmJiZC00ZmM0LTk2NjMtNTg3ZDZkMDIyZTM4&y=0
 經典卡通台,https://4gtvmobile-mozai.4gtv.tv/A031jmQJuQCkF2uuHRM_bu9DVyUOx7BgT7jKJzBuW4E%3d/index.m3u8?token=u1DWlsULe4FMTx-sQbebWg&expires=1764278294&token1=Ki-g6Yiv0PwhSk7RY8gcYw&expires1=1764278294&refer=Y2U1NzFkNDctNGZmOC00ZTk2LTlkZWYtN2Q2YWIwMWU5NDZl&y=0
-經典卡通台,https://4gtvmobile-mozai.4gtv.tv/xVYs4V5I-63o60zO28Zs1g1tyb-77Gvc0MtR-4AkBTE%3d/index.m3u8?token=Mm5AfKrcNsITv_-flC9alw&expires=1764267767&token1=nXZZ_CMkhNmOVRmqhfQcGQ&expires1=1764267767&refer=ZTEyMDVhODMtN2RiMS00MjRkLTlhNTctMDliZTNmNzEyNDlm&y=0
-精選動漫台,https://4gtvmobile-mozai.4gtv.tv/2GkXqxFi7K1A_Fo6N_QJbSeYpYX5F0Zv5ak1vXVBT5Y%3d/index.m3u8?token=oqFLtTiu4soGlIoKb03NzA&expires=1764267777&token1=uEcRF2zc_jmpNOatfvyDsA&expires1=1764267777&refer=YzBlYWZiNzEtZTViNS00MjliLWIxNmUtMjkzMTAwN2Y2NDFk&y=0
 精選動漫台,https://4gtvmobile-mozai.4gtv.tv/lCBK-lcQqxKB6r0RCVmMnrczJ5zVJYKYYk5V9lFQplA%3d/index.m3u8?token=DURoFCDFRZ5Jtyx8Vqiwwg&expires=1764278303&token1=vtorQxSU3ecmMZKN8T9OLg&expires1=1764278303&refer=ZGUxMTgwYjctOTJjYS00N2UzLTlkNWYtZGMyMzg2YTk2N2Yx&y=0
 靖天卡通台,https://4gtvmobile-mozai.4gtv.tv/1ALnvyp6ruf1Z1W9E95z8KIME1nOGXS28_EpWC8Byh4%3d/index.m3u8?token=kNuNTgDLKxhgGsZKYGZSVw&expires=1764277511&token1=YeS5NPmTa1GKKI2JLd46jA&expires1=1764277511&refer=NTc2Nzg5MWYtZTE0Yi00Y2UxLWIwYWUtOTE2OThiNDMxMmI0&y=0
 靖天日本台,https://4gtvmobile-mozai.4gtv.tv/50hauQlTt_GlgLBjlfIfJdSEMoD0sueLIzD62XKencM%3d/index.m3u8?token=jHmNR3qXb3BGc4y8pCgeHw&expires=1764277405&token1=yxt2YZQA_tcrt0WzR9NMJw&expires1=1764277405&refer=NDA3NWIwOTctZjU3NC00ZGI0LWIzYzAtNWQ2ZWQ5NDM1YjU0&y=0
@@ -54,7 +51,6 @@ TRACE Urban,https://4gtvmobile-mozai.4gtv.tv/Bfo3jd0NCubV1UBIRV8jbZodk421V8P_U3n
 時尚運動X,https://4gtvmobile-mozai.4gtv.tv/l9zSiJCO3jCqszPMUnWqPe0nS_AUBY21swWKHxt1BPo%3d/index.m3u8?token=LFnP8-v2mdi2rufFktiapA&expires=1764277848&token1=yIfXsE_gwv3AsAY2OeXp7w&expires1=1764277848&refer=YmZkYjgyMzAtMjViMi00ZTkyLWE1ZGUtYjNkZTlkYjcyNTI3&y=0
 視納華仁紀實頻道,https://4gtvmobile-mozai.4gtv.tv/S2OypkZZC6ZCrcJiIbhkWrbktrKf-8hozYhB7InYZPQ%3d/index.m3u8?token=DQitP2IX-pHjE1BLYNlENg&expires=1764278056&token1=X8JkBlIfGhB0ELIxZ95Q4Q&expires1=1764278056&refer=ZGU3ODg4OWQtYmUxYS00N2FkLTk1OWQtNjFiN2Y3ODhhNWM4&y=0
 戲劇免費看 1台,https://4gtvmobile-mozai.4gtv.tv/680MRhNdZhz1-BRX9bXNuQrbWg-3dTfri5qbnVLq-i0%3d/index.m3u8?token=Dk9Ldnsgfck2Ksg5OCfzZw&expires=1764278313&token1=ZwUtx90qi-mVv6r4guGPvw&expires1=1764278313&refer=NDhiYWU0MTUtMDJmNC00NDI1LTk0MDAtZmY3YzkyYWM0MmNk&y=0
-戲劇免費看 1台,https://4gtvmobile-mozai.4gtv.tv/Gj5hSFyJaZe7BONpEzG5syEDKL0S4SCVrsF-6aoTFDw%3d/index.m3u8?token=ez2wiLIPwAa2oGIfFHKpLA&expires=1764267788&token1=7Q2Og6qsTMS66sO7WmVBzQ&expires1=1764267788&refer=MDFjNmM1N2YtMzU5NS00YWNkLWJjNzItNGYwZTczZDY1MWJl&y=0
 幸福空間居家台,https://4gtvmobile-mozai.4gtv.tv/JvSCU8sAXAE8Crv0auXmqLtdzGmgwbhu3imlq0_WSDQ%3d/index.m3u8?token=VYo_5_XLSItVuoD_MdyIYQ&expires=1764277924&token1=_JesgSYMLqfIU_QJ_BExdA&expires1=1764277924&refer=MzIzNjM3MzUtNDc1MS00ZDIxLWJmNTMtMjNhNjE3NTlkMDQ5&y=0
 影迷數位電影台,https://4gtvmobile-mozai.4gtv.tv/iiGmfB0vfFC3Sb8M0OjhV_iCs9oA9wYNKip6l_9mz2Y%3d/index.m3u8?token=7rDFTvT0qltTphJp2p0yiQ&expires=1764278134&token1=UrQWWNqayVr0AoprV-4GJA&expires1=1764278134&refer=NTYwYWMxMzktNzUxYS00YmVhLWE2NzAtZGU4Y2RiOGVjNWJl&y=0
 影迷數位紀實台,https://4gtvmobile-mozai.4gtv.tv/URcVBaSC8EY_EsV4ZP5QTSrRppJXXRw7t8zFpGizLSk%3d/index.m3u8?token=YaosqKZjHeKw9XvteER9Sg&expires=1764278065&token1=bbopGT9gQSkiYQx0Xkq0Ng&expires1=1764278065&refer=YzZkYjliMjUtMDI4Yy00YzhjLTgwZDItMTBmMDU3NzlkNDIw&y=0
