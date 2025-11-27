@@ -1,19 +1,38 @@
 🕘️更新时间,#genre#
-2025-11-27 17:45:55,http://zhuoyue.sihanlin.top:9901/tsfile/live/1030_1.m3u8?key=txiptv
+2025-11-27 17:55:46,http://zhuoyue.sihanlin.top:9901/tsfile/live/1030_1.m3u8?key=txiptv
 
 央视,#genre#
 CHC家庭影院,http://zhuoyue.sihanlin.top:9901/tsfile/live/1030_1.m3u8?key=txiptv
 
 卫视,#genre#
 安徽卫视,http://jiugong.wulinsy.cn:39901/tsfile/live/0130_1.m3u8?key=txiptv
+安徽卫视,http://101.74.29.127:9901/tsfile/live/0130_1.m3u8?key=txiptv
+安徽卫视,http://123.113.110.212:9901/tsfile/live/0130_1.m3u8?key=txiptv
+安徽卫视,http://zhuoyue.sihanlin.top:9901/tsfile/live/0130_1.m3u8?key=txiptv
+安徽卫视,http://118.193.105.26:9901/tsfile/live/0130_1.m3u8?key=txiptv
 甘肃卫视,http://118.193.105.26:9901/tsfile/live/0141_1.m3u8?key=txiptv
 贵州卫视,http://jiugong.wulinsy.cn:39901/tsfile/live/0120_1.m3u8?key=txiptv
+贵州卫视,http://101.74.29.127:9901/tsfile/live/0120_1.m3u8?key=txiptv
+贵州卫视,http://123.113.110.212:9901/tsfile/live/0120_1.m3u8?key=txiptv
+贵州卫视,http://118.193.105.26:9901/tsfile/live/0120_1.m3u8?key=txiptv
+河北卫视,http://101.74.29.127:9901/tsfile/live/0117_1.m3u8?key=txiptv
 河北卫视,http://zhuoyue.sihanlin.top:9901/tsfile/live/0117_1.m3u8?key=txiptv
 河北卫视,http://118.193.105.26:9901/tsfile/live/0117_1.m3u8?key=txiptv
-河北卫视,http://101.74.29.127:9901/tsfile/live/0117_1.m3u8?key=txiptv
 黑龙江卫视,http://jiugong.wulinsy.cn:39901/tsfile/live/0143_1.m3u8?key=txiptv
+黑龙江卫视,http://101.74.29.127:9901/tsfile/live/0143_1.m3u8?key=txiptv
+黑龙江卫视,http://123.113.110.212:9901/tsfile/live/0143_1.m3u8?key=txiptv
+黑龙江卫视,http://zhuoyue.sihanlin.top:9901/tsfile/live/0143_1.m3u8?key=txiptv
+黑龙江卫视,http://118.193.105.26:9901/tsfile/live/0143_1.m3u8?key=txiptv
 山东卫视,http://jiugong.wulinsy.cn:39901/tsfile/live/0131_1.m3u8?key=txiptv
+山东卫视,http://123.113.110.212:9901/tsfile/live/0131_1.m3u8?key=txiptv
+山东卫视,http://zhuoyue.sihanlin.top:9901/tsfile/live/0131_1.m3u8?key=txiptv
+山东卫视,http://118.193.105.26:9901/tsfile/live/0131_1.m3u8?key=txiptv
+山东卫视,http://101.74.29.127:9901/tsfile/live/0131_1.m3u8?key=txiptv
 天津卫视,http://jiugong.wulinsy.cn:39901/tsfile/live/0135_1.m3u8?key=txiptv
+天津卫视,http://101.74.29.127:9901/tsfile/live/0135_1.m3u8?key=txiptv
+天津卫视,http://zhuoyue.sihanlin.top:9901/tsfile/live/0135_1.m3u8?key=txiptv
+天津卫视,http://123.113.110.212:9901/tsfile/live/0135_1.m3u8?key=txiptv
+天津卫视,http://118.193.105.26:9901/tsfile/live/0135_1.m3u8?key=txiptv
 新疆卫视,http://118.193.105.26:9901/tsfile/live/0110_1.m3u8?key=txiptv
 云南卫视,http://zhuoyue.sihanlin.top:9901/tsfile/live/0119_1.m3u8?key=txiptv
 重庆卫视,http://101.74.29.127:9901/tsfile/live/0142_1.m3u8?key=txiptv
