@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-29 04:16:58,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=2025112312003424a7052d8f07486f89a64a86bb96984f&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20251123120034&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.89&SecurityKey=20251123120034&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=4b8f36f7ce446a707ddc3c40af609ef0&ddCalcu=04fbee829f803066ffa70c4ec434c6dad770
+2025-11-29 04:35:33,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=2025112312003424a7052d8f07486f89a64a86bb96984f&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20251123120034&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.89&SecurityKey=20251123120034&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=4b8f36f7ce446a707ddc3c40af609ef0&ddCalcu=04fbee829f803066ffa70c4ec434c6dad770
 
 央视,#genre#
 CCTV1,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=2025112312003424a7052d8f07486f89a64a86bb96984f&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20251123120034&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.89&SecurityKey=20251123120034&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=4b8f36f7ce446a707ddc3c40af609ef0&ddCalcu=04fbee829f803066ffa70c4ec434c6dad770
@@ -440,8 +440,8 @@ TVB Jade,https://tmxk.pp.ua/smt.php?id=Tvbjade
 TVB 星河台 Xing He,https://smt.passwdword.xyz/Smart.php?id=Xinhe
 TVB 星河台 Xing He,https://tzh911.qzz.io/play-smt.php?id=Xinhe
 TVB 星河台 Xing He,https://tmxk.pp.ua/smt.php?id=Xinhe
-TVBS,https://4gtvmobile-mozai.4gtv.tv/hnKzYUuX3knsTjOycCZXBEnuyEEROqYOuBvlLl4d5fw%3d/index.m3u8?token=_m_Qe1vLikmZK5kL1B_jRA&expires=1764375143&token1=UcXjVxVyJPzxTsKWZ4Yv5A&expires1=1764375143&refer=YTRkYzNlZGEtMGNmMC00MWZkLTg1ZjMtYThlYTEyMzg0ZGE3&y=0
 TVBS,https://4gtvmobile-mozai.4gtv.tv/CS7BcbNWU9gWrkO8BQYayG_f8b2v_rQcZT26aKI0vik%3d/index.m3u8?token=1ky_-Mac_DepaB1FmAvywQ&expires=1764364198&token1=JgTZ9fCT-AnhEjo5fQ9EPw&expires1=1764364198&refer=NzllODRkZjUtYTg5Mi00ZWFhLTgxZTYtYjhmNjNjYjc0NTM3&y=0
+TVBS,https://4gtvmobile-mozai.4gtv.tv/hnKzYUuX3knsTjOycCZXBEnuyEEROqYOuBvlLl4d5fw%3d/index.m3u8?token=_m_Qe1vLikmZK5kL1B_jRA&expires=1764375143&token1=UcXjVxVyJPzxTsKWZ4Yv5A&expires1=1764375143&refer=YTRkYzNlZGEtMGNmMC00MWZkLTg1ZjMtYThlYTEyMzg0ZGE3&y=0
 TVBS 欢乐台,https://smt.passwdword.xyz/Smart.php?id=tvbshuanle_twn
 TVBS 欢乐台,https://tzh911.qzz.io/play-smt.php?id=tvbshuanle_twn
 TVBS 新闻台,https://smt.passwdword.xyz/Smart.php?id=tvbs_n
@@ -515,8 +515,8 @@ HBO_HITS,https://tmxk.pp.ua/smt.php?id=hbohit_twn
 大愛二台,https://4gtvmobile-mozai.4gtv.tv/QD6VGNP2rI9WwdtKQY_DaAA4bx8uq-aHAvoPYNStTPw%3d/index.m3u8?token=vEUqW5N_DihV3NgnDsud_A&expires=1764375833&token1=HGpNuUhlOCj00wzja--84g&expires1=1764375833&refer=NDQ2M2NlZTUtM2U0Yy00YjFjLThiMzYtN2Y1YjdiZTk3MzJi&y=0
 大愛二台,https://smt.passwdword.xyz/Smart.php?id=daai2_twn
 大愛二台,https://tzh911.qzz.io/play-smt.php?id=daai2_twn
-電影原聲台CMusic,https://4gtvmobile-mozai.4gtv.tv/TtjeJ1kgHouckPepDhORrAIM63a7SUY503j0mrxTD2Q%3d/index.m3u8?token=1kWH9OtH5NkCKwVbutRgBw&expires=1764375311&token1=552mcE--Yv-aFOdzpxY-BQ&expires1=1764375311&refer=NDM4OGU2NGUtYzIwNC00ZGJhLWIwNmYtNDE1ZTJlNGQ0Nzdm&y=0
 電影原聲台CMusic,https://4gtvmobile-mozai.4gtv.tv/m-TFBij1Y9BfYwmtAQaQR4hem-P-4Yhx-KUJBqH8dlY%3d/index.m3u8?token=u5XyqTB9f5w5dPhzIJfYxQ&expires=1764364358&token1=162kdP_AhOsJUzVuMWtQ5g&expires1=1764364358&refer=NWUzOWY2ZTYtOTFjMy00ZmQwLTk0OGEtMmVmY2Y5MzA5ZGEy&y=0
+電影原聲台CMusic,https://4gtvmobile-mozai.4gtv.tv/TtjeJ1kgHouckPepDhORrAIM63a7SUY503j0mrxTD2Q%3d/index.m3u8?token=1kWH9OtH5NkCKwVbutRgBw&expires=1764375311&token1=552mcE--Yv-aFOdzpxY-BQ&expires1=1764375311&refer=NDM4OGU2NGUtYzIwNC00ZGJhLWIwNmYtNDE1ZTJlNGQ0Nzdm&y=0
 东森财经新闻,https://tzh911.qzz.io/litv.php?id=4gtv-4gtv153
 东森财经新闻,https://smt.passwdword.xyz/Smart.php?id=ettvcaijing_twn
 东森财经新闻,https://tzh911.qzz.io/play-smt.php?id=ettvcaijing_twn
@@ -568,8 +568,8 @@ HBO_HITS,https://tmxk.pp.ua/smt.php?id=hbohit_twn
 滾動力rollor,https://4gtvmobile-mozai.4gtv.tv/wbZjFXzNRq86WRR1G2DB5BvGbH0Fpt2BBocruoXFzyU%3d/index.m3u8?token=a8MqAeDXhPEVc8d-D36TqQ&expires=1764375505&token1=4RdpHkL_HLB2jvaHeE3GXg&expires1=1764375505&refer=MjM2N2JhMTMtYWM5YS00NWU2LTg1MWEtOTc1ZjAwNTRhN2Uy&y=0
 好萊塢電影台,https://smt.passwdword.xyz/Smart.php?id=hollywoodmovies_twn
 好萊塢電影台,https://tzh911.qzz.io/play-smt.php?id=hollywoodmovies_twn
-好消息,https://4gtvmobile-mozai.4gtv.tv/TTCUQwKPIiWJtmFWq0OoDUfpfC71To0GlyaI4R8PnT8%3d/index.m3u8?token=6af1A7MBfYDrxnydoI_Ubg&expires=1764364832&token1=HGMLj_9G9lIBvYAhsB6E6Q&expires1=1764364832&refer=ZDMyMzAwYTUtMTU4Ni00MjVlLWFjNTktZjAzYWEyNDgxZTI5&y=0
 好消息,https://4gtvmobile-mozai.4gtv.tv/d4K7CT0Hc82rR45QTs3uOVivZRRZMWOPZjMfbh-Y7-k%3d/index.m3u8?token=KiCR95chru5WIXYQghAl0Q&expires=1764375807&token1=EnBjHi3M1wFSyX6QZtdXBw&expires1=1764375807&refer=NTE5YTE1ODItMWFlNC00MTExLTk4N2MtNDczNmMzMmJmMTkz&y=0
+好消息,https://4gtvmobile-mozai.4gtv.tv/TTCUQwKPIiWJtmFWq0OoDUfpfC71To0GlyaI4R8PnT8%3d/index.m3u8?token=6af1A7MBfYDrxnydoI_Ubg&expires=1764364832&token1=HGMLj_9G9lIBvYAhsB6E6Q&expires1=1764364832&refer=ZDMyMzAwYTUtMTU4Ni00MjVlLWFjNTktZjAzYWEyNDgxZTI5&y=0
 好消息,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-ftv16
 好消息,https://tzh911.qzz.io/litv.php?id=litv-ftv16
 好消息 2,https://smt.passwdword.xyz/Smart.php?id=good2_twn
@@ -589,14 +589,14 @@ HBO_HITS,https://tmxk.pp.ua/smt.php?id=hbohit_twn
 寰宇新闻台,https://smt.passwdword.xyz/Smart.php?id=huanyuxinwen_twn
 寰宇新闻台,https://tzh911.qzz.io/play-smt.php?id=huanyuxinwen_twn
 寰宇新闻台,https://tmxk.pp.ua/smt.php?id=huanyuxinwen_twn
-金光布袋戲,https://4gtvmobile-mozai.4gtv.tv/uH_PkxUN2V63k82IHVFCKFKqnX96pksqa1sgz-rwAz0%3d/index.m3u8?token=Ha09NKND91WyqeiAH_g1iw&expires=1764364730&token1=11tIGnmxTPjknLjxICU9pA&expires1=1764364730&refer=OGI4MWU5MWQtODJlYS00OTQwLTlkMjUtNzVkNGE5ZDUzZmFi&y=0
 金光布袋戲,https://4gtvmobile-mozai.4gtv.tv/3u3T59IE9hRHw8maDgNGgu0RcuTAY9XqGjCAgfXt1Ms%3d/index.m3u8?token=jTygSNq_Ojb3VYGw_YMzRg&expires=1764375709&token1=WhBEj5GOj2yVJgIwwje7bw&expires1=1764375709&refer=NDhhYWIxZjktZGYxNi00Mzk1LWE1NjUtOWZlNjIxZmZmNWM3&y=0
-經典電影台,https://4gtvmobile-mozai.4gtv.tv/gp2D_kHOVIR37LcxZAT451bhLg56p5fJU6g7v3nBB2U%3d/index.m3u8?token=y9YYamG4JGetmSrETYVrJA&expires=1764375983&token1=VinKCPtHVrRW4ZxexORGYA&expires1=1764375983&refer=ZTQxZDdmNzItZDAyMS00NDQ2LWE3YjctZTEwMTZkYjY2YmEw&y=0
+金光布袋戲,https://4gtvmobile-mozai.4gtv.tv/uH_PkxUN2V63k82IHVFCKFKqnX96pksqa1sgz-rwAz0%3d/index.m3u8?token=Ha09NKND91WyqeiAH_g1iw&expires=1764364730&token1=11tIGnmxTPjknLjxICU9pA&expires1=1764364730&refer=OGI4MWU5MWQtODJlYS00OTQwLTlkMjUtNzVkNGE5ZDUzZmFi&y=0
 經典電影台,https://4gtvmobile-mozai.4gtv.tv/StgI0vCwID2NUAqH4tJxw7-Mqvlzpo0X0SUXvjizEX0%3d/index.m3u8?token=xm8-n1sYwS5l7sUUKh313w&expires=1764364973&token1=ii8OCp8joFXqdPZa4n3v5g&expires1=1764364973&refer=MjAxMjdiMjQtOGU2MC00NTBlLTgzMDQtY2ZjMzhmMmFmZGRi&y=0
-經典卡通台,https://4gtvmobile-mozai.4gtv.tv/FicWSg2GtIg6gSG_JUU67IlYWQW2ctaufxwWEadyOAA%3d/index.m3u8?token=9QikQmHTWJ0ywlrPaIvjMA&expires=1764364985&token1=PL7bxj0K24itTYIcqoDw-Q&expires1=1764364985&refer=YWVhNDM4YTQtZmFkYi00MTNmLThmMWItMzkyOWM0NmVlZmFj&y=0
+經典電影台,https://4gtvmobile-mozai.4gtv.tv/gp2D_kHOVIR37LcxZAT451bhLg56p5fJU6g7v3nBB2U%3d/index.m3u8?token=y9YYamG4JGetmSrETYVrJA&expires=1764375983&token1=VinKCPtHVrRW4ZxexORGYA&expires1=1764375983&refer=ZTQxZDdmNzItZDAyMS00NDQ2LWE3YjctZTEwMTZkYjY2YmEw&y=0
 經典卡通台,https://4gtvmobile-mozai.4gtv.tv/L0Xw4jGy2gjcmbSy-Q0gpSb382e4NxaqJYyPccNY7V4%3d/index.m3u8?token=2DCk037Xqp-NzV_r-4ke4A&expires=1764375999&token1=bZhttuFt3Y1XvUVOiYMXnQ&expires1=1764375999&refer=NDhjZTQ1YWItNDVjOC00N2EyLTliZTktYTM4MDc0YjY4OTcy&y=0
-精選動漫台,https://4gtvmobile-mozai.4gtv.tv/zF_PLLRtrEJ6bA3NvtlTF7qP_7xR9Ad2ehguTpSoesE%3d/index.m3u8?token=Sjm8NLzx2e9LVTX8YYbweA&expires=1764364999&token1=Eoy_ot2rpF2NfkHZ_G6A1Q&expires1=1764364999&refer=YWZjYzgxOWItZDJhOS00Y2ZjLTk4ZGYtNTg3OGRiODU3NTZj&y=0
+經典卡通台,https://4gtvmobile-mozai.4gtv.tv/FicWSg2GtIg6gSG_JUU67IlYWQW2ctaufxwWEadyOAA%3d/index.m3u8?token=9QikQmHTWJ0ywlrPaIvjMA&expires=1764364985&token1=PL7bxj0K24itTYIcqoDw-Q&expires1=1764364985&refer=YWVhNDM4YTQtZmFkYi00MTNmLThmMWItMzkyOWM0NmVlZmFj&y=0
 精選動漫台,https://4gtvmobile-mozai.4gtv.tv/4HqPx5vFn3a6eqB_sjSBAd8LqArcMUc8ZSf36p4szoo%3d/index.m3u8?token=NoS6IZbwau_qCoIlHjx6eQ&expires=1764376009&token1=5gPLvkRUwUG72qKjbHrlZg&expires1=1764376009&refer=M2RmNGJiZTctMzEzYy00YjcyLWI1YmUtMjM1NjcwODkxMmM5&y=0
+精選動漫台,https://4gtvmobile-mozai.4gtv.tv/zF_PLLRtrEJ6bA3NvtlTF7qP_7xR9Ad2ehguTpSoesE%3d/index.m3u8?token=Sjm8NLzx2e9LVTX8YYbweA&expires=1764364999&token1=Eoy_ot2rpF2NfkHZ_G6A1Q&expires1=1764364999&refer=YWZjYzgxOWItZDJhOS00Y2ZjLTk4ZGYtNTg3OGRiODU3NTZj&y=0
 中视,https://tzh911.qzz.io/litv.php?id=4gtv-4gtv040
 中视经典,https://tzh911.qzz.io/litv.php?id=4gtv-4gtv080
 中视经典,https://smt.passwdword.xyz/Smart.php?id=zhongshi_twn
@@ -916,8 +916,8 @@ Channel U,https://tmxk.pp.ua/smt.php?id=ChannelU
 CI,https://smt.passwdword.xyz/Smart.php?id=ci_twn
 CI,https://tzh911.qzz.io/play-smt.php?id=ci_twn
 CI,https://tmxk.pp.ua/smt.php?id=ci_twn
-CinemaWorld,https://4gtvmobile-mozai.4gtv.tv/r_YQIey4wtE-2i9sJAG3hGh8mNBXOCuhve3t5fMXXJk%3d/index.m3u8?token=dNjJm7IkVEUIB335-BHS7w&expires=1764375776&token1=RE0DyHEtDFhqc9hLtxmTHQ&expires1=1764375776&refer=MzY1N2ViYjAtZDU4Mi00ZmEwLTlmNzItNjEyNGVkMmI0OTM5&y=0
 CinemaWorld,https://4gtvmobile-mozai.4gtv.tv/q3Eu6ThJAZ5pOs-xcBEs_RW06LrRudanbMVFIbnD4PQ%3d/index.m3u8?token=6fBh53xdo4ztENWgxVBlGw&expires=1764364814&token1=UmIguO5-sx9g_dOytjK1pA&expires1=1764364814&refer=MjcwZWE0NTYtMGVlNS00MjcwLTgwNjQtNjgyZTZlMWVlYjdh&y=0
+CinemaWorld,https://4gtvmobile-mozai.4gtv.tv/r_YQIey4wtE-2i9sJAG3hGh8mNBXOCuhve3t5fMXXJk%3d/index.m3u8?token=dNjJm7IkVEUIB335-BHS7w&expires=1764375776&token1=RE0DyHEtDFhqc9hLtxmTHQ&expires1=1764375776&refer=MzY1N2ViYjAtZDU4Mi00ZmEwLTlmNzItNjEyNGVkMmI0OTM5&y=0
 CINEMAX,https://smt.passwdword.xyz/Smart.php?id=cinemax_twn
 CINEMAX,https://tzh911.qzz.io/play-smt.php?id=cinemax_twn
 CINEMAX,https://tmxk.pp.ua/smt.php?id=cinemax_twn
@@ -953,8 +953,8 @@ DW (Deutsch),https://smt.passwdword.xyz/Smart.php?id=dw_twn
 DW (Deutsch),https://tzh911.qzz.io/play-smt.php?id=dw_twn
 DW (Deutsch),https://tmxk.pp.ua/smt.php?id=dw_twn
 EBS 1,https://tmxk.pp.ua/smt.php?id=ebs1_korea
-ELTV生活英語台,https://4gtvmobile-mozai.4gtv.tv/i9gXfJD7-XtgcAnFuaps7-8JKas-cae1fbxYrQIllUg%3d/index.m3u8?token=4ARRN_n6jLIWp27yqikMuw&expires=1764374800&token1=W85cNVAc3lP2e-6fqMvi9A&expires1=1764374800&refer=ZjFlZTI1NGEtZThkNS00MzRmLWEwMTItOWE2MjcxNDI2NzNj&y=0
 ELTV生活英語台,https://4gtvmobile-mozai.4gtv.tv/l9HUXqn0by6JEwN1U0Ep2lmWhdWbSJFokEFAfcMrLdU%3d/index.m3u8?token=3HloDp2SuGA_P2HPbgUbaA&expires=1764363941&token1=kJZ3Mm3E16MS-DratIaaFw&expires1=1764363941&refer=ZjVjOThjNzMtNWZhYi00NDhjLTkxZmUtN2Y0MzZiNjhkODlk&y=0
+ELTV生活英語台,https://4gtvmobile-mozai.4gtv.tv/i9gXfJD7-XtgcAnFuaps7-8JKas-cae1fbxYrQIllUg%3d/index.m3u8?token=4ARRN_n6jLIWp27yqikMuw&expires=1764374800&token1=W85cNVAc3lP2e-6fqMvi9A&expires1=1764374800&refer=ZjFlZTI1NGEtZThkNS00MzRmLWEwMTItOWE2MjcxNDI2NzNj&y=0
 ELTV生活英語台,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn20
 Entertain,https://smt.passwdword.xyz/Smart.php?id=Entertain
 Entertain,https://tzh911.qzz.io/play-smt.php?id=Entertain
@@ -984,8 +984,8 @@ France 24,https://tmxk.pp.ua/smt.php?id=france24_twn
 Freesports,https://smt.passwdword.xyz/Smart.php?id=freesports_antik
 Freesports,https://tzh911.qzz.io/play-smt.php?id=freesports_antik
 Freesports,https://tmxk.pp.ua/smt.php?id=freesports_antik
-Global Trekker,https://4gtvmobile-mozai.4gtv.tv/2c_UuewE5O6ecjqqpwEUpNFn5qzMx8W4QiDcW2iSh78%3d/index.m3u8?token=4nMB8RubrqW5nlglHs_OIA&expires=1764374745&token1=zJleOzH9yrGy1gte9V4mfw&expires1=1764374745&refer=ODI3ZTZmNzAtZjM0NC00NGI1LTliODUtZDc5NGY1NDNhYWVj&y=0
 Global Trekker,https://4gtvmobile-mozai.4gtv.tv/DbSHnZC-F6Yc15hjbpvSoto578PIh_Rt1ED2SyNqJlQ%3d/index.m3u8?token=kLJbrRT60aOqQHJqz2LzXg&expires=1764363893&token1=ZRR-c6Sm5_ehhOIpgIp2Hg&expires1=1764363893&refer=NjFmNDZjYTMtMTQ3My00MjY1LTk3Y2UtZGZjMzI4NjM0ZmM3&y=0
+Global Trekker,https://4gtvmobile-mozai.4gtv.tv/2c_UuewE5O6ecjqqpwEUpNFn5qzMx8W4QiDcW2iSh78%3d/index.m3u8?token=4nMB8RubrqW5nlglHs_OIA&expires=1764374745&token1=zJleOzH9yrGy1gte9V4mfw&expires1=1764374745&refer=ODI3ZTZmNzAtZjM0NC00NGI1LTliODUtZDc5NGY1NDNhYWVj&y=0
 Gmm Channel,https://smt.passwdword.xyz/Smart.php?id=gmmchannel_pat
 Gmm Channel,https://tzh911.qzz.io/play-smt.php?id=gmmchannel_pat
 Gmm Channel,https://tmxk.pp.ua/smt.php?id=gmmchannel_pat
@@ -1013,8 +1013,8 @@ Hits Movie,https://tmxk.pp.ua/smt.php?id=Hitsmovie
 iNews TV,https://smt.passwdword.xyz/Smart.php?id=Inewstv
 iNews TV,https://tzh911.qzz.io/play-smt.php?id=Inewstv
 iNews TV,https://tmxk.pp.ua/smt.php?id=Inewstv
-INULTRA,https://4gtvmobile-mozai.4gtv.tv/Ukirhc58agMZoZBHhtnxlC1VbS8l8q8AY5LKUc_InHc%3d/index.m3u8?token=HsOEZjFi74L-WXGybVM3TQ&expires=1764364432&token1=9T_SNk0JeUPEYi0996ePvQ&expires1=1764364432&refer=OGQ4ZjY3ZTAtMmVhNS00ZTk0LTliMjAtNTdkYTQzY2JlYmNj&y=0
 INULTRA,https://4gtvmobile-mozai.4gtv.tv/vQ5AfEYtIzb15kPcl2W19yTt3DcO1wnPEsHNpAz04G8%3d/index.m3u8?token=XiUHdwkSyVGckPD6jaPJKg&expires=1764375405&token1=QpGXqVZXvxbQfbZrwLl0Ew&expires1=1764375405&refer=OWU2YjUwOTQtY2JkNS00ZTAyLTkwNjMtY2EzOTMyYjU2NTkw&y=0
+INULTRA,https://4gtvmobile-mozai.4gtv.tv/Ukirhc58agMZoZBHhtnxlC1VbS8l8q8AY5LKUc_InHc%3d/index.m3u8?token=HsOEZjFi74L-WXGybVM3TQ&expires=1764364432&token1=9T_SNk0JeUPEYi0996ePvQ&expires1=1764364432&refer=OGQ4ZjY3ZTAtMmVhNS00ZTk0LTliMjAtNTdkYTQzY2JlYmNj&y=0
 itv 1,https://smt.passwdword.xyz/Smart.php?id=itv1_antik
 itv 1,https://tzh911.qzz.io/play-smt.php?id=itv1_antik
 itv 1,https://tmxk.pp.ua/smt.php?id=itv1_antik
@@ -1162,8 +1162,8 @@ ROCK Action,https://4gtvmobile-mozai.4gtv.tv/n8WUxYpl_e-j1iiNgcOp4bE3Cpfl9G51SJI
 Rock Actions,https://smt.passwdword.xyz/Smart.php?id=Rockaction
 Rock Actions,https://tzh911.qzz.io/play-smt.php?id=Rockaction
 Rock Actions,https://tmxk.pp.ua/smt.php?id=Rockaction
-ROCK Entertainment,https://4gtvmobile-mozai.4gtv.tv/jAH-iEuL8OlntlDzxMAl5IlgBT4A0YUoY1zBvRKCmd4%3d/index.m3u8?token=0N1FzyDHs3vg8WRwv0TXbg&expires=1764364331&token1=d7HwtjBAD8rljwVOCHU9bg&expires1=1764364331&refer=ZjVlZGY5YzEtYzM3Yy00NThiLWE4NDktOTFjOWEyYmFkYWY3&y=0
 ROCK Entertainment,https://4gtvmobile-mozai.4gtv.tv/dPwe-915tEfeN9m5SjrXnjW-Gv1fuE8Z0NFJ2WAG2M0%3d/index.m3u8?token=O-wHQihzilBQP_0yKtauJw&expires=1764375279&token1=7uHgNFIUYPluxuRJapnh6g&expires1=1764375279&refer=NzY2ZWM5MmQtMzMwYy00MzI1LWJiM2UtNjU2NWNiYjQ5YTAy&y=0
+ROCK Entertainment,https://4gtvmobile-mozai.4gtv.tv/jAH-iEuL8OlntlDzxMAl5IlgBT4A0YUoY1zBvRKCmd4%3d/index.m3u8?token=0N1FzyDHs3vg8WRwv0TXbg&expires=1764364331&token1=d7HwtjBAD8rljwVOCHU9bg&expires1=1764364331&refer=ZjVlZGY5YzEtYzM3Yy00NThiLWE4NDktOTFjOWEyYmFkYWY3&y=0
 RTHK 33,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=2025112312003424a7052d8f07486f89a64a86bb96984f&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20251123120034&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.89&SecurityKey=20251123120034&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=4b8f36f7ce446a707ddc3c40af609ef0&ddCalcu=04fbee829f803066ffa70c4ec434c6dad770
 RTHK 33,https://smt.passwdword.xyz/Smart.php?id=cctv1
 RTHK 33,https://tzh911.qzz.io/play-smt.php?id=cctv1
@@ -1293,8 +1293,8 @@ tpbs,https://tmxk.pp.ua/smt.php?id=tpbs_pat
 TPTV,https://smt.passwdword.xyz/Smart.php?id=tptv_pat
 TPTV,https://tzh911.qzz.io/play-smt.php?id=tptv_pat
 TPTV,https://tmxk.pp.ua/smt.php?id=tptv_pat
-TRACE Sport Stars,https://4gtvmobile-mozai.4gtv.tv/YhPz9QZMLBebz8nynIl4LP29atB189Pl-A2wyFHeZqA%3d/index.m3u8?token=Hd577ge8ixnp-aNQUiC8xA&expires=1764375415&token1=Kz34uQtD7e3EY9RTtyjJQQ&expires1=1764375415&refer=MDc3M2Y3NGQtODIwNC00ODI5LTk0YWQtOTY3Y2NhODRjMDU3&y=0
 TRACE Sport Stars,https://4gtvmobile-mozai.4gtv.tv/A-omJJbVJiroAdDxLi_3sMlbRVo1ew8PjcwwDhFnj2w%3d/index.m3u8?token=O36-NiuljfficpjzwwQPaA&expires=1764364442&token1=e9yW-EBEoJx4dWyTzAoBMA&expires1=1764364442&refer=ZTQzN2ZhN2ItNGY1Yi00NGY3LWFhMzItYjZiNDZjMzc1MjQz&y=0
+TRACE Sport Stars,https://4gtvmobile-mozai.4gtv.tv/YhPz9QZMLBebz8nynIl4LP29atB189Pl-A2wyFHeZqA%3d/index.m3u8?token=Hd577ge8ixnp-aNQUiC8xA&expires=1764375415&token1=Kz34uQtD7e3EY9RTtyjJQQ&expires1=1764375415&refer=MDc3M2Y3NGQtODIwNC00ODI5LTk0YWQtOTY3Y2NhODRjMDU3&y=0
 TRACE Urban,https://4gtvmobile-mozai.4gtv.tv/n5rygmnekEccC_imOIqo02uQRMYyPtnDSQ9F9RrkvmY%3d/index.m3u8?token=-3mJG6IZ9CBqkheayy4KdQ&expires=1764364370&token1=8o_2ESQnChthSI-wE9upfg&expires1=1764364370&refer=MGI5NDM0YWEtYTg1NC00OTZkLWI5YzktZGRhN2M0NzgwOTY2&y=0
 TRACE Urban,https://4gtvmobile-mozai.4gtv.tv/ODYHcq9RCv9kv6f8guPT6WYfqpyaKx9UgBImm2WR1eE%3d/index.m3u8?token=gkJILVPu1Hu3nrrwWGR24A&expires=1764375320&token1=HCkNjhZnPtmWqlw6F-3Obg&expires1=1764375320&refer=MDUwMTBiNDctZTI0My00ZjQ1LWJmNTMtNmFhYzMzNzNlMzlk&y=0
 Trans 7,https://smt.passwdword.xyz/Smart.php?id=Trans7_eko
@@ -1381,8 +1381,8 @@ Zee Tamil,https://tmxk.pp.ua/smt.php?id=Zeetamil
 年代新闻,https://smt.passwdword.xyz/Smart.php?id=niandainews_twn
 年代新闻,https://tzh911.qzz.io/play-smt.php?id=niandainews_twn
 年代新闻,https://tmxk.pp.ua/smt.php?id=niandainews_twn
-時尚運動X,https://4gtvmobile-mozai.4gtv.tv/U-GYkgJmBRnyRlXzLGWV-rbVyfo-R73v6bnT3NvDOXk%3d/index.m3u8?token=hw4VAKYbgnZU-1PI5OjRfw&expires=1764364469&token1=BQ_N8m18nc9c_kacsalKTQ&expires1=1764364469&refer=MzMyNjYyMTktNDcwZC00NjM5LTkwZTMtN2YxMjhkMmU4ODYz&y=0
 時尚運動X,https://4gtvmobile-mozai.4gtv.tv/pecpxOsTZB8eyJ4EdGkeJbJ7eL-j-hejQrogQVfbsc4%3d/index.m3u8?token=qoy3DIUMbz5WrdBVU_z2ig&expires=1764375436&token1=HGSMWuOPAxQIYjVBpMDwQA&expires1=1764375436&refer=MTQ1YjhkZWUtN2FiNy00YTlkLWEzZWMtMDljMDVmMzE2N2Yz&y=0
+時尚運動X,https://4gtvmobile-mozai.4gtv.tv/U-GYkgJmBRnyRlXzLGWV-rbVyfo-R73v6bnT3NvDOXk%3d/index.m3u8?token=hw4VAKYbgnZU-1PI5OjRfw&expires=1764364469&token1=BQ_N8m18nc9c_kacsalKTQ&expires1=1764364469&refer=MzMyNjYyMTktNDcwZC00NjM5LTkwZTMtN2YxMjhkMmU4ODYz&y=0
 視納華仁紀實頻道,https://4gtvmobile-mozai.4gtv.tv/ukhTcv4u0kjlovAcC7LTxbyLDVsgYsqwEO_h5wPOx8g%3d/index.m3u8?token=LDXU5IG0ngjYaUwLFtT3Wg&expires=1764375684&token1=KUfhDQ0F6yZDqSROJjwZ2Q&expires1=1764375684&refer=ZGI4ODY0OTItYWQyZS00ODU4LTgwZGItNWEzZDhiNTZjMGIz&y=0
 視納華仁紀實頻道,https://4gtvmobile-mozai.4gtv.tv/s3t-tzkcSLi8ypd2am0JKkHY97u07UI3lExNR7EeZ-M%3d/index.m3u8?token=CJAyarQqzujNrxs6c8RypA&expires=1764364704&token1=plCqc7W-nzVm7LhpD8FY0w&expires1=1764364704&refer=MjczMTVjMzAtYTBjZC00NmIwLThmNjUtZjE3NTE2NDVlMDFi&y=0
 視納華仁紀實頻道,https://tzh911.qzz.io/litv.php?id=4gtv-4gtv013
@@ -1393,8 +1393,8 @@ Zee Tamil,https://tmxk.pp.ua/smt.php?id=Zeetamil
 无线新闻,https://tzh911.qzz.io/play-smt.php?id=inews_twn
 无线新闻台,https://smt.passwdword.xyz/Smart.php?id=inews_twn
 无线新闻台,https://tzh911.qzz.io/play-smt.php?id=inews_twn
-戲劇免費看 1台,https://4gtvmobile-mozai.4gtv.tv/QWBZcHw4Z4cOx7UvLBDaqdplbWGtdIfgLGlxB_A5LQM%3d/index.m3u8?token=uuiMFB2O1HoDRC4YCIRRAQ&expires=1764365009&token1=FhGwKmHs6M3r6I7xhMyEsQ&expires1=1764365009&refer=MDYxZDQyMGItNDk3NC00ZjZiLWE4NzQtMzllMTZiNTNlM2Uz&y=0
 戲劇免費看 1台,https://4gtvmobile-mozai.4gtv.tv/TtTcDHsBWXTyNzsZ56NigpFFJTYM2Y36u5mYfiwVftg%3d/index.m3u8?token=5QoFod24DHbkw-esrWDmQg&expires=1764376018&token1=d9DzPoC1Kh-k6ZWqUtMAfA&expires1=1764376018&refer=MDRkZWYxNjktNmE3Zi00NGEwLWE0YjMtNThkZjMwZjQ3M2E2&y=0
+戲劇免費看 1台,https://4gtvmobile-mozai.4gtv.tv/QWBZcHw4Z4cOx7UvLBDaqdplbWGtdIfgLGlxB_A5LQM%3d/index.m3u8?token=uuiMFB2O1HoDRC4YCIRRAQ&expires=1764365009&token1=FhGwKmHs6M3r6I7xhMyEsQ&expires1=1764365009&refer=MDYxZDQyMGItNDk3NC00ZjZiLWE4NzQtMzllMTZiNTNlM2Uz&y=0
 幸福空間居家台,https://4gtvmobile-mozai.4gtv.tv/uq1YfITIA1eoG4couaynYOBuAkUssy-ehv3oOzzSfG8%3d/index.m3u8?token=Dv2XNitucreaWt8SrqprXQ&expires=1764364568&token1=F3KjyjxbhL3uORLopLR9IQ&expires1=1764364568&refer=MmZmYjlhMTYtNDU5Zi00NDM3LWFhZjgtODRjNDExN2I0ZWJj&y=0
 幸福空間居家台,https://4gtvmobile-mozai.4gtv.tv/3vM6EtmHlM6ICyhmK6icB17_C-Ru76IOmKrRd2PilCY%3d/index.m3u8?token=P-rEOtVI9Ale9_942DbrfQ&expires=1764375534&token1=OPeMxkm3S2mQHCcAyDb1vw&expires1=1764375534&refer=MTcxZjhmMWYtMWViNS00ZDNhLTgwZTItNDJjMjk4MjBiMTBl&y=0
 亚洲TLC,https://smt.passwdword.xyz/Smart.php?id=tlc_twn
@@ -1410,8 +1410,8 @@ Zee Tamil,https://tmxk.pp.ua/smt.php?id=Zeetamil
 影迷數位電影台,https://tzh911.qzz.io/litv.php?id=4gtv-4gtv011
 影迷數位紀實台,https://4gtvmobile-mozai.4gtv.tv/-tEw1EXrkts97HsA0w1EwFCWW9zj-7yo-ijDUvBt6l8%3d/index.m3u8?token=l6hYyPwK3g53oSIRkHUQKA&expires=1764375701&token1=1oT1oJKBSlwADlLsp8SIyg&expires1=1764375701&refer=ZGUwYmI3MmItNmRkOC00MWVmLTkwMjItY2JhNmUzYjRlNDFj&y=0
 影迷數位紀實台,https://4gtvmobile-mozai.4gtv.tv/OAUDpqlJgo6Ypu3IAPcZHlNe19RnSqV60R83sa5J3cs%3d/index.m3u8?token=Kf91PPuuBtLB02qxu-EQEQ&expires=1764364722&token1=ODIH3BDaLIu5-o92nm7y9A&expires1=1764364722&refer=OWY4YzJhZWEtYmY4NS00YjQ3LTg2OGQtMmIwZjFmMWFlZDRj&y=0
-豬哥亮歌廳秀,https://4gtvmobile-mozai.4gtv.tv/ixVmHtwldqM29wvR5xMOa4wfOArwuSXJ24HIFvkUVw4%3d/index.m3u8?token=7lVJ7e24dz8_UQ-TFLTsTQ&expires=1764364249&token1=1igMEGdhth6vNMl2fYmJ3Q&expires1=1764364249&refer=MmRkODg5ZTUtODhjYy00NmZlLThkZmMtODljNzdmNmIxY2Q2&y=0
 豬哥亮歌廳秀,https://4gtvmobile-mozai.4gtv.tv/83Uy6cDkGwPTAXv7wzIDvbF8fKZTpfIAXPuc-biphDM%3d/index.m3u8?token=PjUcMqI2g_8i5odGsmBcxQ&expires=1764375179&token1=4AIqg4E0zgV4vJjA6u9m0Q&expires1=1764375179&refer=ODU2YTQzOTQtN2YwNi00ZmQwLTlmZDAtYjIyMTBhN2M0NWJh&y=0
+豬哥亮歌廳秀,https://4gtvmobile-mozai.4gtv.tv/ixVmHtwldqM29wvR5xMOa4wfOArwuSXJ24HIFvkUVw4%3d/index.m3u8?token=7lVJ7e24dz8_UQ-TFLTsTQ&expires=1764364249&token1=1igMEGdhth6vNMl2fYmJ3Q&expires1=1764364249&refer=MmRkODg5ZTUtODhjYy00NmZlLThkZmMtODljNzdmNmIxY2Q2&y=0
 
 体育,#genre#
 MUTV,https://bee.tzh911.qzz.io/bee.php?id=MUTV
