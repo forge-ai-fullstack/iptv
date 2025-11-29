@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251129081932 +0800">
+<tv date="20251129084309 +0800">
 	<channel id="CCTV1">
 		<display-name lang="zh">CCTV1</display-name>
 	</channel>
@@ -9665,6 +9665,12 @@
 	</programme>
 	<programme channel="超级电影" start="20251129130000 +0800" stop="20251129142100 +0800">
 		<title lang="zh">电影《兰若行者》</title>
+	</programme>
+	<programme channel="超级电影" start="20251129142100 +0800" stop="20251129154500 +0800">
+		<title lang="zh">电影《向阳农庄的罗曼史》</title>
+	</programme>
+	<programme channel="超级电影" start="20251129154500 +0800" stop="20251129170700 +0800">
+		<title lang="zh">电影《迷毒之东风破》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
