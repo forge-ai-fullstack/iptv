@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251129122832 +0800">
+<tv date="20251129130403 +0800">
 	<channel id="CCTV1">
 		<display-name lang="zh">CCTV1</display-name>
 	</channel>
@@ -6111,43 +6111,43 @@
 	<programme channel="新疆卫视" start="20251129004800 +0800" stop="20251129013400 +0800">
 		<title lang="zh">走西口(33)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251129013400 +0800" stop="20251129022000 +0800">
+	<programme channel="新疆卫视" start="20251129013400 +0800" stop="20251129022100 +0800">
 		<title lang="zh">走西口(34)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251129022000 +0800" stop="20251129030600 +0800">
+	<programme channel="新疆卫视" start="20251129022100 +0800" stop="20251129030700 +0800">
 		<title lang="zh">走西口(35)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251129030600 +0800" stop="20251129035200 +0800">
+	<programme channel="新疆卫视" start="20251129030700 +0800" stop="20251129035200 +0800">
 		<title lang="zh">走西口(36)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251129035200 +0800" stop="20251129041000 +0800">
-		<title lang="zh">新疆·面孔</title>
+	<programme channel="新疆卫视" start="20251129035200 +0800" stop="20251129041200 +0800">
+		<title lang="zh">我们都是追梦人:新疆·面孔</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251129041000 +0800" stop="20251129043300 +0800">
+	<programme channel="新疆卫视" start="20251129041200 +0800" stop="20251129043500 +0800">
 		<title lang="zh">法在身边</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251129043300 +0800" stop="20251129053100 +0800">
+	<programme channel="新疆卫视" start="20251129043500 +0800" stop="20251129050300 +0800">
 		<title lang="zh">真实纪录</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251129053100 +0800" stop="20251129062000 +0800">
+	<programme channel="新疆卫视" start="20251129050300 +0800" stop="20251129053300 +0800">
+		<title lang="zh">真实纪录</title>
+	</programme>
+	<programme channel="新疆卫视" start="20251129053300 +0800" stop="20251129061800 +0800">
 		<title lang="zh">第一声枪响(5)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251129062000 +0800" stop="20251129070900 +0800">
+	<programme channel="新疆卫视" start="20251129061800 +0800" stop="20251129070400 +0800">
 		<title lang="zh">第一声枪响(6)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251129070900 +0800" stop="20251129075900 +0800">
+	<programme channel="新疆卫视" start="20251129070400 +0800" stop="20251129080000 +0800">
 		<title lang="zh">第一声枪响(7)</title>
-	</programme>
-	<programme channel="新疆卫视" start="20251129075900 +0800" stop="20251129080000 +0800">
-		<title lang="zh">中华人民共和国国歌</title>
 	</programme>
 	<programme channel="新疆卫视" start="20251129080000 +0800" stop="20251129083200 +0800">
 		<title lang="zh">新疆新闻联播</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251129083200 +0800" stop="20251129084500 +0800">
+	<programme channel="新疆卫视" start="20251129083200 +0800" stop="20251129084400 +0800">
 		<title lang="zh">今日聚焦</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251129084500 +0800" stop="20251129091200 +0800">
+	<programme channel="新疆卫视" start="20251129084400 +0800" stop="20251129091200 +0800">
 		<title lang="zh">真实纪录</title>
 	</programme>
 	<programme channel="新疆卫视" start="20251129091200 +0800" stop="20251129101600 +0800">
@@ -6174,14 +6174,14 @@
 	<programme channel="新疆卫视" start="20251129154900 +0800" stop="20251129165600 +0800">
 		<title lang="zh">无间(39)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251129165600 +0800" stop="20251129180300 +0800">
+	<programme channel="新疆卫视" start="20251129165600 +0800" stop="20251129180000 +0800">
 		<title lang="zh">无间(40)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251129180300 +0800" stop="20251129181100 +0800">
+	<programme channel="新疆卫视" start="20251129180000 +0800" stop="20251129181000 +0800">
 		<title lang="zh">国宝时刻</title>
 	</programme>
-	<programme channel="新疆卫视" start="20251129181100 +0800" stop="20251129184000 +0800">
-		<title lang="zh">动画片</title>
+	<programme channel="新疆卫视" start="20251129181000 +0800" stop="20251129184000 +0800">
+		<title lang="zh">梦幻镇大魔法师</title>
 	</programme>
 	<programme channel="新疆卫视" start="20251129184000 +0800" stop="20251129190000 +0800">
 		<title lang="zh">新疆·面孔</title>
@@ -9623,6 +9623,9 @@
 	</programme>
 	<programme channel="超级电影" start="20251129170700 +0800" stop="20251129183200 +0800">
 		<title lang="zh">电影《猎仇者》</title>
+	</programme>
+	<programme channel="超级电影" start="20251129183200 +0800" stop="20251129200800 +0800">
+		<title lang="zh">电影《天b7火》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
