@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/forge-ai-fullstack/iptv/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-11-30 22:34:38
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-11-30 22:46:15
 http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=2025112312003424a7052d8f07486f89a64a86bb96984f&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20251123120034&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.89&SecurityKey=20251123120034&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=4b8f36f7ce446a707ddc3c40af609ef0&ddCalcu=04fbee829f803066ffa70c4ec434c6dad770
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视",CCTV1
 http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=2025112312003424a7052d8f07486f89a64a86bb96984f&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20251123120034&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.89&SecurityKey=20251123120034&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=4b8f36f7ce446a707ddc3c40af609ef0&ddCalcu=04fbee829f803066ffa70c4ec434c6dad770
@@ -619,10 +619,6 @@ http://gslbmgsplive.miguvideo.com/envivo_x/SD/lvyou/711/index.m3u8?msisdn=202511
 http://gslbmgsplive.miguvideo.com/envivo_x/SD/lvyou/711/index.m3u8?msisdn=20251124040029820a5196497d4ed0a5bdf78cf99ddb52&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20251124040029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=106.13.250.90&SecurityKey=20251124040029&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=ed18f3f126281fee8fc0c34db06122dd&ddCalcu=dedde2122871f0630fb1d24632c801cffe8e
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="卫视",河北卫视
 http://101.74.29.127:9901/tsfile/live/0117_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="卫视",河北卫视
-http://zhuoyue.sihanlin.top:9901/tsfile/live/0117_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="卫视",河北卫视
-http://118.193.105.26:9901/tsfile/live/0117_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视",河南卫视
 http://gslbmgsplive.miguvideo.com/wd-henanwssd-600/index.m3u8?msisdn=202511231000517d8484c5fd6544e0ac8e26dc21d4cb55&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20251123100051&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=106.13.250.90&SecurityKey=20251123100051&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=0920eb6f91a75f9bb2b8b4926109ebf0&ddCalcu=00f9eb22e009e00b166f29914ab785bf29bb
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视",河南卫视
@@ -769,12 +765,6 @@ http://gslbmgsplive.miguvideo.com/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisd
 http://jiugong.wulinsy.cn:39901/tsfile/live/0131_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="卫视",山东卫视
 http://101.74.29.127:9901/tsfile/live/0131_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="卫视",山东卫视
-http://zhuoyue.sihanlin.top:9901/tsfile/live/0131_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="卫视",山东卫视
-http://123.113.110.212:9901/tsfile/live/0131_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="卫视",山东卫视
-http://118.193.105.26:9901/tsfile/live/0131_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视",深圳卫视
 https://smt.passwdword.xyz/Smart.php?id=shenzhen
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视",深圳卫视
@@ -795,10 +785,6 @@ http://118.193.105.26:9901/tsfile/live/0110_1.m3u8?key=txiptv
 http://zhuoyue.sihanlin.top:9901/tsfile/live/0119_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="卫视",重庆卫视
 http://101.74.29.127:9901/tsfile/live/0142_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="卫视",重庆卫视
-http://zhuoyue.sihanlin.top:9901/tsfile/live/0142_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="卫视",重庆卫视
-http://118.193.105.26:9901/tsfile/live/0142_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大湾区卫视.png" group-title="卫视",大湾区卫视
 http://gslbmgsplive.miguvideo.com/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?msisdn=20251123100051b77f25ebef214449a3dabf573e2c556e&mdspid=&spid=699054&netType=0&sid=2200322852&pid=2028597139&timestamp=20251123100051&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608917627&ParentNodeID=-99&assertID=2200322852&client_ip=106.13.250.90&SecurityKey=20251123100051&promotionId=&mvid=2200322852&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=0d16022ee79bbdd758d06e04700b11fe&ddCalcu=e0fde112168b0002027e4e07e96b0bdd8d57
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大湾区卫视.png" group-title="卫视",大湾区卫视
@@ -1024,17 +1010,17 @@ https://smt.passwdword.xyz/Smart.php?id=daai_twn
 #EXTINF:-1 tvg-name="大愛電視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大愛電視.png" group-title="asia",大愛電視
 https://tzh911.qzz.io/play-smt.php?id=daai_twn
 #EXTINF:-1 tvg-name="大愛二台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大愛二台.png" group-title="asia",大愛二台
-https://4gtvmobile-mozai.4gtv.tv/JY33WbkixxOH905YQQrFYxw7Ua0UOBcte8K3KDcmhKQ%3d/index.m3u8?token=S8cjE4zWYNdAD0zGw-awmQ&expires=1764526747&token1=8S_RiQjerefLR1DTMAfpyw&expires1=1764526747&refer=NDBiMDYzMjUtMjIzMC00ZTQ4LTk2ODktYTNjYjAxZThkMzk2&y=0
-#EXTINF:-1 tvg-name="大愛二台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大愛二台.png" group-title="asia",大愛二台
 https://4gtvmobile-mozai.4gtv.tv/cn46xdpC11N7M15b1aIh-rwIe3kumyimggLl_KGYHUM%3d/index.m3u8?token=gXsmZ5t6Lh6y8YEC0IxFLQ&expires=1764515855&token1=DTWaizn35ofhYGYvjb6yIQ&expires1=1764515855&refer=OTE5YWM3NDAtZGE5MC00ZjMwLWIyNmQtMGVhOWQ1ZWQ2Yjkx&y=0
+#EXTINF:-1 tvg-name="大愛二台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大愛二台.png" group-title="asia",大愛二台
+https://4gtvmobile-mozai.4gtv.tv/JY33WbkixxOH905YQQrFYxw7Ua0UOBcte8K3KDcmhKQ%3d/index.m3u8?token=S8cjE4zWYNdAD0zGw-awmQ&expires=1764526747&token1=8S_RiQjerefLR1DTMAfpyw&expires1=1764526747&refer=NDBiMDYzMjUtMjIzMC00ZTQ4LTk2ODktYTNjYjAxZThkMzk2&y=0
 #EXTINF:-1 tvg-name="大愛二台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大愛二台.png" group-title="asia",大愛二台
 https://smt.passwdword.xyz/Smart.php?id=daai2_twn
 #EXTINF:-1 tvg-name="大愛二台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大愛二台.png" group-title="asia",大愛二台
 https://tzh911.qzz.io/play-smt.php?id=daai2_twn
 #EXTINF:-1 tvg-name="電影原聲台CMusic" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/電影原聲台CMusic.png" group-title="asia",電影原聲台CMusic
-https://4gtvmobile-mozai.4gtv.tv/kPVhE2gxruDjU2cBOGbBMZlypwO9h3WOOiePiW0JxfU%3d/index.m3u8?token=utSmV1WUwsDMFh5eRKsSfQ&expires=1764515398&token1=rmPjsD1kVIQiirsRscF1gg&expires1=1764515398&refer=NTVmYWYxZmQtZjY1YS00MWVhLWJjZDItYmUxY2NiZWMzYjA3&y=0
-#EXTINF:-1 tvg-name="電影原聲台CMusic" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/電影原聲台CMusic.png" group-title="asia",電影原聲台CMusic
 https://4gtvmobile-mozai.4gtv.tv/szAW5brou06ZrmaHqDfmmabu3CQ7f0CKPCbXfMmok0E%3d/index.m3u8?token=hSobx1oIeCdEn0Gv6iKNMw&expires=1764526331&token1=h1gUsG0A-5qKZhRZpBD6sg&expires1=1764526331&refer=ZTQyNjQxNDEtMzEzNy00ZDMzLTlhMzYtYTI5NWFmNjc5YzIy&y=0
+#EXTINF:-1 tvg-name="電影原聲台CMusic" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/電影原聲台CMusic.png" group-title="asia",電影原聲台CMusic
+https://4gtvmobile-mozai.4gtv.tv/kPVhE2gxruDjU2cBOGbBMZlypwO9h3WOOiePiW0JxfU%3d/index.m3u8?token=utSmV1WUwsDMFh5eRKsSfQ&expires=1764515398&token1=rmPjsD1kVIQiirsRscF1gg&expires1=1764515398&refer=NTVmYWYxZmQtZjY1YS00MWVhLWJjZDItYmUxY2NiZWMzYjA3&y=0
 #EXTINF:-1 tvg-name="东森财经新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森财经新闻.png" group-title="asia",东森财经新闻
 https://tzh911.qzz.io/litv.php?id=4gtv-4gtv153
 #EXTINF:-1 tvg-name="东森财经新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森财经新闻.png" group-title="asia",东森财经新闻
@@ -1152,9 +1138,9 @@ https://tzh911.qzz.io/play-smt.php?id=good2_twn
 #EXTINF:-1 tvg-name="好消息 2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/好消息 2.png" group-title="asia",好消息 2
 https://tmxk.pp.ua/smt.php?id=good2_twn
 #EXTINF:-1 tvg-name="好消息2台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/好消息2台.png" group-title="asia",好消息2台
-https://4gtvmobile-mozai.4gtv.tv/MGRTTFLGaR2p079IUzllPn9kzNyNy8xgnjtrO3Tkjng%3d/index.m3u8?token=NfGN6-XmdI0MYGngx0ab-w&expires=1764515845&token1=ygw7Kjl9k0U4Qt0uutr6fw&expires1=1764515845&refer=YTE2NDVhZjAtM2ZkNy00OWU3LThlMzktYzcxM2IyNmVkZGU5&y=0
-#EXTINF:-1 tvg-name="好消息2台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/好消息2台.png" group-title="asia",好消息2台
 https://4gtvmobile-mozai.4gtv.tv/q39P8AZUMi55VyPUBqp4Gpc1G8MarM29aQoCd-emroM%3d/index.m3u8?token=QmGSxz5UX0Y92TMrdXrpoA&expires=1764526739&token1=ZfA7thRT1-KO22kXrOuBZg&expires1=1764526739&refer=M2M2NDAxNDUtNmJmMy00NjQwLTgzZTItMjIwMjgwZDgxNWI0&y=0
+#EXTINF:-1 tvg-name="好消息2台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/好消息2台.png" group-title="asia",好消息2台
+https://4gtvmobile-mozai.4gtv.tv/MGRTTFLGaR2p079IUzllPn9kzNyNy8xgnjtrO3Tkjng%3d/index.m3u8?token=NfGN6-XmdI0MYGngx0ab-w&expires=1764515845&token1=ygw7Kjl9k0U4Qt0uutr6fw&expires1=1764515845&refer=YTE2NDVhZjAtM2ZkNy00OWU3LThlMzktYzcxM2IyNmVkZGU5&y=0
 #EXTINF:-1 tvg-name="好消息2台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/好消息2台.png" group-title="asia",好消息2台
 https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-ftv17
 #EXTINF:-1 tvg-name="好消息2台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/好消息2台.png" group-title="asia",好消息2台
@@ -1180,9 +1166,9 @@ https://tzh911.qzz.io/play-smt.php?id=huanyuxinwen_twn
 #EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/寰宇新闻台.png" group-title="asia",寰宇新闻台
 https://tmxk.pp.ua/smt.php?id=huanyuxinwen_twn
 #EXTINF:-1 tvg-name="金光布袋戲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金光布袋戲.png" group-title="asia",金光布袋戲
-https://4gtvmobile-mozai.4gtv.tv/-2bxV2sORIQt8RaYqjda2w-EoKZjyn4krPPmAsd-TrM%3d/index.m3u8?token=5dXgnK3iv4fdw8slU9ONjw&expires=1764526650&token1=0pOMFvL_4XYgR3j5ZFHWYQ&expires1=1764526650&refer=ZDAyNzUzZWMtNDk2ZC00MTFjLWExZGQtNzlmYWRiNTE4MTli&y=0
-#EXTINF:-1 tvg-name="金光布袋戲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金光布袋戲.png" group-title="asia",金光布袋戲
 https://4gtvmobile-mozai.4gtv.tv/EnUjwYunmdtoHCObrO6E966Ped2w-X6tMwh8Yk_QvXc%3d/index.m3u8?token=lfIvRyIbBGiSG-06YeZC7w&expires=1764515716&token1=BOk_jWzWU305omFvV1_w4g&expires1=1764515716&refer=NjcwNTQ1NzItMGU5Yy00M2NjLWFmMGYtNWUyMTIzMzZhMDI0&y=0
+#EXTINF:-1 tvg-name="金光布袋戲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金光布袋戲.png" group-title="asia",金光布袋戲
+https://4gtvmobile-mozai.4gtv.tv/-2bxV2sORIQt8RaYqjda2w-EoKZjyn4krPPmAsd-TrM%3d/index.m3u8?token=5dXgnK3iv4fdw8slU9ONjw&expires=1764526650&token1=0pOMFvL_4XYgR3j5ZFHWYQ&expires1=1764526650&refer=ZDAyNzUzZWMtNDk2ZC00MTFjLWExZGQtNzlmYWRiNTE4MTli&y=0
 #EXTINF:-1 tvg-name="經典電影台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/經典電影台.png" group-title="asia",經典電影台
 https://4gtvmobile-mozai.4gtv.tv/6EmPG4rJiI4-3pgEErvqTlAA8t2AOrz6OZFXQrvbq-w%3d/index.m3u8?token=IgO0SZlIV716m1W8d3ehTg&expires=1764526864&token1=FVkbg32MDdYeB0hFdCum_g&expires1=1764526864&refer=MmQ5ZTAzYzMtNzllMy00NTk3LWI5ZTMtMTY2NGQyNmZkYzg2&y=0
 #EXTINF:-1 tvg-name="經典電影台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/經典電影台.png" group-title="asia",經典電影台
@@ -1192,9 +1178,9 @@ https://4gtvmobile-mozai.4gtv.tv/-zctcIJQ_QD_LG4ZN6A4LDGLefk21T7JMKF_qScdVOg%3d/
 #EXTINF:-1 tvg-name="經典卡通台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/經典卡通台.png" group-title="asia",經典卡通台
 https://4gtvmobile-mozai.4gtv.tv/6RHg30PvnMcN4AjG5J2JqNV0emVBvreL7e3a6gpWOPQ%3d/index.m3u8?token=guayC5heApwvvr4w4_sTWQ&expires=1764526871&token1=sQUoeQY7Gl2qf65UpcpelA&expires1=1764526871&refer=ZWYxOTA3NWQtYThmYi00M2E4LThhMWMtMzBmMGM5NjEzMDVm&y=0
 #EXTINF:-1 tvg-name="精選動漫台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/精選動漫台.png" group-title="asia",精選動漫台
-https://4gtvmobile-mozai.4gtv.tv/9U4EhR0k54Ww-WHL5WpQUEYqU-79wvEdpCChh8OwSCM%3d/index.m3u8?token=doKpK9s8-MlAnMWVwZK8AQ&expires=1764515991&token1=CFmY47C8K0uqeom_CBl1Cg&expires1=1764515991&refer=Mzk5ZTlhMDctZWRhMC00NjJjLTk4ZDAtNmJhODgxNWJjYmI3&y=0
-#EXTINF:-1 tvg-name="精選動漫台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/精選動漫台.png" group-title="asia",精選動漫台
 https://4gtvmobile-mozai.4gtv.tv/MiN-8k1NGcGo6cPg2OhFtc60rlDtIlyfe4FibIThHMI%3d/index.m3u8?token=lsKonvIPGv_p_UQU3VN7fw&expires=1764526879&token1=r-uTqwjLQ4-v9-3QwEIurg&expires1=1764526879&refer=YzhjNTEwOTMtY2Q2OC00YjJmLWFjZjgtYjA3OWNhZDA3ZTU3&y=0
+#EXTINF:-1 tvg-name="精選動漫台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/精選動漫台.png" group-title="asia",精選動漫台
+https://4gtvmobile-mozai.4gtv.tv/9U4EhR0k54Ww-WHL5WpQUEYqU-79wvEdpCChh8OwSCM%3d/index.m3u8?token=doKpK9s8-MlAnMWVwZK8AQ&expires=1764515991&token1=CFmY47C8K0uqeom_CBl1Cg&expires1=1764515991&refer=Mzk5ZTlhMDctZWRhMC00NjJjLTk4ZDAtNmJhODgxNWJjYmI3&y=0
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视.png" group-title="asia",中视
 https://tzh911.qzz.io/litv.php?id=4gtv-4gtv040
 #EXTINF:-1 tvg-name="中视经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视经典.png" group-title="asia",中视经典
@@ -1386,9 +1372,9 @@ https://tzh911.qzz.io/litv.php?id=4gtv-4gtv047
 #EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天映画.png" group-title="asia",靖天映画
 https://tzh911.qzz.io/litv.php?id=4gtv-4gtv055
 #EXTINF:-1 tvg-name="靖天綜合台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天綜合台.png" group-title="asia",靖天綜合台
-https://4gtvmobile-mozai.4gtv.tv/n5TwsQjP90USCQD26Y6Eb13TvbNPxwgQO-auDOM165Y%3d/index.m3u8?token=p_1Qk5859rvHsMy9J-WLVQ&expires=1764525842&token1=_joK0a49t40mm140m9sgtQ&expires1=1764525842&refer=NTgyMDI4YjgtY2RiZi00MzlmLTk2OWYtZTBmNTA0MjcyYzcw&y=0
-#EXTINF:-1 tvg-name="靖天綜合台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天綜合台.png" group-title="asia",靖天綜合台
 https://4gtvmobile-mozai.4gtv.tv/QZqXXcc3tcksDKnFiIgyhUHwEar9MWGbOh7FmCrXrMQ%3d/index.m3u8?token=nRuBs64itVCIZlk14CTbWw&expires=1764515054&token1=Nipa-rAdozOii-XH9Lb6Gw&expires1=1764515054&refer=ODVhYzgwY2YtNjJhZi00MmQ3LWE3NWEtYmZlNTFkNzg1YWJm&y=0
+#EXTINF:-1 tvg-name="靖天綜合台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天綜合台.png" group-title="asia",靖天綜合台
+https://4gtvmobile-mozai.4gtv.tv/n5TwsQjP90USCQD26Y6Eb13TvbNPxwgQO-auDOM165Y%3d/index.m3u8?token=p_1Qk5859rvHsMy9J-WLVQ&expires=1764525842&token1=_joK0a49t40mm140m9sgtQ&expires1=1764525842&refer=NTgyMDI4YjgtY2RiZi00MzlmLTk2OWYtZTBmNTA0MjcyYzcw&y=0
 #EXTINF:-1 tvg-name="靖洋戏剧台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖洋戏剧台.png" group-title="asia",靖洋戏剧台
 https://tzh911.qzz.io/litv.php?id=4gtv-4gtv045
 #EXTINF:-1 tvg-name="ABC News" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ABC News.png" group-title="asia",ABC News
@@ -1908,9 +1894,9 @@ https://tmxk.pp.ua/smt.php?id=dw_twn
 #EXTINF:-1 tvg-name="EBS 1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/EBS 1.png" group-title="asia",EBS 1
 https://tmxk.pp.ua/smt.php?id=ebs1_korea
 #EXTINF:-1 tvg-name="ELTV生活英語台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ELTV生活英語台.png" group-title="asia",ELTV生活英語台
-https://4gtvmobile-mozai.4gtv.tv/yQJD48x8Hfi5bSiS4uBWE6850NPHO42hRTIs5Rv-g1w%3d/index.m3u8?token=NwLPbx7Gi-AQM3MG-Wt3Gg&expires=1764515158&token1=qei6-b919bExqpEMdb7SQQ&expires1=1764515158&refer=MWU5Mzk5NDUtYjJiZC00ZjE0LTgyMzctNDk1YTRjZWMxYTRh&y=0
-#EXTINF:-1 tvg-name="ELTV生活英語台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ELTV生活英語台.png" group-title="asia",ELTV生活英語台
 https://4gtvmobile-mozai.4gtv.tv/yEAz1z7IVPam5uPQSEetP1QYvm85Au-cKfGb2PN_YBw%3d/index.m3u8?token=_tp0MevFFY9taO9CG8-ERg&expires=1764525929&token1=c9cimWqC6vHixsS2H-n4eg&expires1=1764525929&refer=Mzc4NjBmMTQtMTMxOS00MWQ1LWI3NzktMTVmY2VmYTI0ZmE1&y=0
+#EXTINF:-1 tvg-name="ELTV生活英語台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ELTV生活英語台.png" group-title="asia",ELTV生活英語台
+https://4gtvmobile-mozai.4gtv.tv/yQJD48x8Hfi5bSiS4uBWE6850NPHO42hRTIs5Rv-g1w%3d/index.m3u8?token=NwLPbx7Gi-AQM3MG-Wt3Gg&expires=1764515158&token1=qei6-b919bExqpEMdb7SQQ&expires1=1764515158&refer=MWU5Mzk5NDUtYjJiZC00ZjE0LTgyMzctNDk1YTRjZWMxYTRh&y=0
 #EXTINF:-1 tvg-name="ELTV生活英語台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ELTV生活英語台.png" group-title="asia",ELTV生活英語台
 https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn20
 #EXTINF:-1 tvg-name="Entertain" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Entertain.png" group-title="asia",Entertain
@@ -1970,9 +1956,9 @@ https://tzh911.qzz.io/play-smt.php?id=freesports_antik
 #EXTINF:-1 tvg-name="Freesports" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Freesports.png" group-title="asia",Freesports
 https://tmxk.pp.ua/smt.php?id=freesports_antik
 #EXTINF:-1 tvg-name="Global Trekker" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Global Trekker.png" group-title="asia",Global Trekker
-https://4gtvmobile-mozai.4gtv.tv/HMKyaLhFvU0MiS_WiyPAKHhOQTBQM2n1iAEv3xrcAng%3d/index.m3u8?token=YlGcIo8YLyhExm1aX1apzw&expires=1764525881&token1=vA3zJSxXcnLFIj7ULI8Urw&expires1=1764525881&refer=Y2UwN2RiODAtMjU3ZC00MmE5LWExNGUtMDIwMjQ2OTg2OTM3&y=0
-#EXTINF:-1 tvg-name="Global Trekker" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Global Trekker.png" group-title="asia",Global Trekker
 https://4gtvmobile-mozai.4gtv.tv/wnX_4zsLA2WoQYiKjC3TglsyQ3DpRDQh2VCpeTM9Rgo%3d/index.m3u8?token=OwLr0-BVmJ-AcSoWPreoaQ&expires=1764515097&token1=9WXuz_tlhli8J_7uiyzb7g&expires1=1764515097&refer=ZjA3NjYzNDQtNzVlNy00NzcwLWFhZjktM2QyNTYwYmU4OTEy&y=0
+#EXTINF:-1 tvg-name="Global Trekker" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Global Trekker.png" group-title="asia",Global Trekker
+https://4gtvmobile-mozai.4gtv.tv/HMKyaLhFvU0MiS_WiyPAKHhOQTBQM2n1iAEv3xrcAng%3d/index.m3u8?token=YlGcIo8YLyhExm1aX1apzw&expires=1764525881&token1=vA3zJSxXcnLFIj7ULI8Urw&expires1=1764525881&refer=Y2UwN2RiODAtMjU3ZC00MmE5LWExNGUtMDIwMjQ2OTg2OTM3&y=0
 #EXTINF:-1 tvg-name="Gmm Channel" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Gmm Channel.png" group-title="asia",Gmm Channel
 https://smt.passwdword.xyz/Smart.php?id=gmmchannel_pat
 #EXTINF:-1 tvg-name="Gmm Channel" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Gmm Channel.png" group-title="asia",Gmm Channel
@@ -2080,9 +2066,9 @@ https://tzh911.qzz.io/play-smt.php?id=Lifestyle
 #EXTINF:-1 tvg-name="Lifestyle&Fashion" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Lifestyle&Fashion.png" group-title="asia",Lifestyle&Fashion
 https://tmxk.pp.ua/smt.php?id=Lifestyle
 #EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Love Nature.png" group-title="asia",Love Nature
-https://4gtvmobile-mozai.4gtv.tv/Yfa0662-DropO2RL_9X0xKY5zx2bEIFtTvAud8IdRGA%3d/index.m3u8?token=KCUr_YiWMFeToGVjCh2Mag&expires=1764526516&token1=tZmXxzfal8_hAMdkXYdLDQ&expires1=1764526516&refer=MjM0NDY2MDQtMWQxZC00OWU4LTlhOGItYmQxMjE1YTk1Y2Q2&y=0
-#EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Love Nature.png" group-title="asia",Love Nature
 https://4gtvmobile-mozai.4gtv.tv/6owDJAPDgCNnfWDbTmfGjmEftSeoeW5_nAx-Gpn_h3s%3d/index.m3u8?token=ABY1CPqDA-dDOP715w5Adg&expires=1764515554&token1=0fTeYrlomaW7xiwwfYvHRA&expires1=1764515554&refer=M2I4ZGRjODktZTE0ZC00ZmM0LWE4NDQtNTUzN2EyM2Y0ZDhl&y=0
+#EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Love Nature.png" group-title="asia",Love Nature
+https://4gtvmobile-mozai.4gtv.tv/Yfa0662-DropO2RL_9X0xKY5zx2bEIFtTvAud8IdRGA%3d/index.m3u8?token=KCUr_YiWMFeToGVjCh2Mag&expires=1764526516&token1=tZmXxzfal8_hAMdkXYdLDQ&expires1=1764526516&refer=MjM0NDY2MDQtMWQxZC00OWU4LTlhOGItYmQxMjE1YTk1Y2Q2&y=0
 #EXTINF:-1 tvg-name="Makkal TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Makkal TV.png" group-title="asia",Makkal TV
 https://smt.passwdword.xyz/Smart.php?id=Makkaltv
 #EXTINF:-1 tvg-name="Makkal TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Makkal TV.png" group-title="asia",Makkal TV
@@ -2326,9 +2312,9 @@ https://tzh911.qzz.io/play-smt.php?id=Rockaction
 #EXTINF:-1 tvg-name="Rock Actions" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Rock Actions.png" group-title="asia",Rock Actions
 https://tmxk.pp.ua/smt.php?id=Rockaction
 #EXTINF:-1 tvg-name="ROCK Entertainment" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ROCK Entertainment.png" group-title="asia",ROCK Entertainment
-https://4gtvmobile-mozai.4gtv.tv/Tbg4VJ9dmB9c1inYLzQu-QE0ZXpmzABx2e8HErp1ZkM%3d/index.m3u8?token=AXQyHaHX8wjasOrZhrhEcw&expires=1764515383&token1=Y0StgmZ0fV0OcYPZOxEvIg&expires1=1764515383&refer=OTc0OWY1ZTQtMGExOC00OWM3LWFkZGItODhhNGMxYjgzNjZl&y=0
-#EXTINF:-1 tvg-name="ROCK Entertainment" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ROCK Entertainment.png" group-title="asia",ROCK Entertainment
 https://4gtvmobile-mozai.4gtv.tv/UWSbF_y4bmHgxg9Rhmx0Hxqh4l14wjhINNfbYRTAhWI%3d/index.m3u8?token=HZELxNKvxWEQsHdbC8ECaA&expires=1764526306&token1=yprJRnmQYgUDvR4ft7eT5w&expires1=1764526306&refer=ODA2ZDU4ZWYtMmM4NC00ZmMzLTk4ZDUtYjk5ZjA2OTg2ZTZi&y=0
+#EXTINF:-1 tvg-name="ROCK Entertainment" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ROCK Entertainment.png" group-title="asia",ROCK Entertainment
+https://4gtvmobile-mozai.4gtv.tv/Tbg4VJ9dmB9c1inYLzQu-QE0ZXpmzABx2e8HErp1ZkM%3d/index.m3u8?token=AXQyHaHX8wjasOrZhrhEcw&expires=1764515383&token1=Y0StgmZ0fV0OcYPZOxEvIg&expires1=1764515383&refer=OTc0OWY1ZTQtMGExOC00OWM3LWFkZGItODhhNGMxYjgzNjZl&y=0
 #EXTINF:-1 tvg-name="RTHK 33" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK 33.png" group-title="asia",RTHK 33
 http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=2025112312003424a7052d8f07486f89a64a86bb96984f&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20251123120034&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.89&SecurityKey=20251123120034&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=4b8f36f7ce446a707ddc3c40af609ef0&ddCalcu=04fbee829f803066ffa70c4ec434c6dad770
 #EXTINF:-1 tvg-name="RTHK 33" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK 33.png" group-title="asia",RTHK 33
@@ -2588,9 +2574,9 @@ https://tzh911.qzz.io/play-smt.php?id=tptv_pat
 #EXTINF:-1 tvg-name="TPTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TPTV.png" group-title="asia",TPTV
 https://tmxk.pp.ua/smt.php?id=tptv_pat
 #EXTINF:-1 tvg-name="TRACE Sport Stars" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TRACE Sport Stars.png" group-title="asia",TRACE Sport Stars
-https://4gtvmobile-mozai.4gtv.tv/bUtyTioxpEFe40gLL0cwlV8mfU_ooK_1wc4MmT-JYKU%3d/index.m3u8?token=jMNx2jmDBNCmtXHD5-FbnA&expires=1764515450&token1=W2ZmqNNigOoC7Si3ghbNrg&expires1=1764515450&refer=NzEzNWRjMTMtZDkyOS00MjQ5LWE2MjEtZTMyNGM0MDZhMDQw&y=0
-#EXTINF:-1 tvg-name="TRACE Sport Stars" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TRACE Sport Stars.png" group-title="asia",TRACE Sport Stars
 https://4gtvmobile-mozai.4gtv.tv/bfmwILJTgbQoHSNb5NUvK5lX9SM89Mklui990oKUUNA%3d/index.m3u8?token=pMsOvIXvA4VjOjaM3ICE8w&expires=1764526414&token1=vZNYxD433zX81IcK0fcINA&expires1=1764526414&refer=MTkzNTljNDgtZTA0Ny00NWRlLThkNDEtODcyMmU1NWMzMTM2&y=0
+#EXTINF:-1 tvg-name="TRACE Sport Stars" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TRACE Sport Stars.png" group-title="asia",TRACE Sport Stars
+https://4gtvmobile-mozai.4gtv.tv/bUtyTioxpEFe40gLL0cwlV8mfU_ooK_1wc4MmT-JYKU%3d/index.m3u8?token=jMNx2jmDBNCmtXHD5-FbnA&expires=1764515450&token1=W2ZmqNNigOoC7Si3ghbNrg&expires1=1764515450&refer=NzEzNWRjMTMtZDkyOS00MjQ5LWE2MjEtZTMyNGM0MDZhMDQw&y=0
 #EXTINF:-1 tvg-name="TRACE Urban" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TRACE Urban.png" group-title="asia",TRACE Urban
 https://4gtvmobile-mozai.4gtv.tv/Y30qA3CcH2xNRndDJVpXzvOT55GvszHVfv4wjV17APg%3d/index.m3u8?token=pTrDlWR5X16wN-4p82w39A&expires=1764515404&token1=2Jx60vcuHwAC7Ju-ji_V2A&expires1=1764515404&refer=NDE5YzE2ZGUtY2Q3Ni00YjE5LWFhNzctZDBmMjc2ZDQzNmZj&y=0
 #EXTINF:-1 tvg-name="TRACE Urban" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TRACE Urban.png" group-title="asia",TRACE Urban
@@ -2748,9 +2734,9 @@ https://tzh911.qzz.io/play-smt.php?id=Zeetamil
 #EXTINF:-1 tvg-name="Zee Tamil" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Zee Tamil.png" group-title="asia",Zee Tamil
 https://tmxk.pp.ua/smt.php?id=Zeetamil
 #EXTINF:-1 tvg-name="客家電視台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/客家電視台.png" group-title="asia",客家電視台
-https://4gtvmobile-mozai.4gtv.tv/qQmTg3Vln97mO0nnZxETugr6vKuq8t9goSDbZtWt6mE%3d/index.m3u8?token=qFEVL0hJvqlwHXwYBx9CAg&expires=1764514992&token1=VhRQQzSZjx0M7Nty3_uhSQ&expires1=1764514992&refer=YzIwZWZkMjAtOWI1Ni00M2EzLTk3YjctYmQ3NDFmMjA4YmE0&y=0
-#EXTINF:-1 tvg-name="客家電視台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/客家電視台.png" group-title="asia",客家電視台
 https://4gtvmobile-mozai.4gtv.tv/6Dlo6FsxgOiFoty06x7UuIOl-G0N9lNCYu5TKroRI64%3d/index.m3u8?token=zRw0KM2VBakzNAW4xrcf9w&expires=1764525791&token1=UWhDGtDKvLDGAtCERtLY7w&expires1=1764525791&refer=OWMyMmM1OWEtMmUxYy00YzgzLThkNzQtM2M4NTJlOTZiYzc4&y=0
+#EXTINF:-1 tvg-name="客家電視台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/客家電視台.png" group-title="asia",客家電視台
+https://4gtvmobile-mozai.4gtv.tv/qQmTg3Vln97mO0nnZxETugr6vKuq8t9goSDbZtWt6mE%3d/index.m3u8?token=qFEVL0hJvqlwHXwYBx9CAg&expires=1764514992&token1=VhRQQzSZjx0M7Nty3_uhSQ&expires1=1764514992&refer=YzIwZWZkMjAtOWI1Ni00M2EzLTk3YjctYmQ3NDFmMjA4YmE0&y=0
 #EXTINF:-1 tvg-name="美食星球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美食星球.png" group-title="asia",美食星球
 https://smt.passwdword.xyz/Smart.php?id=foodplanet_twn
 #EXTINF:-1 tvg-name="美食星球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/美食星球.png" group-title="asia",美食星球
@@ -2764,13 +2750,13 @@ https://tzh911.qzz.io/play-smt.php?id=niandainews_twn
 #EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/年代新闻.png" group-title="asia",年代新闻
 https://tmxk.pp.ua/smt.php?id=niandainews_twn
 #EXTINF:-1 tvg-name="時尚運動X" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/時尚運動X.png" group-title="asia",時尚運動X
-https://4gtvmobile-mozai.4gtv.tv/6nMkLf_yfwZvUqQrmaEP4iQHUHfiqxfQbIPD0P7Vxm0%3d/index.m3u8?token=Rphc_v43LoJzh-UrZV0LbQ&expires=1764526432&token1=8-_dFpzfkCXJXc6et7UJNA&expires1=1764526432&refer=ZmViMDJjY2YtYmU5Mi00ZTJiLWE2YzAtYmRjNTdkOTM2ZWEy&y=0
-#EXTINF:-1 tvg-name="時尚運動X" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/時尚運動X.png" group-title="asia",時尚運動X
 https://4gtvmobile-mozai.4gtv.tv/X6_hq5dqF20DMnLoLCjwp8QJ-4gD3bndo9jbFf8HOPo%3d/index.m3u8?token=L22uDwsFpUYM27LfEztpcQ&expires=1764515473&token1=g51R0TtMXwkBGVUMc0Wq8Q&expires1=1764515473&refer=YmViMjg0MGMtNDMwMy00NTU4LWI1OWItNTJkYjdiODUwY2Vk&y=0
-#EXTINF:-1 tvg-name="視納華仁紀實頻道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/視納華仁紀實頻道.png" group-title="asia",視納華仁紀實頻道
-https://4gtvmobile-mozai.4gtv.tv/cSEEbauopSd-RlXc6rdTfuxHT8GbomA6QYHoofraMWg%3d/index.m3u8?token=pavzvyoVI0_lVMS6VhSrEA&expires=1764526631&token1=SgWQ6UheNt_aUNRArbaaPQ&expires1=1764526631&refer=ZTk3ODFmM2MtN2M1Yi00OTQ3LTg1N2MtZTcyNzZlMjEyNTU3&y=0
+#EXTINF:-1 tvg-name="時尚運動X" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/時尚運動X.png" group-title="asia",時尚運動X
+https://4gtvmobile-mozai.4gtv.tv/6nMkLf_yfwZvUqQrmaEP4iQHUHfiqxfQbIPD0P7Vxm0%3d/index.m3u8?token=Rphc_v43LoJzh-UrZV0LbQ&expires=1764526432&token1=8-_dFpzfkCXJXc6et7UJNA&expires1=1764526432&refer=ZmViMDJjY2YtYmU5Mi00ZTJiLWE2YzAtYmRjNTdkOTM2ZWEy&y=0
 #EXTINF:-1 tvg-name="視納華仁紀實頻道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/視納華仁紀實頻道.png" group-title="asia",視納華仁紀實頻道
 https://4gtvmobile-mozai.4gtv.tv/R0JH_dtkTb1OY3hrSy6zOP5_exvoEDOU_jtd-vfLwYc%3d/index.m3u8?token=4Rw7r3YwVzUxYAQI1FQ6fA&expires=1764515696&token1=mkOAhpmNIwkeIWAVST7s5A&expires1=1764515696&refer=NjAyNjE5MWEtNWEyYy00Nzk0LTk5N2ItOGZhZGU3OTA2YTQ0&y=0
+#EXTINF:-1 tvg-name="視納華仁紀實頻道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/視納華仁紀實頻道.png" group-title="asia",視納華仁紀實頻道
+https://4gtvmobile-mozai.4gtv.tv/cSEEbauopSd-RlXc6rdTfuxHT8GbomA6QYHoofraMWg%3d/index.m3u8?token=pavzvyoVI0_lVMS6VhSrEA&expires=1764526631&token1=SgWQ6UheNt_aUNRArbaaPQ&expires1=1764526631&refer=ZTk3ODFmM2MtN2M1Yi00OTQ3LTg1N2MtZTcyNzZlMjEyNTU3&y=0
 #EXTINF:-1 tvg-name="視納華仁紀實頻道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/視納華仁紀實頻道.png" group-title="asia",視納華仁紀實頻道
 https://tzh911.qzz.io/litv.php?id=4gtv-4gtv013
 #EXTINF:-1 tvg-name="卫视电影台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卫视电影台.png" group-title="asia",卫视电影台
@@ -2788,9 +2774,9 @@ https://smt.passwdword.xyz/Smart.php?id=inews_twn
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻台.png" group-title="asia",无线新闻台
 https://tzh911.qzz.io/play-smt.php?id=inews_twn
 #EXTINF:-1 tvg-name="戲劇免費看 1台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/戲劇免費看 1台.png" group-title="asia",戲劇免費看 1台
-https://4gtvmobile-mozai.4gtv.tv/si7XKUcuH9tr2QcVMja88Clik2MM-M3xdwpZ0i4F5Dg%3d/index.m3u8?token=8HF8lDc-hW8cE5D2k97R_A&expires=1764515999&token1=zGQThWr-ejmqZ_nJiD6cwg&expires1=1764515999&refer=ZTNhNjQyYjAtNDAzMC00NWZjLTgyODctNTA0NWRiZjA0NzZj&y=0
-#EXTINF:-1 tvg-name="戲劇免費看 1台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/戲劇免費看 1台.png" group-title="asia",戲劇免費看 1台
 https://4gtvmobile-mozai.4gtv.tv/qV_FrJrvG_FcXBzfRjZxci5l6NMmg6GUKaYKLNFNaj8%3d/index.m3u8?token=RrowiomnbM9LqwAuYsGivw&expires=1764526889&token1=4LmiN5vM4HTOmGVKgZNBkA&expires1=1764526889&refer=NDYwZDgxNjEtNTk4NC00MjY2LWJkYWUtNjdmMTA5MmFkMjA5&y=0
+#EXTINF:-1 tvg-name="戲劇免費看 1台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/戲劇免費看 1台.png" group-title="asia",戲劇免費看 1台
+https://4gtvmobile-mozai.4gtv.tv/si7XKUcuH9tr2QcVMja88Clik2MM-M3xdwpZ0i4F5Dg%3d/index.m3u8?token=8HF8lDc-hW8cE5D2k97R_A&expires=1764515999&token1=zGQThWr-ejmqZ_nJiD6cwg&expires1=1764515999&refer=ZTNhNjQyYjAtNDAzMC00NWZjLTgyODctNTA0NWRiZjA0NzZj&y=0
 #EXTINF:-1 tvg-name="幸福空間居家台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/幸福空間居家台.png" group-title="asia",幸福空間居家台
 https://4gtvmobile-mozai.4gtv.tv/jLWyrWVczUuXzU1DhJYxxulb8ZYgcmgoqXqeTs8tBo0%3d/index.m3u8?token=40ohMQuCpCkfmSWw9cA1pg&expires=1764515544&token1=6kiT1mBImlT-0wTc0g_CLw&expires1=1764515544&refer=NDQ2MTA4OGMtMDUyNy00MDIyLTg5MDgtMTkzODA2YWFjMzI3&y=0
 #EXTINF:-1 tvg-name="幸福空間居家台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/幸福空間居家台.png" group-title="asia",幸福空間居家台
@@ -2822,9 +2808,9 @@ https://4gtvmobile-mozai.4gtv.tv/meSUnFXpk_EhXV9BJGG22QEltmqsZL-lFXc-m76XKDU%3d/
 #EXTINF:-1 tvg-name="影迷數位紀實台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/影迷數位紀實台.png" group-title="asia",影迷數位紀實台
 https://4gtvmobile-mozai.4gtv.tv/38bXgRjPnRsoZOJmqYFrgDfYmt6oINL6NkKPsY1BehU%3d/index.m3u8?token=R19mBtrgwEy1aX8FNEY54w&expires=1764515707&token1=Apw4qu6LaJZoNd4IZz_dqQ&expires1=1764515707&refer=ZGNkZTE2NTktYjIxZS00NDRkLWE0ZGMtNGNiNzAwOTE3NjQz&y=0
 #EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/豬哥亮歌廳秀.png" group-title="asia",豬哥亮歌廳秀
-https://4gtvmobile-mozai.4gtv.tv/UUvNF8rFshwtcYCJk5Y9YdgVk16y7K0zTfblcTnlWTY%3d/index.m3u8?token=M5OZwwjW8w0ROtmbIT8RZw&expires=1764526215&token1=mT2xtZ-A0qEc2NhFeQG-4w&expires1=1764526215&refer=NGFjZjY2ODktNzcxMy00YjZlLWIxYjUtMTg5NjU4ZGJlNTA2&y=0
-#EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/豬哥亮歌廳秀.png" group-title="asia",豬哥亮歌廳秀
 https://4gtvmobile-mozai.4gtv.tv/qr--mNcpJn-JzcZxad_8BbIbt-HWADBvN7gzzENp9G8%3d/index.m3u8?token=MK2S3ljy3ZmzPFLliHZG5Q&expires=1764515336&token1=w4zP27uwA3NgxsJsfVsV-Q&expires1=1764515336&refer=ZDFhZWYwYjItYWZkZi00ZTQ3LWFjNzItYjIyZGU1NzNjYzBl&y=0
+#EXTINF:-1 tvg-name="豬哥亮歌廳秀" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/豬哥亮歌廳秀.png" group-title="asia",豬哥亮歌廳秀
+https://4gtvmobile-mozai.4gtv.tv/UUvNF8rFshwtcYCJk5Y9YdgVk16y7K0zTfblcTnlWTY%3d/index.m3u8?token=M5OZwwjW8w0ROtmbIT8RZw&expires=1764526215&token1=mT2xtZ-A0qEc2NhFeQG-4w&expires1=1764526215&refer=NGFjZjY2ODktNzcxMy00YjZlLWIxYjUtMTg5NjU4ZGJlNTA2&y=0
 #EXTINF:-1 tvg-name="MUTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/MUTV.png" group-title="体育",MUTV
 https://bee.tzh911.qzz.io/bee.php?id=MUTV
 #EXTINF:-1 tvg-name="智林体育台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/智林体育台.png" group-title="体育",智林体育台
